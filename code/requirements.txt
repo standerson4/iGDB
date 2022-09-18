@@ -1,0 +1,11 @@
+geopandas
+graphqlclient
+matplotlib
+networkx
+numpy
+pandas
+requests
+ripe.atlas.cousteau
+rtree
+selenium
+shapely

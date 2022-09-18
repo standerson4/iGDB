@@ -1,0 +1,2367 @@
+CABLE_ID,CITY_NAME,STATE_PROVINCE,COUNTRY,ACTIVE,SOURCE,ASOF_DATE
+2africa,Luanda,,Angola,True,Telegeography,2022-04-11
+2africa,Manama,,Bahrain,True,Telegeography,2022-04-11
+2africa,Moroni,,Comoros,True,Telegeography,2022-04-11
+2africa,Muanda, Congo,Dem. Rep.,True,Telegeography,2022-04-11
+2africa,Pointe-Noire, Congo,Rep.,True,Telegeography,2022-04-11
+2africa,Abidjan,,Côte d''Ivoire,True,Telegeography,2022-04-11
+2africa,Djibouti City,,Djibouti,True,Telegeography,2022-04-11
+2africa,Port Said,,Egypt,True,Telegeography,2022-04-11
+2africa,Ras Ghareb,,Egypt,True,Telegeography,2022-04-11
+2africa,Suez,,Egypt,True,Telegeography,2022-04-11
+2africa,Zafarana,,Egypt,True,Telegeography,2022-04-11
+2africa,Marseille,,France,True,Telegeography,2022-04-11
+2africa,Libreville,,Gabon,True,Telegeography,2022-04-11
+2africa,Accra,,Ghana,True,Telegeography,2022-04-11
+2africa,Mumbai,,India,True,Telegeography,2022-04-11
+2africa,Al Faw,,Iraq,True,Telegeography,2022-04-11
+2africa,Genoa,,Italy,True,Telegeography,2022-04-11
+2africa,Mombasa,,Kenya,True,Telegeography,2022-04-11
+2africa,Kuwait City,,Kuwait,True,Telegeography,2022-04-11
+2africa,Mahajanga,,Madagascar,True,Telegeography,2022-04-11
+2africa,Maputo,,Mozambique,True,Telegeography,2022-04-11
+2africa,Nacala,,Mozambique,True,Telegeography,2022-04-11
+2africa,Kwa Ibo,,Nigeria,True,Telegeography,2022-04-11
+2africa,Lagos,,Nigeria,True,Telegeography,2022-04-11
+2africa,Barka,,Oman,True,Telegeography,2022-04-11
+2africa,Salalah,,Oman,True,Telegeography,2022-04-11
+2africa,Karachi,,Pakistan,True,Telegeography,2022-04-11
+2africa,Carcavelos,,Portugal,True,Telegeography,2022-04-11
+2africa,Doha,,Qatar,True,Telegeography,2022-04-11
+2africa,Al Khobar,,Saudi Arabia,True,Telegeography,2022-04-11
+2africa,Duba,,Saudi Arabia,True,Telegeography,2022-04-11
+2africa,Jeddah,,Saudi Arabia,True,Telegeography,2022-04-11
+2africa,Yanbu,,Saudi Arabia,True,Telegeography,2022-04-11
+2africa,Dakar,,Senegal,True,Telegeography,2022-04-11
+2africa,Carana,,Seychelles,True,Telegeography,2022-04-11
+2africa,Mogadishu,,Somalia,True,Telegeography,2022-04-11
+2africa,Cape Town,,South Africa,True,Telegeography,2022-04-11
+2africa,Mtunzini,,South Africa,True,Telegeography,2022-04-11
+2africa,Port Elizabeth,,South Africa,True,Telegeography,2022-04-11
+2africa,Barcelona,,Spain,True,Telegeography,2022-04-11
+2africa,Gran Canaria, Canary Islands,Spain,True,Telegeography,2022-04-11
+2africa,Port Sudan,,Sudan,True,Telegeography,2022-04-11
+2africa,Dar Es Salaam,,Tanzania,True,Telegeography,2022-04-11
+2africa,Abu Dhabi,,United Arab Emirates,True,Telegeography,2022-04-11
+2africa,Kalba,,United Arab Emirates,True,Telegeography,2022-04-11
+2africa,Bude,,United Kingdom,True,Telegeography,2022-04-11
+2africa,Luanda,,Angola,True,Telegeography,2022-09-14
+2africa,Manama,,Bahrain,True,Telegeography,2022-09-14
+2africa,Moroni,,Comoros,True,Telegeography,2022-09-14
+2africa,Muanda, Congo,Dem. Rep.,True,Telegeography,2022-09-14
+2africa,Pointe-Noire, Congo,Rep.,True,Telegeography,2022-09-14
+2africa,Abidjan,,Côte d''Ivoire,True,Telegeography,2022-09-14
+2africa,Djibouti City,,Djibouti,True,Telegeography,2022-09-14
+2africa,Port Said,,Egypt,True,Telegeography,2022-09-14
+2africa,Ras Ghareb,,Egypt,True,Telegeography,2022-09-14
+2africa,Suez,,Egypt,True,Telegeography,2022-09-14
+2africa,Zafarana,,Egypt,True,Telegeography,2022-09-14
+2africa,Marseille,,France,True,Telegeography,2022-09-14
+2africa,Libreville,,Gabon,True,Telegeography,2022-09-14
+2africa,Accra,,Ghana,True,Telegeography,2022-09-14
+2africa,Tympaki,,Greece,True,Telegeography,2022-09-14
+2africa,Mumbai,,India,True,Telegeography,2022-09-14
+2africa,Al Faw,,Iraq,True,Telegeography,2022-09-14
+2africa,Genoa,,Italy,True,Telegeography,2022-09-14
+2africa,Mombasa,,Kenya,True,Telegeography,2022-09-14
+2africa,Kuwait City,,Kuwait,True,Telegeography,2022-09-14
+2africa,Mahajanga,,Madagascar,True,Telegeography,2022-09-14
+2africa,Maputo,,Mozambique,True,Telegeography,2022-09-14
+2africa,Nacala,,Mozambique,True,Telegeography,2022-09-14
+2africa,Kwa Ibo,,Nigeria,True,Telegeography,2022-09-14
+2africa,Lagos,,Nigeria,True,Telegeography,2022-09-14
+2africa,Barka,,Oman,True,Telegeography,2022-09-14
+2africa,Salalah,,Oman,True,Telegeography,2022-09-14
+2africa,Karachi,,Pakistan,True,Telegeography,2022-09-14
+2africa,Carcavelos,,Portugal,True,Telegeography,2022-09-14
+2africa,Doha,,Qatar,True,Telegeography,2022-09-14
+2africa,Al Khobar,,Saudi Arabia,True,Telegeography,2022-09-14
+2africa,Duba,,Saudi Arabia,True,Telegeography,2022-09-14
+2africa,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+2africa,Yanbu,,Saudi Arabia,True,Telegeography,2022-09-14
+2africa,Dakar,,Senegal,True,Telegeography,2022-09-14
+2africa,Carana,,Seychelles,True,Telegeography,2022-09-14
+2africa,Berbera,,Somalia,True,Telegeography,2022-09-14
+2africa,Mogadishu,,Somalia,True,Telegeography,2022-09-14
+2africa,Cape Town,,South Africa,True,Telegeography,2022-09-14
+2africa,Mtunzini,,South Africa,True,Telegeography,2022-09-14
+2africa,Port Elizabeth,,South Africa,True,Telegeography,2022-09-14
+2africa,Barcelona,,Spain,True,Telegeography,2022-09-14
+2africa,Gran Canaria, Canary Islands,Spain,True,Telegeography,2022-09-14
+2africa,Port Sudan,,Sudan,True,Telegeography,2022-09-14
+2africa,Dar Es Salaam,,Tanzania,True,Telegeography,2022-09-14
+2africa,Abu Dhabi,,United Arab Emirates,True,Telegeography,2022-09-14
+2africa,Kalba,,United Arab Emirates,True,Telegeography,2022-09-14
+2africa,Bude,,United Kingdom,True,Telegeography,2022-09-14
+acs-alaska-oregon-network-akorn,Anchorage, AK,United States,True,Telegeography,2022-09-14
+acs-alaska-oregon-network-akorn,Florence, OR,United States,True,Telegeography,2022-09-14
+acs-alaska-oregon-network-akorn,Homer, AK,United States,True,Telegeography,2022-09-14
+acs-alaska-oregon-network-akorn,Nikiski, AK,United States,True,Telegeography,2022-09-14
+aden-djibouti,Djibouti City,,Djibouti,True,Telegeography,2022-09-14
+aden-djibouti,Aden,,Yemen,True,Telegeography,2022-09-14
+adria-1,Durres,,Albania,True,Telegeography,2022-09-14
+adria-1,Dubrovnik,,Croatia,True,Telegeography,2022-09-14
+adria-1,Corfu,,Greece,True,Telegeography,2022-09-14
+aec-1,Killala,,Ireland,True,Telegeography,2022-09-14
+aec-1,Shirley, NY,United States,True,Telegeography,2022-09-14
+africa-1,Djibouti City,,Djibouti,True,Telegeography,2022-09-14
+africa-1,Port Said,,Egypt,True,Telegeography,2022-09-14
+africa-1,Ras Ghareb,,Egypt,True,Telegeography,2022-09-14
+africa-1,Marseille,,France,True,Telegeography,2022-09-14
+africa-1,Mombasa,,Kenya,True,Telegeography,2022-09-14
+africa-1,Karachi,,Pakistan,True,Telegeography,2022-09-14
+africa-1,Duba,,Saudi Arabia,True,Telegeography,2022-09-14
+africa-1,Berbera,,Somalia,True,Telegeography,2022-09-14
+africa-1,Kalba,,United Arab Emirates,True,Telegeography,2022-09-14
+africa-1,Mocha,,Yemen,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Cotonou,,Benin,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Kribi,,Cameroon,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Abidjan,,Côte d''Ivoire,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Bata,,Equatorial Guinea,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Penmarch,,France,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Libreville,,Gabon,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Banjul,,Gambia,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Accra,,Ghana,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Conakry,,Guinea,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Suro,,Guinea-Bissau,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Monrovia,,Liberia,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Nouakchott,,Mauritania,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Lagos,,Nigeria,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Carcavelos,,Portugal,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Sao Tome,,Sao Tome and Principe,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Dakar,,Senegal,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Freetown,,Sierra Leone,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Duynefontein,,South Africa,True,Telegeography,2022-09-14
+africa-coast-to-europe-ace,Granadilla, Canary Islands,Spain,True,Telegeography,2022-09-14
+alaska-united-east-au-east,Juneau, AK,United States,True,Telegeography,2022-09-14
+alaska-united-east-au-east,Lynnwood, WA,United States,True,Telegeography,2022-09-14
+alaska-united-east-au-east,Valdez, AK,United States,True,Telegeography,2022-09-14
+alaska-united-east-au-east,Whittier, AK,United States,True,Telegeography,2022-09-14
+alaska-united-southeast-au-se,Angoon, AK,United States,True,Telegeography,2022-09-14
+alaska-united-southeast-au-se,Hawk Inlet, AK,United States,True,Telegeography,2022-09-14
+alaska-united-southeast-au-se,Ketchikan, AK,United States,True,Telegeography,2022-09-14
+alaska-united-southeast-au-se,Petersburg, AK,United States,True,Telegeography,2022-09-14
+alaska-united-southeast-au-se,Sitka, AK,United States,True,Telegeography,2022-09-14
+alaska-united-southeast-au-se,Wrangell, AK,United States,True,Telegeography,2022-09-14
+alaska-united-turnagain-arm-auta,McHugh Point, AK,United States,True,Telegeography,2022-09-14
+alaska-united-turnagain-arm-auta,Portage, AK,United States,True,Telegeography,2022-09-14
+alaska-united-west-au-west,Ketchikan, AK,United States,True,Telegeography,2022-09-14
+alaska-united-west-au-west,Seward, AK,United States,True,Telegeography,2022-09-14
+alaska-united-west-au-west,Warrenton, OR,United States,True,Telegeography,2022-09-14
+alba-1,Santiago de Cuba,,Cuba,True,Telegeography,2022-09-14
+alba-1,Siboney,,Cuba,True,Telegeography,2022-09-14
+alba-1,Ocho Rios,,Jamaica,True,Telegeography,2022-09-14
+alba-1,La Guaira,,Venezuela,True,Telegeography,2022-09-14
+aletar,Alexandria,,Egypt,True,Telegeography,2022-09-14
+aletar,Tartous,,Syria,True,Telegeography,2022-09-14
+alonso-de-ojeda,Baby Beach,,Aruba,True,Telegeography,2022-09-14
+alonso-de-ojeda,Willemstad,,Curaçao,True,Telegeography,2022-09-14
+alpal-2,El Djamila,,Algeria,True,Telegeography,2022-09-14
+alpal-2,Ses Covetes,,Spain,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,Fortaleza,,Brazil,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,Rio de Janeiro,,Brazil,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,Salvador,,Brazil,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,Barranquilla,,Colombia,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,Cartagena,,Colombia,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,Schooner Bight,,Colombia,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,Puerto Plata,,Dominican Republic,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,Puerto Barrios,,Guatemala,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,Cancún,,Mexico,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,Hollywood, FL,United States,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,Jacksonville, FL,United States,True,Telegeography,2022-09-14
+america-movil-submarine-cable-system-1-amx-1,San Juan, PR,United States,True,Telegeography,2022-09-14
+americas-i-north,Magen’s Bay, VI,United States,True,Telegeography,2022-09-14
+americas-i-north,Vero Beach, FL,United States,True,Telegeography,2022-09-14
+americas-ii,Fortaleza,,Brazil,True,Telegeography,2022-09-14
+americas-ii,Willemstad,,Curaçao,True,Telegeography,2022-09-14
+americas-ii,Cayenne,,French Guiana,True,Telegeography,2022-09-14
+americas-ii,Le Lamentin,,Martinique,True,Telegeography,2022-09-14
+americas-ii,Port of Spain,,Trinidad and Tobago,True,Telegeography,2022-09-14
+americas-ii,Hollywood, FL,United States,True,Telegeography,2022-09-14
+americas-ii,Miramar, PR,United States,True,Telegeography,2022-09-14
+americas-ii,Camuri,,Venezuela,True,Telegeography,2022-09-14
+americas-ii,St. Croix,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+amerigo-vespucci,Willemstad,,Curaçao,True,Telegeography,2022-09-14
+amerigo-vespucci,Kralendijk, Bonaire,Netherlands,True,Telegeography,2022-09-14
+amitie,Le Porge,,France,True,Telegeography,2022-09-14
+amitie,Bude,,United Kingdom,True,Telegeography,2022-09-14
+amitie,Lynn, MA,United States,True,Telegeography,2022-09-14
+antillas-1,Punta Cana,,Dominican Republic,True,Telegeography,2022-09-14
+antillas-1,Santo Domingo,,Dominican Republic,True,Telegeography,2022-09-14
+antillas-1,Isla Verde, PR,United States,True,Telegeography,2022-09-14
+antillas-1,Miramar, PR,United States,True,Telegeography,2022-09-14
+apcn-2,Chongming,,China,True,Telegeography,2022-09-14
+apcn-2,Lantau Island,,China,True,Telegeography,2022-09-14
+apcn-2,Shantou,,China,True,Telegeography,2022-09-14
+apcn-2,Chikura,,Japan,True,Telegeography,2022-09-14
+apcn-2,Kitaibaraki,,Japan,True,Telegeography,2022-09-14
+apcn-2,Kuantan,,Malaysia,True,Telegeography,2022-09-14
+apcn-2,Batangas,,Philippines,True,Telegeography,2022-09-14
+apcn-2,Katong,,Singapore,True,Telegeography,2022-09-14
+apcn-2,Busan,,South Korea,True,Telegeography,2022-09-14
+apcn-2,Tanshui,,Taiwan,True,Telegeography,2022-09-14
+apollo-east-and-west,Korakia,,Greece,True,Telegeography,2022-09-14
+apollo-east-and-west,Pachi,,Greece,True,Telegeography,2022-09-14
+apollo,Lannion,,France,True,Telegeography,2022-09-14
+apollo,Bude,,United Kingdom,True,Telegeography,2022-09-14
+apollo,Manasquan, NJ,United States,True,Telegeography,2022-09-14
+apollo,Shirley, NY,United States,True,Telegeography,2022-09-14
+apricot,Agat,,Guam,True,Telegeography,2022-09-14
+apricot,Batam,,Indonesia,True,Telegeography,2022-09-14
+apricot,Tanjung Pakis,,Indonesia,True,Telegeography,2022-09-14
+apricot,Minamiboso,,Japan,True,Telegeography,2022-09-14
+apricot,Baler,,Philippines,True,Telegeography,2022-09-14
+apricot,Davao,,Philippines,True,Telegeography,2022-09-14
+apricot,Tuas,,Singapore,True,Telegeography,2022-09-14
+apricot,Toucheng,,Taiwan,True,Telegeography,2022-09-14
+aqualink,Auckland,,New Zealand,True,Telegeography,2022-09-14
+aqualink,Christchurch,,New Zealand,True,Telegeography,2022-09-14
+aqualink,Kaikoura,,New Zealand,True,Telegeography,2022-09-14
+aqualink,New Plymouth,,New Zealand,True,Telegeography,2022-09-14
+aqualink,Oara,,New Zealand,True,Telegeography,2022-09-14
+aqualink,Paraparaumu,,New Zealand,True,Telegeography,2022-09-14
+aqualink,Raglan,,New Zealand,True,Telegeography,2022-09-14
+aqualink,Titahi Bay,,New Zealand,True,Telegeography,2022-09-14
+aqualink,Waikanae,,New Zealand,True,Telegeography,2022-09-14
+aqualink,Wellington,,New Zealand,True,Telegeography,2022-09-14
+aqualink,Whanganui,,New Zealand,True,Telegeography,2022-09-14
+arcos,Cat Island,,Bahamas,True,Telegeography,2022-09-14
+arcos,Crooked Island,,Bahamas,True,Telegeography,2022-09-14
+arcos,Nassau,,Bahamas,True,Telegeography,2022-09-14
+arcos,Belize City,,Belize,True,Telegeography,2022-09-14
+arcos,Cartagena,,Colombia,True,Telegeography,2022-09-14
+arcos,Riohacha,,Colombia,True,Telegeography,2022-09-14
+arcos,Puerto Limon,,Costa Rica,True,Telegeography,2022-09-14
+arcos,Willemstad,,Curaçao,True,Telegeography,2022-09-14
+arcos,Puerto Plata,,Dominican Republic,True,Telegeography,2022-09-14
+arcos,Punta Cana,,Dominican Republic,True,Telegeography,2022-09-14
+arcos,Puerto Barrios,,Guatemala,True,Telegeography,2022-09-14
+arcos,Puerto Cortes,,Honduras,True,Telegeography,2022-09-14
+arcos,Puerto Lempira,,Honduras,True,Telegeography,2022-09-14
+arcos,Trujillo,,Honduras,True,Telegeography,2022-09-14
+arcos,Cancún,,Mexico,True,Telegeography,2022-09-14
+arcos,Tulum,,Mexico,True,Telegeography,2022-09-14
+arcos,Bluefields,,Nicaragua,True,Telegeography,2022-09-14
+arcos,Puerto Cabezas,,Nicaragua,True,Telegeography,2022-09-14
+arcos,Maria Chiquita,,Panama,True,Telegeography,2022-09-14
+arcos,Providenciales,,Turks and Caicos Islands,True,Telegeography,2022-09-14
+arcos,Isla Verde, PR,United States,True,Telegeography,2022-09-14
+arcos,North Miami Beach, FL,United States,True,Telegeography,2022-09-14
+arcos,Punto Fijo,,Venezuela,True,Telegeography,2022-09-14
+arsat-submarine-fiber-optic-cable,Cabo Espiritu Santo ,,Argentina,True,Telegeography,2022-09-14
+arsat-submarine-fiber-optic-cable,Punta Dungeness,,Argentina,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Sihanoukville,,Cambodia,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Cape D’Aguilar,,China,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Djibouti City,,Djibouti,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Abu Talat,,Egypt,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Zafarana,,Egypt,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Marseille,,France,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Chania,,Greece,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Mumbai,,India,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Bari,,Italy,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Butterworth,,Malaysia,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Ngwe Saung,,Myanmar,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Al Bustan,,Oman,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Karachi,,Pakistan,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Doha,,Qatar,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Satun,,Thailand,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Songkhla,,Thailand,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Vung Tau,,Vietnam,True,Telegeography,2022-09-14
+asia-africa-europe-1-aae-1,Aden,,Yemen,True,Telegeography,2022-09-14
+asia-america-gateway-aag-cable-system,Tungku,,Brunei,True,Telegeography,2022-09-14
+asia-america-gateway-aag-cable-system,Lantau Island,,China,True,Telegeography,2022-09-14
+asia-america-gateway-aag-cable-system,Tanguisson Point,,Guam,True,Telegeography,2022-09-14
+asia-america-gateway-aag-cable-system,Mersing,,Malaysia,True,Telegeography,2022-09-14
+asia-america-gateway-aag-cable-system,La Union,,Philippines,True,Telegeography,2022-09-14
+asia-america-gateway-aag-cable-system,Changi North,,Singapore,True,Telegeography,2022-09-14
+asia-america-gateway-aag-cable-system,Sriracha,,Thailand,True,Telegeography,2022-09-14
+asia-america-gateway-aag-cable-system,Keawaula, HI,United States,True,Telegeography,2022-09-14
+asia-america-gateway-aag-cable-system,San Luis Obispo, CA,United States,True,Telegeography,2022-09-14
+asia-america-gateway-aag-cable-system,Vung Tau,,Vietnam,True,Telegeography,2022-09-14
+asia-connect-cable-1-acc1,Darwin, NT,Australia,True,Telegeography,2022-09-14
+asia-connect-cable-1-acc1,Piti,,Guam,False,Telegeography,2022-09-14
+asia-connect-cable-1-acc1,Batam,,Indonesia,True,Telegeography,2022-09-14
+asia-connect-cable-1-acc1,Jakarta,,Indonesia,True,Telegeography,2022-09-14
+asia-connect-cable-1-acc1,Makassar,,Indonesia,True,Telegeography,2022-09-14
+asia-connect-cable-1-acc1,Manado,,Indonesia,True,Telegeography,2022-09-14
+asia-connect-cable-1-acc1,Medan,,Indonesia,True,Telegeography,2022-09-14
+asia-connect-cable-1-acc1,Singapore,,Singapore,True,Telegeography,2022-09-14
+asia-connect-cable-1-acc1,Dili,,Timor-Leste,True,Telegeography,2022-09-14
+asia-connect-cable-1-acc1,Los Angeles, CA,United States,False,Telegeography,2022-09-14
+asia-direct-cable-adc,Chung Hom Kok,,China,True,Telegeography,2022-09-14
+asia-direct-cable-adc,Shantou,,China,True,Telegeography,2022-09-14
+asia-direct-cable-adc,Maruyama,,Japan,True,Telegeography,2022-09-14
+asia-direct-cable-adc,Batangas,,Philippines,True,Telegeography,2022-09-14
+asia-direct-cable-adc,Tuas,,Singapore,True,Telegeography,2022-09-14
+asia-direct-cable-adc,Sriracha,,Thailand,True,Telegeography,2022-09-14
+asia-direct-cable-adc,Quy Nhon,,Vietnam,True,Telegeography,2022-09-14
+asia-pacific-gateway-apg,Chongming,,China,True,Telegeography,2022-09-14
+asia-pacific-gateway-apg,Nanhui,,China,True,Telegeography,2022-09-14
+asia-pacific-gateway-apg,Tseung Kwan O,,China,True,Telegeography,2022-09-14
+asia-pacific-gateway-apg,Maruyama,,Japan,True,Telegeography,2022-09-14
+asia-pacific-gateway-apg,Shima,,Japan,True,Telegeography,2022-09-14
+asia-pacific-gateway-apg,Kuantan,,Malaysia,True,Telegeography,2022-09-14
+asia-pacific-gateway-apg,Changi South,,Singapore,True,Telegeography,2022-09-14
+asia-pacific-gateway-apg,Busan,,South Korea,True,Telegeography,2022-09-14
+asia-pacific-gateway-apg,Toucheng,,Taiwan,True,Telegeography,2022-09-14
+asia-pacific-gateway-apg,Songkhla,,Thailand,True,Telegeography,2022-09-14
+asia-pacific-gateway-apg,Danang,,Vietnam,True,Telegeography,2022-09-14
+asia-submarine-cable-express-asecahaya-malaysia,Tseung Kwan O,,China,True,Telegeography,2022-09-14
+asia-submarine-cable-express-asecahaya-malaysia,Komesu,,Japan,True,Telegeography,2022-09-14
+asia-submarine-cable-express-asecahaya-malaysia,Maruyama,,Japan,True,Telegeography,2022-09-14
+asia-submarine-cable-express-asecahaya-malaysia,Mersing,,Malaysia,True,Telegeography,2022-09-14
+asia-submarine-cable-express-asecahaya-malaysia,Daet,,Philippines,True,Telegeography,2022-09-14
+asia-submarine-cable-express-asecahaya-malaysia,Changi South,,Singapore,True,Telegeography,2022-09-14
+atisa,Piti,,Guam,True,Telegeography,2022-09-14
+atisa,Sasanlagu, Rota,Northern Mariana Islands,True,Telegeography,2022-09-14
+atisa,Sugar Dock, Saipan,Northern Mariana Islands,True,Telegeography,2022-09-14
+atisa,Tachognya Beach, Tinian,Northern Mariana Islands,True,Telegeography,2022-09-14
+atlantic-crossing-1-ac-1,Sylt,,Germany,True,Telegeography,2022-09-14
+atlantic-crossing-1-ac-1,Beverwijk,,Netherlands,True,Telegeography,2022-09-14
+atlantic-crossing-1-ac-1,Whitesands Bay,,United Kingdom,True,Telegeography,2022-09-14
+atlantic-crossing-1-ac-1,Brookhaven, NY,United States,True,Telegeography,2022-09-14
+atlas-offshore,Marseille,,France,True,Telegeography,2022-09-14
+atlas-offshore,Asilah,,Morocco,True,Telegeography,2022-09-14
+au-aleutian,Akutan, AK,United States,True,Telegeography,2022-09-14
+au-aleutian,Chignik Bay, AK,United States,True,Telegeography,2022-09-14
+au-aleutian,Chignik Lagoon, AK,United States,True,Telegeography,2022-09-14
+au-aleutian,Chignik Lake, AK,United States,True,Telegeography,2022-09-14
+au-aleutian,Cold Bay, AK,United States,True,Telegeography,2022-09-14
+au-aleutian,False Pass, AK,United States,True,Telegeography,2022-09-14
+au-aleutian,King Cove, AK,United States,True,Telegeography,2022-09-14
+au-aleutian,Kodiak, AK,United States,True,Telegeography,2022-09-14
+au-aleutian,Larsen Bay, AK,United States,True,Telegeography,2022-09-14
+au-aleutian,Perryville, AK,United States,True,Telegeography,2022-09-14
+au-aleutian,Sand Point, AK,United States,True,Telegeography,2022-09-14
+au-aleutian,Unalaska, AK,United States,True,Telegeography,2022-09-14
+australia-japan-cable-ajc,Oxford Falls, NSW,Australia,True,Telegeography,2022-09-14
+australia-japan-cable-ajc,Paddington, NSW,Australia,True,Telegeography,2022-09-14
+australia-japan-cable-ajc,Tanguisson Point,,Guam,True,Telegeography,2022-09-14
+australia-japan-cable-ajc,Tumon Bay,,Guam,True,Telegeography,2022-09-14
+australia-japan-cable-ajc,Maruyama,,Japan,True,Telegeography,2022-09-14
+australia-japan-cable-ajc,Shima,,Japan,True,Telegeography,2022-09-14
+australia-singapore-cable-asc,Perth, WA,Australia,True,Telegeography,2022-09-14
+australia-singapore-cable-asc,Flying Fish Cove,,Christmas Island,True,Telegeography,2022-09-14
+australia-singapore-cable-asc,Anyer,,Indonesia,True,Telegeography,2022-09-14
+australia-singapore-cable-asc,Tanah Merah,,Singapore,True,Telegeography,2022-09-14
+avassa,Chindini,,Comoros,True,Telegeography,2022-09-14
+avassa,Moroni,,Comoros,True,Telegeography,2022-09-14
+avassa,Mutsamudu,,Comoros,True,Telegeography,2022-09-14
+avassa,Mamoudzou,,Mayotte,True,Telegeography,2022-09-14
+azores-fiber-optic-system-afos,Angra do Heroismo,,Portugal,True,Telegeography,2022-09-14
+azores-fiber-optic-system-afos,Faial,,Portugal,True,Telegeography,2022-09-14
+azores-fiber-optic-system-afos,Graciosa,,Portugal,True,Telegeography,2022-09-14
+azores-fiber-optic-system-afos,Ponta Delgada,,Portugal,True,Telegeography,2022-09-14
+azores-fiber-optic-system-afos,Sao Mateus,,Portugal,True,Telegeography,2022-09-14
+azores-fiber-optic-system-afos,Velas,,Portugal,True,Telegeography,2022-09-14
+azores-fiber-optic-system-afos,Vila do Porto,,Portugal,True,Telegeography,2022-09-14
+b2js-jakarta-bangka-batam-singapore-cable-system,Batam,,Indonesia,True,Telegeography,2022-09-14
+b2js-jakarta-bangka-batam-singapore-cable-system,Batu Prahu,,Indonesia,True,Telegeography,2022-09-14
+b2js-jakarta-bangka-batam-singapore-cable-system,Jakarta,,Indonesia,True,Telegeography,2022-09-14
+b2js-jakarta-bangka-batam-singapore-cable-system,Pesaren,,Indonesia,True,Telegeography,2022-09-14
+b2js-jakarta-bangka-batam-singapore-cable-system,Tanah Merah,,Singapore,True,Telegeography,2022-09-14
+bahamas-2,Eight-Mile Rock,,Bahamas,True,Telegeography,2022-09-14
+bahamas-2,Nassau,,Bahamas,True,Telegeography,2022-09-14
+bahamas-2,Vero Beach, FL,United States,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Cat Island,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Clarence Town,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Cockburn Town,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Duncan Town,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Fresh Creek,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,George Town,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Governors Harbor,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Hawksbill,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Matthew Town,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Mayaguana,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Nassau,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Port Nelson,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Rock Sound,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Sandy Point,,Bahamas,True,Telegeography,2022-09-14
+bahamas-domestic-submarine-network-bdsni,Port-au-Prince,,Haiti,True,Telegeography,2022-09-14
+bahamas-internet-cable-system-bics,Caves Point,,Bahamas,True,Telegeography,2022-09-14
+bahamas-internet-cable-system-bics,Crown Haven,,Bahamas,True,Telegeography,2022-09-14
+bahamas-internet-cable-system-bics,Current,,Bahamas,True,Telegeography,2022-09-14
+bahamas-internet-cable-system-bics,Hawksbill,,Bahamas,True,Telegeography,2022-09-14
+bahamas-internet-cable-system-bics,Riding Point,,Bahamas,True,Telegeography,2022-09-14
+bahamas-internet-cable-system-bics,Sandy Point,,Bahamas,True,Telegeography,2022-09-14
+bahamas-internet-cable-system-bics,Boca Raton, FL,United States,True,Telegeography,2022-09-14
+bahamas-internet-cable-system-bics,Spanish River Park, FL,United States,True,Telegeography,2022-09-14
+balalink,Palma,,Spain,True,Telegeography,2022-09-14
+balalink,Valencia,,Spain,True,Telegeography,2022-09-14
+balok,Senggigi,,Indonesia,True,Telegeography,2022-09-14
+balok,Seraya,,Indonesia,True,Telegeography,2022-09-14
+baltic-sea-submarine-cable,Tallinn,,Estonia,True,Telegeography,2022-09-14
+baltic-sea-submarine-cable,Helsinki,,Finland,True,Telegeography,2022-09-14
+baltic-sea-submarine-cable,Stockholm,,Sweden,True,Telegeography,2022-09-14
+baltica,Gedser,,Denmark,True,Telegeography,2022-09-14
+baltica,Pedersker,,Denmark,True,Telegeography,2022-09-14
+baltica,Kolobrzeg,,Poland,True,Telegeography,2022-09-14
+baltica,Ystad,,Sweden,True,Telegeography,2022-09-14
+bass-strait-1,Boat Harbour, TAS,Australia,True,Telegeography,2022-09-14
+bass-strait-1,Sandy Point, VIC,Australia,True,Telegeography,2022-09-14
+bass-strait-2,Inverloch, VIC,Australia,True,Telegeography,2022-09-14
+bass-strait-2,Stanley, TAS,Australia,True,Telegeography,2022-09-14
+basslink,Four Mile Bluff, TAS,Australia,True,Telegeography,2022-09-14
+basslink,McGaurans Beach, VIC,Australia,True,Telegeography,2022-09-14
+batam-dumai-melaka-bdm-cable-system,Batam,,Indonesia,True,Telegeography,2022-09-14
+batam-dumai-melaka-bdm-cable-system,Dumai,,Indonesia,True,Telegeography,2022-09-14
+batam-dumai-melaka-bdm-cable-system,Melaka,,Malaysia,True,Telegeography,2022-09-14
+batam-rengit-cable-system-brcs,Tanjung Pinggir,,Indonesia,True,Telegeography,2022-09-14
+batam-rengit-cable-system-brcs,Rengit,,Malaysia,True,Telegeography,2022-09-14
+batam-sarawak-internet-cable-system-basics,Tanjung Bemban,,Indonesia,True,Telegeography,2022-09-14
+batam-sarawak-internet-cable-system-basics,Kg Buntai,,Malaysia,True,Telegeography,2022-09-14
+batam-singapore-cable-system-bscs,Batam,,Indonesia,True,Telegeography,2022-09-14
+batam-singapore-cable-system-bscs,Changi North,,Singapore,True,Telegeography,2022-09-14
+bay-of-bengal-gateway-bbg,Chennai,,India,True,Telegeography,2022-09-14
+bay-of-bengal-gateway-bbg,Mumbai,,India,True,Telegeography,2022-09-14
+bay-of-bengal-gateway-bbg,Penang,,Malaysia,True,Telegeography,2022-09-14
+bay-of-bengal-gateway-bbg,Barka,,Oman,True,Telegeography,2022-09-14
+bay-of-bengal-gateway-bbg,Ratmalana,,Sri Lanka,True,Telegeography,2022-09-14
+bay-of-bengal-gateway-bbg,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+bcs-east-west-interlink,Sventoji,,Lithuania,True,Telegeography,2022-09-14
+bcs-east-west-interlink,Katthammarsvik,,Sweden,True,Telegeography,2022-09-14
+bcs-east,Liepaja,,Latvia,True,Telegeography,2022-09-14
+bcs-east,Sventoji,,Lithuania,True,Telegeography,2022-09-14
+bcs-north---phase-1,Hanko,,Finland,True,Telegeography,2022-09-14
+bcs-north---phase-1,Haradsholm,,Finland,True,Telegeography,2022-09-14
+bcs-north---phase-1,Helsinki,,Finland,True,Telegeography,2022-09-14
+bcs-north---phase-1,Mariehamn,,Finland,True,Telegeography,2022-09-14
+bcs-north---phase-1,Stavsnas,,Sweden,True,Telegeography,2022-09-14
+bcs-north---phase-2,Helsinki,,Finland,True,Telegeography,2022-09-14
+bcs-north---phase-2,Kotka,,Finland,True,Telegeography,2022-09-14
+bcs-north---phase-2,Logi,,Russia,True,Telegeography,2022-09-14
+berytar,Beirut,,Lebanon,True,Telegeography,2022-09-14
+berytar,Saida,,Lebanon,True,Telegeography,2022-09-14
+berytar,Trablous,,Lebanon,True,Telegeography,2022-09-14
+berytar,Tartous,,Syria,True,Telegeography,2022-09-14
+bharat-lanka-cable-system,Tuticorine,,India,True,Telegeography,2022-09-14
+bharat-lanka-cable-system,Mt. Lavinia,,Sri Lanka,True,Telegeography,2022-09-14
+bicentenario,Las Toninas,,Argentina,True,Telegeography,2022-09-14
+bicentenario,Maldonado,,Uruguay,True,Telegeography,2022-09-14
+bifrost,Piti,,Guam,False,Telegeography,2022-09-14
+bifrost,Jakarta,,Indonesia,True,Telegeography,2022-09-14
+bifrost,Davao,,Philippines,True,Telegeography,2022-09-14
+bifrost,Singapore,,Singapore,True,Telegeography,2022-09-14
+bifrost,Los Angeles, CA,United States,False,Telegeography,2022-09-14
+biznet-nusantara-cable-system-1-bncs-1,Anyer,,Indonesia,True,Telegeography,2022-09-14
+biznet-nusantara-cable-system-1-bncs-1,Kalianda,,Indonesia,True,Telegeography,2022-09-14
+biznet-nusantara-cable-system-1-bncs-1,Muntok,,Indonesia,True,Telegeography,2022-09-14
+biznet-nusantara-cable-system-1-bncs-1,Sungsang,,Indonesia,True,Telegeography,2022-09-14
+blue,Yeroskipos,,Cyprus,True,Telegeography,2022-09-14
+blue,Bastia,,France,True,Telegeography,2022-09-14
+blue,Marseille,,France,True,Telegeography,2022-09-14
+blue,Chania,,Greece,True,Telegeography,2022-09-14
+blue,Tel Aviv,,Israel,True,Telegeography,2022-09-14
+blue,Genoa,,Italy,True,Telegeography,2022-09-14
+blue,Golfo Aranci,,Italy,True,Telegeography,2022-09-14
+blue,Palermo,,Italy,True,Telegeography,2022-09-14
+blue,Rome,,Italy,True,Telegeography,2022-09-14
+blue,Aqaba,,Jordan,True,Telegeography,2022-09-14
+bodo-rost-cable,Bodø,,Norway,True,Telegeography,2022-09-14
+bodo-rost-cable,Røst,,Norway,True,Telegeography,2022-09-14
+boracay-palawan-submarine-cable-system-bpscs,Boracay,,Philippines,True,Telegeography,2022-09-14
+boracay-palawan-submarine-cable-system-bpscs,Caticlan,,Philippines,True,Telegeography,2022-09-14
+boracay-palawan-submarine-cable-system-bpscs,Coron,,Philippines,True,Telegeography,2022-09-14
+boracay-palawan-submarine-cable-system-bpscs,San Jose,,Philippines,True,Telegeography,2022-09-14
+boracay-palawan-submarine-cable-system-bpscs,Taytay,,Philippines,True,Telegeography,2022-09-14
+boriken-submarine-cable-system-bscs,Macao Beach,,Dominican Republic,True,Telegeography,2022-09-14
+boriken-submarine-cable-system-bscs,Aguadilla, PR,United States,True,Telegeography,2022-09-14
+boriken-submarine-cable-system-bscs,Humacao, PR,United States,True,Telegeography,2022-09-14
+boriken-submarine-cable-system-bscs,Ponce, PR,United States,True,Telegeography,2022-09-14
+boriken-submarine-cable-system-bscs,Frederiksted,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+botnia,Vaasa,,Finland,True,Telegeography,2022-09-14
+botnia,Umeå,,Sweden,True,Telegeography,2022-09-14
+brazilian-festoon,Aracaju,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,Atafona,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,Ilhéus,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,João Pessoa,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,Macaé,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,Maceió,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,Natal,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,Porto Seguro,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,Recife,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,Rio de Janeiro,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,Salvador,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,Sitio,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,São Mateus,,Brazil,True,Telegeography,2022-09-14
+brazilian-festoon,Vitória,,Brazil,True,Telegeography,2022-09-14
+bridge-one,Fukuoka,,Japan,True,Telegeography,2022-09-14
+bridge-one,Pohang,,South Korea,True,Telegeography,2022-09-14
+brusa,Fortaleza,,Brazil,True,Telegeography,2022-09-14
+brusa,Rio de Janeiro,,Brazil,True,Telegeography,2022-09-14
+brusa,San Juan, PR,United States,True,Telegeography,2022-09-14
+brusa,Virginia Beach, VA,United States,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Achnaba,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Aikerness Bay,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Ardbeg Point,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Ardgour,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Ardmair,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Ardnacross,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Ardneil Bay,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Ardvasar,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Ardyne Point,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Balla,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Bay of Tuquoy,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Blackwaterfoot,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Branahuie Bay,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Calgary,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Coilleag,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Corran,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Corrie,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Craighouse,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Down Craig,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Duart Bay,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Dunvegan,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Feolin Ferry,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Ganavan Bay,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Glenbarr,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Kilchatten Bay,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Kilchoan Ferry,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Lagavulin,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Largs,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Leverburgh,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Lochmaddy,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Ludag,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Mallaigvaig,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,North Bay,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Ormsary,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Otter Ferry,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Port Askaig,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Portachur Point,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Sandwick Village,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Scarinish,,United Kingdom,True,Telegeography,2022-09-14
+bt-highlands-and-islands-submarine-cable-system,Tobermory,,United Kingdom,True,Telegeography,2022-09-14
+bt-mt-1,Groudle Bay,,Isle of Man,True,Telegeography,2022-09-14
+bt-mt-1,Peel,,Isle of Man,True,Telegeography,2022-09-14
+bt-mt-1,Ballyhornan,,United Kingdom,True,Telegeography,2022-09-14
+bt-mt-1,Silecroft Beach,,United Kingdom,True,Telegeography,2022-09-14
+bt-north-sea,Ostend,,Belgium,True,Telegeography,2022-09-14
+bt-north-sea,Callantsoog,,Netherlands,True,Telegeography,2022-09-14
+bt-north-sea,Broadstairs,,United Kingdom,True,Telegeography,2022-09-14
+bt-north-sea,Winterton-on-Sea,,United Kingdom,True,Telegeography,2022-09-14
+bugio,Carcavelos,,Portugal,True,Telegeography,2022-09-14
+bugio,Sesimbra,,Portugal,True,Telegeography,2022-09-14
+c-lion1,Hanko,,Finland,True,Telegeography,2022-09-14
+c-lion1,Helsinki,,Finland,True,Telegeography,2022-09-14
+c-lion1,Rostock,,Germany,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-1,Murdeira,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-1,Praia,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-1,Sal Rei,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-1,Sao Pedro,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-1,Tarrafal—Sao Nicolau,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-2,Porto Novo—Santo Antao,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-2,Sao Pedro,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-2,Tarrafal—Santiago,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Nova Sintra,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Porto Novo—Santo Antao,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Praia,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Sal Rei,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Sao Filipe,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Sao Pedro,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Tarrafal—Santiago,,Cape Verde,True,Telegeography,2022-09-14
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Vila do Maio,,Cape Verde,True,Telegeography,2022-09-14
+cadmos,Pentaskhinos,,Cyprus,True,Telegeography,2022-09-14
+cadmos,Beirut,,Lebanon,True,Telegeography,2022-09-14
+cadmos,Jdaide,,Lebanon,True,Telegeography,2022-09-14
+cam-ring,Funchal,,Portugal,True,Telegeography,2022-09-14
+cam-ring,Ponta Delgada,,Portugal,True,Telegeography,2022-09-14
+cam-ring,Porto Santo,,Portugal,True,Telegeography,2022-09-14
+canalink,Asilah,,Morocco,True,Telegeography,2022-09-14
+canalink,Conil,,Spain,True,Telegeography,2022-09-14
+canalink,El Goro, Canary Islands,Spain,True,Telegeography,2022-09-14
+canalink,Granadilla, Canary Islands,Spain,True,Telegeography,2022-09-14
+canalink,Güimar, Canary Islands,Spain,True,Telegeography,2022-09-14
+canalink,Rota,,Spain,True,Telegeography,2022-09-14
+canalink,Santa Cruz de La Palma, Canary Islands,Spain,True,Telegeography,2022-09-14
+canalink,Tinocas, Canary Islands,Spain,True,Telegeography,2022-09-14
+candalta,Alta Vista, Canary Islands,Spain,True,Telegeography,2022-09-14
+candalta,Candelaria, Canary Islands,Spain,True,Telegeography,2022-09-14
+cantat-3,Blaabjerg,,Denmark,True,Telegeography,2022-09-14
+cantat-3,South Arne,,Denmark,True,Telegeography,2022-09-14
+cantat-3,Tyra,,Denmark,True,Telegeography,2022-09-14
+cantat-3,Valdemar,,Denmark,True,Telegeography,2022-09-14
+cantat-3,Tjornuvik,,Faroe Islands,True,Telegeography,2022-09-14
+cantat-3,Sylt,,Germany,True,Telegeography,2022-09-14
+cantat-3,Vestmannaeyjar,,Iceland,True,Telegeography,2022-09-14
+cap-1,Pagudpud,,Philippines,True,Telegeography,2022-09-14
+cap-1,Grover Beach, CA,United States,True,Telegeography,2022-09-14
+caribbean-bermuda-u-s-cbus,St. David’s,,Bermuda,True,Telegeography,2022-09-14
+caribbean-bermuda-u-s-cbus,Tortola,,Virgin Islands (U.K.),True,Telegeography,2022-09-14
+caribbean-express-cx,Cartagena,,Colombia,True,Telegeography,2022-09-14
+caribbean-express-cx,Cancún,,Mexico,True,Telegeography,2022-09-14
+caribbean-express-cx,Maria Chiquita,,Panama,True,Telegeography,2022-09-14
+caribbean-express-cx,West Palm Beach, FL,United States,True,Telegeography,2022-09-14
+caribbean-regional-communications-infrastructure-program-carcip,Carriacou,,Grenada,True,Telegeography,2022-09-14
+caribbean-regional-communications-infrastructure-program-carcip,Conference,,Grenada,True,Telegeography,2022-09-14
+caribbean-regional-communications-infrastructure-program-carcip,Bequia,,Saint Vincent and the Grenadines,True,Telegeography,2022-09-14
+caribbean-regional-communications-infrastructure-program-carcip,Canouan,,Saint Vincent and the Grenadines,True,Telegeography,2022-09-14
+caribbean-regional-communications-infrastructure-program-carcip,Chateaubelair,,Saint Vincent and the Grenadines,True,Telegeography,2022-09-14
+caribbean-regional-communications-infrastructure-program-carcip,Kingstown,,Saint Vincent and the Grenadines,True,Telegeography,2022-09-14
+caribbean-regional-communications-infrastructure-program-carcip,Mustique,,Saint Vincent and the Grenadines,True,Telegeography,2022-09-14
+caribbean-regional-communications-infrastructure-program-carcip,Owia,,Saint Vincent and the Grenadines,True,Telegeography,2022-09-14
+caribbean-regional-communications-infrastructure-program-carcip,Union Island,,Saint Vincent and the Grenadines,True,Telegeography,2022-09-14
+carnival-submarine-network-1-csn-1,Barranquilla,,Colombia,True,Telegeography,2022-09-14
+carnival-submarine-network-1-csn-1,Ancon,,Ecuador,True,Telegeography,2022-09-14
+carnival-submarine-network-1-csn-1,Cristóbal,,Ecuador,True,Telegeography,2022-09-14
+carnival-submarine-network-1-csn-1,Panama City,,Panama,True,Telegeography,2022-09-14
+carnival-submarine-network-1-csn-1,Naples, FL,United States,True,Telegeography,2022-09-14
+caucasus-cable-system,Balchik,,Bulgaria,True,Telegeography,2022-09-14
+caucasus-cable-system,Poti,,Georgia,True,Telegeography,2022-09-14
+cayman-jamaica-fiber-system-cjfs,Cayman Brac,,Cayman Islands,True,Telegeography,2022-09-14
+cayman-jamaica-fiber-system-cjfs,Half Moon Bay,,Cayman Islands,True,Telegeography,2022-09-14
+cayman-jamaica-fiber-system-cjfs,Bull Bay,,Jamaica,True,Telegeography,2022-09-14
+cayman-jamaica-fiber-system-cjfs,Montego Bay,,Jamaica,True,Telegeography,2022-09-14
+cayman-jamaica-fiber-system-cjfs,Ocho Rios,,Jamaica,True,Telegeography,2022-09-14
+cayman-jamaica-fiber-system-cjfs,Port Antonio,,Jamaica,True,Telegeography,2022-09-14
+ceiba-1,Bata,,Equatorial Guinea,True,Telegeography,2022-09-14
+ceiba-1,Malabo,,Equatorial Guinea,True,Telegeography,2022-09-14
+ceiba-2,Kribi,,Cameroon,True,Telegeography,2022-09-14
+ceiba-2,Bata,,Equatorial Guinea,True,Telegeography,2022-09-14
+ceiba-2,Malabo,,Equatorial Guinea,True,Telegeography,2022-09-14
+celtic-norse,Killala,,Ireland,True,Telegeography,2022-09-14
+celtic-norse,Øysanden,,Norway,True,Telegeography,2022-09-14
+celtixconnect-1-cc-1,Dublin,,Ireland,True,Telegeography,2022-09-14
+celtixconnect-1-cc-1,Holyhead,,United Kingdom,True,Telegeography,2022-09-14
+challenger-bermuda-1-cb-1,Paget,,Bermuda,True,Telegeography,2022-09-14
+challenger-bermuda-1-cb-1,Charlestown, RI,United States,True,Telegeography,2022-09-14
+channel-islands-9-liberty-submarine-cable,L''Ancresse Bay,,Guernsey,True,Telegeography,2022-09-14
+channel-islands-9-liberty-submarine-cable,Blackpool Sands,,United Kingdom,True,Telegeography,2022-09-14
+chennai-andaman-nicobar-islands-cable,Car Nicobar,,India,True,Telegeography,2022-09-14
+chennai-andaman-nicobar-islands-cable,Chennai,,India,True,Telegeography,2022-09-14
+chennai-andaman-nicobar-islands-cable,Great Nicobar,,India,True,Telegeography,2022-09-14
+chennai-andaman-nicobar-islands-cable,Havelock,,India,True,Telegeography,2022-09-14
+chennai-andaman-nicobar-islands-cable,Kamorta,,India,True,Telegeography,2022-09-14
+chennai-andaman-nicobar-islands-cable,Little Andaman,,India,True,Telegeography,2022-09-14
+chennai-andaman-nicobar-islands-cable,Long Island,,India,True,Telegeography,2022-09-14
+chennai-andaman-nicobar-islands-cable,Port Blair,,India,True,Telegeography,2022-09-14
+chennai-andaman-nicobar-islands-cable,Rangat,,India,True,Telegeography,2022-09-14
+chuuk-pohnpei-cable,Pohnpei,,Micronesia,True,Telegeography,2022-09-14
+chuuk-pohnpei-cable,Weno, Chuuk,Micronesia,True,Telegeography,2022-09-14
+circe-north,Zandvoort,,Netherlands,True,Telegeography,2022-09-14
+circe-north,Lowestoft,,United Kingdom,True,Telegeography,2022-09-14
+circe-south,Cayeux-sur-Mer,,France,True,Telegeography,2022-09-14
+circe-south,Pevensey Bay,,United Kingdom,True,Telegeography,2022-09-14
+cobracable,Endrup,,Denmark,True,Telegeography,2022-09-14
+cobracable,Eemshaven,,Netherlands,True,Telegeography,2022-09-14
+cogim,L''Anse-à-Beaufils, QC,Canada,True,Telegeography,2022-09-14
+cogim,Les Îles-de-la-Madeleine, QC,Canada,True,Telegeography,2022-09-14
+colombia-florida-subsea-fiber-cfx-1,Cartagena,,Colombia,True,Telegeography,2022-09-14
+colombia-florida-subsea-fiber-cfx-1,Copa Club,,Jamaica,True,Telegeography,2022-09-14
+colombia-florida-subsea-fiber-cfx-1,Morant Point,,Jamaica,True,Telegeography,2022-09-14
+colombia-florida-subsea-fiber-cfx-1,Boca Raton, FL,United States,True,Telegeography,2022-09-14
+colombian-festoon,Cartagena,,Colombia,True,Telegeography,2022-09-14
+colombian-festoon,Parque Isla de Salamanca,,Colombia,True,Telegeography,2022-09-14
+colombian-festoon,Puerto Colombia,,Colombia,True,Telegeography,2022-09-14
+colombian-festoon,Santa Marta,,Colombia,True,Telegeography,2022-09-14
+colombian-festoon,Tolu,,Colombia,True,Telegeography,2022-09-14
+columbus-ii-b,Magen’s Bay, VI,United States,True,Telegeography,2022-09-14
+columbus-ii-b,West Palm Beach, FL,United States,True,Telegeography,2022-09-14
+columbus-iii-azores-portugal,Carcavelos,,Portugal,True,Telegeography,2022-09-14
+columbus-iii-azores-portugal,Ponta Delgada,,Portugal,True,Telegeography,2022-09-14
+comoros-domestic-cable-system,Chindini,,Comoros,True,Telegeography,2022-09-14
+comoros-domestic-cable-system,Fomboni Moheli,,Comoros,True,Telegeography,2022-09-14
+comoros-domestic-cable-system,Mutsamudu,,Comoros,True,Telegeography,2022-09-14
+concerto,Zeebrugge,,Belgium,True,Telegeography,2022-09-14
+concerto,Zandvoort,,Netherlands,True,Telegeography,2022-09-14
+concerto,Sizewell,,United Kingdom,True,Telegeography,2022-09-14
+concerto,Thorpeness,,United Kingdom,True,Telegeography,2022-09-14
+confluence-1,Jacksonville, FL,United States,True,Telegeography,2022-09-14
+confluence-1,Myrtle Beach, SC,United States,True,Telegeography,2022-09-14
+confluence-1,Sunny Isles, FL,United States,True,Telegeography,2022-09-14
+confluence-1,Virginia Beach, VA,United States,True,Telegeography,2022-09-14
+confluence-1,Wall Township, NJ,United States,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Baclayon,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Bacong,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Bogo,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Boracay,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Buenavista,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Cagayan de Oro,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Coron,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Leganes,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Masbate City,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Milagros,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Naga,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Ormoc,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Pasacao,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Roxas City,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Roxas,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,San Carlos,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,San Juan,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,San Remigio,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Tagbilaran,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Talisay,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Taytay,,Philippines,True,Telegeography,2022-09-14
+converge-domestic-submarine-cable-network-cdscn,Toledo,,Philippines,True,Telegeography,2022-09-14
+cook-strait,Fighting Bay,,New Zealand,True,Telegeography,2022-09-14
+cook-strait,Oteranga Bay,,New Zealand,True,Telegeography,2022-09-14
+coral-sea-cable-system-cs,Sydney, NSW,Australia,True,Telegeography,2022-09-14
+coral-sea-cable-system-cs,Port Moresby,,Papua New Guinea,True,Telegeography,2022-09-14
+coral-sea-cable-system-cs,Auki,,Solomon Islands,True,Telegeography,2022-09-14
+coral-sea-cable-system-cs,Honiara,,Solomon Islands,True,Telegeography,2022-09-14
+coral-sea-cable-system-cs,Noro,,Solomon Islands,True,Telegeography,2022-09-14
+coral-sea-cable-system-cs,Taro,,Solomon Islands,True,Telegeography,2022-09-14
+corse-continent-4-cc4,Cannes,,France,True,Telegeography,2022-09-14
+corse-continent-4-cc4,L’Île-Rousse,,France,True,Telegeography,2022-09-14
+corse-continent-5-cc5,Ajaccio,,France,True,Telegeography,2022-09-14
+corse-continent-5-cc5,La Seyne,,France,True,Telegeography,2022-09-14
+cross-straits-cable-network,Dadeng Island,,China,True,Telegeography,2022-09-14
+cross-straits-cable-network,Guanyin Mountain,,China,True,Telegeography,2022-09-14
+cross-straits-cable-network,Guningtou,,Taiwan,True,Telegeography,2022-09-14
+cross-straits-cable-network,Lake Ci,,Taiwan,True,Telegeography,2022-09-14
+crosschannel-fibre,Veules-les-Roses,,France,True,Telegeography,2022-09-14
+crosschannel-fibre,Brighton,,United Kingdom,True,Telegeography,2022-09-14
+crosslake-fibre,Toronto, ON,Canada,True,Telegeography,2022-09-14
+crosslake-fibre,Buffalo, NY,United States,True,Telegeography,2022-09-14
+curie,Valparaíso,,Chile,True,Telegeography,2022-09-14
+curie,Balboa,,Panama,True,Telegeography,2022-09-14
+curie,El Segundo, CA,United States,True,Telegeography,2022-09-14
+damai-cable-system,Dumai,,Indonesia,True,Telegeography,2022-09-14
+damai-cable-system,Medan,,Indonesia,True,Telegeography,2022-09-14
+damai-cable-system,Panipahan,,Indonesia,True,Telegeography,2022-09-14
+danica-north,Tuborg,,Denmark,True,Telegeography,2022-09-14
+danica-north,Barsebäck,,Sweden,True,Telegeography,2022-09-14
+danice,Blaabjerg,,Denmark,True,Telegeography,2022-09-14
+danice,Landeyjar,,Iceland,True,Telegeography,2022-09-14
+darwin-jakarta-singapore-cable-djsc,Port Hedland, WA,Australia,True,Telegeography,2022-09-14
+deep-blue-one,Cayenne,,French Guiana,True,Telegeography,2022-09-14
+deep-blue-one,Georgetown,,Guyana,True,Telegeography,2022-09-14
+deep-blue-one,Paramaribo,,Suriname,True,Telegeography,2022-09-14
+deep-blue-one,Chaguaramas,,Trinidad and Tobago,True,Telegeography,2022-09-14
+deep-blue-one,Rockly Bay,,Trinidad and Tobago,True,Telegeography,2022-09-14
+denmark-poland-2,Gedebak Odde,,Denmark,True,Telegeography,2022-09-14
+denmark-poland-2,Mielno,,Poland,True,Telegeography,2022-09-14
+denmark-sweden-15,Helsingør,,Denmark,True,Telegeography,2022-09-14
+denmark-sweden-15,Helsingborg,,Sweden,True,Telegeography,2022-09-14
+denmark-sweden-16,Mosede,,Denmark,True,Telegeography,2022-09-14
+denmark-sweden-16,Velling,,Sweden,True,Telegeography,2022-09-14
+denmark-sweden-17,Alsgarde,,Denmark,True,Telegeography,2022-09-14
+denmark-sweden-17,Kristinelund,,Sweden,True,Telegeography,2022-09-14
+denmark-sweden-18,Helsingør,,Denmark,True,Telegeography,2022-09-14
+denmark-sweden-18,Helsingborg,,Sweden,True,Telegeography,2022-09-14
+denpasar-waingapu-cable-systems,Lombok,,Indonesia,True,Telegeography,2022-09-14
+denpasar-waingapu-cable-systems,Padang Galak,,Indonesia,True,Telegeography,2022-09-14
+denpasar-waingapu-cable-systems,Sumbawa Besar,,Indonesia,True,Telegeography,2022-09-14
+denpasar-waingapu-cable-systems,Waingapu,,Indonesia,True,Telegeography,2022-09-14
+dhiraagu-cable-network,Dhangethi,,Maldives,True,Telegeography,2022-09-14
+dhiraagu-cable-network,Eydhafushi,,Maldives,True,Telegeography,2022-09-14
+dhiraagu-cable-network,Fuvahmulah,,Maldives,True,Telegeography,2022-09-14
+dhiraagu-cable-network,Gahdhoo,,Maldives,True,Telegeography,2022-09-14
+dhiraagu-cable-network,Gan,,Maldives,True,Telegeography,2022-09-14
+dhiraagu-cable-network,Hithadhoo,,Maldives,True,Telegeography,2022-09-14
+dhiraagu-cable-network,Hulhumale,,Maldives,True,Telegeography,2022-09-14
+dhiraagu-cable-network,Kulhudhufushi,,Maldives,True,Telegeography,2022-09-14
+dhiraagu-slt-submarine-cable-network,Male,,Maldives,True,Telegeography,2022-09-14
+dhiraagu-slt-submarine-cable-network,Colombo,,Sri Lanka,True,Telegeography,2022-09-14
+didon,Mazara del Vallo,,Italy,True,Telegeography,2022-09-14
+didon,Kelibia,,Tunisia,True,Telegeography,2022-09-14
+djibouti-africa-regional-express-1-dare1,Djibouti City,,Djibouti,True,Telegeography,2022-09-14
+djibouti-africa-regional-express-1-dare1,Mombasa,,Kenya,True,Telegeography,2022-09-14
+djibouti-africa-regional-express-1-dare1,Bosaso,,Somalia,True,Telegeography,2022-09-14
+djibouti-africa-regional-express-1-dare1,Mogadishu,,Somalia,True,Telegeography,2022-09-14
+dos-continentes-l-ll,La Línea,,Spain,True,Telegeography,2022-09-14
+dos-continentes-l-ll,Playa de Benitez,,Spain,True,Telegeography,2022-09-14
+dos-continentes-l-ll,Playa de la Ribera,,Spain,True,Telegeography,2022-09-14
+dos-continentes-l-ll,Tarifa,,Spain,True,Telegeography,2022-09-14
+dumai-melaka-cable-system,Dumai,,Indonesia,True,Telegeography,2022-09-14
+dumai-melaka-cable-system,Melaka,,Malaysia,True,Telegeography,2022-09-14
+dunant,Saint-Hilaire-de-Riez,,France,True,Telegeography,2022-09-14
+dunant,Virginia Beach, VA,United States,True,Telegeography,2022-09-14
+e-llan,Douglas,,Isle of Man,True,Telegeography,2022-09-14
+e-llan,Blackpool,,United Kingdom,True,Telegeography,2022-09-14
+eac-c2c,Chung Hom Kok,,China,True,Telegeography,2022-09-14
+eac-c2c,Nanhui,,China,True,Telegeography,2022-09-14
+eac-c2c,Qingdao,,China,True,Telegeography,2022-09-14
+eac-c2c,Tseung Kwan O,,China,True,Telegeography,2022-09-14
+eac-c2c,Ajigaura,,Japan,True,Telegeography,2022-09-14
+eac-c2c,Chikura,,Japan,True,Telegeography,2022-09-14
+eac-c2c,Shima,,Japan,True,Telegeography,2022-09-14
+eac-c2c,Batangas,,Philippines,True,Telegeography,2022-09-14
+eac-c2c,Cavite,,Philippines,True,Telegeography,2022-09-14
+eac-c2c,Changi North,,Singapore,True,Telegeography,2022-09-14
+eac-c2c,Changi South,,Singapore,True,Telegeography,2022-09-14
+eac-c2c,Busan,,South Korea,True,Telegeography,2022-09-14
+eac-c2c,Shindu-Ri,,South Korea,True,Telegeography,2022-09-14
+eac-c2c,Fangshan,,Taiwan,True,Telegeography,2022-09-14
+eac-c2c,Pa Li,,Taiwan,True,Telegeography,2022-09-14
+eac-c2c,Tanshui,,Taiwan,True,Telegeography,2022-09-14
+east-coast-cable-system,Brisbane, QLD,Australia,True,Telegeography,2022-09-14
+east-coast-cable-system,Melbourne, VIC,Australia,True,Telegeography,2022-09-14
+east-coast-cable-system,Sydney, NSW,Australia,True,Telegeography,2022-09-14
+east-west-submarine-cable-system,Penarik,,Indonesia,True,Telegeography,2022-09-14
+east-west-submarine-cable-system,Terempa,,Indonesia,True,Telegeography,2022-09-14
+east-west-submarine-cable-system,Kuching,,Malaysia,True,Telegeography,2022-09-14
+east-west-submarine-cable-system,Mersing,,Malaysia,True,Telegeography,2022-09-14
+east-west,Haina,,Dominican Republic,True,Telegeography,2022-09-14
+east-west,Harbour View,,Jamaica,True,Telegeography,2022-09-14
+east-west,Nanny Cay,,Virgin Islands (U.K.),True,Telegeography,2022-09-14
+eastern-africa-submarine-system-eassy,Moroni,,Comoros,True,Telegeography,2022-09-14
+eastern-africa-submarine-system-eassy,Haramous,,Djibouti,True,Telegeography,2022-09-14
+eastern-africa-submarine-system-eassy,Mombasa,,Kenya,True,Telegeography,2022-09-14
+eastern-africa-submarine-system-eassy,Toliara,,Madagascar,True,Telegeography,2022-09-14
+eastern-africa-submarine-system-eassy,Maputo,,Mozambique,True,Telegeography,2022-09-14
+eastern-africa-submarine-system-eassy,Mogadishu,,Somalia,True,Telegeography,2022-09-14
+eastern-africa-submarine-system-eassy,Mtunzini,,South Africa,True,Telegeography,2022-09-14
+eastern-africa-submarine-system-eassy,Port Sudan,,Sudan,True,Telegeography,2022-09-14
+eastern-africa-submarine-system-eassy,Dar Es Salaam,,Tanzania,True,Telegeography,2022-09-14
+eastern-arctic-undersea-fibre-optic-network-eaufon,Akulivik, QC,Canada,True,Telegeography,2022-09-14
+eastern-arctic-undersea-fibre-optic-network-eaufon,Chisasibi, QC,Canada,True,Telegeography,2022-09-14
+eastern-arctic-undersea-fibre-optic-network-eaufon,Inukjuak, QC,Canada,True,Telegeography,2022-09-14
+eastern-arctic-undersea-fibre-optic-network-eaufon,Ivujivik, QC,Canada,True,Telegeography,2022-09-14
+eastern-arctic-undersea-fibre-optic-network-eaufon,Kangiqsujuaq, QC,Canada,True,Telegeography,2022-09-14
+eastern-arctic-undersea-fibre-optic-network-eaufon,Kuujjuarapik, QC,Canada,True,Telegeography,2022-09-14
+eastern-arctic-undersea-fibre-optic-network-eaufon,Puvirnituq, QC,Canada,True,Telegeography,2022-09-14
+eastern-arctic-undersea-fibre-optic-network-eaufon,Salluit, QC,Canada,True,Telegeography,2022-09-14
+eastern-arctic-undersea-fibre-optic-network-eaufon,Umiujaq, QC,Canada,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,The Valley,,Anguilla,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,St. John’s,,Antigua and Barbuda,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,Bridgetown,,Barbados,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,Roseau,,Dominica,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,Point Salines,,Grenada,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,Pointe-a-Pitre,,Guadeloupe,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,Le Lamentin,,Martinique,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,Basseterre,,Saint Kitts and Nevis,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,Castries,,Saint Lucia,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,Kingstown,,Saint Vincent and the Grenadines,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,Saint Maarten,,Sint Maarten,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,Chaguaramas,,Trinidad and Tobago,True,Telegeography,2022-09-14
+eastern-caribbean-fiber-system-ecfs,Tortola,,Virgin Islands (U.K.),True,Telegeography,2022-09-14
+eastern-light,Hanko,,Finland,True,Telegeography,2022-09-14
+eastern-light,Helsinki,,Finland,True,Telegeography,2022-09-14
+eastern-light,Kotka,,Finland,True,Telegeography,2022-09-14
+eastern-light,Stockholm,,Sweden,True,Telegeography,2022-09-14
+echo,Agat,,Guam,True,Telegeography,2022-09-14
+echo,Piti,,Guam,True,Telegeography,2022-09-14
+echo,Tanjung Pakis,,Indonesia,True,Telegeography,2022-09-14
+echo,Ngeremlengui,,Palau,True,Telegeography,2022-09-14
+echo,Changi North,,Singapore,True,Telegeography,2022-09-14
+echo,Eureka, CA,United States,True,Telegeography,2022-09-14
+eclink,Willemstad,,Curaçao,True,Telegeography,2022-09-14
+eclink,Chaguaramas,,Trinidad and Tobago,True,Telegeography,2022-09-14
+elektra-globalconnect-1-gc1,Gedser,,Denmark,True,Telegeography,2022-09-14
+elektra-globalconnect-1-gc1,Rostock,,Germany,True,Telegeography,2022-09-14
+ellalink,Fortaleza,,Brazil,True,Telegeography,2022-09-14
+ellalink,Praia,,Cape Verde,True,Telegeography,2022-09-14
+ellalink,Funchal,,Portugal,True,Telegeography,2022-09-14
+ellalink,Sines,,Portugal,True,Telegeography,2022-09-14
+emerald-bridge-fibres,Clonshaugh,,Ireland,True,Telegeography,2022-09-14
+emerald-bridge-fibres,Holyhead,,United Kingdom,True,Telegeography,2022-09-14
+energinet-laeso-varberg,Laeso,,Denmark,True,Telegeography,2022-09-14
+energinet-laeso-varberg,Varberg,,Sweden,True,Telegeography,2022-09-14
+energinet-lyngsa-laeso,Laeso,,Denmark,True,Telegeography,2022-09-14
+energinet-lyngsa-laeso,Lyngsa,,Denmark,True,Telegeography,2022-09-14
+epic-malta-sicily-cable-system-emscs,Catania,,Italy,True,Telegeography,2022-09-14
+epic-malta-sicily-cable-system-emscs,Balluta Bay,,Malta,True,Telegeography,2022-09-14
+equiano,Swakopmund,,Namibia,True,Telegeography,2022-09-14
+equiano,Lagos,,Nigeria,True,Telegeography,2022-09-14
+equiano,Sesimbra,,Portugal,True,Telegeography,2022-09-14
+equiano,Rupert''s Bay, Saint Helena,Ascension and Tristan da Cunha,True,Telegeography,2022-09-14
+equiano,Melkbosstrand,,South Africa,True,Telegeography,2022-09-14
+equiano,Lome,,Togo,True,Telegeography,2022-09-14
+esat-1,Kilmore Quay,,Ireland,True,Telegeography,2022-09-14
+esat-1,Sennen Cove,,United Kingdom,True,Telegeography,2022-09-14
+esat-2,Sandymount,,Ireland,True,Telegeography,2022-09-14
+esat-2,Southport,,United Kingdom,True,Telegeography,2022-09-14
+estepona-tetouan,Tétouan,,Morocco,True,Telegeography,2022-09-14
+estepona-tetouan,Estepona,,Spain,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Haramous,,Djibouti,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Abu Talat,,Egypt,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Zafarana,,Egypt,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Gibraltar,,Gibraltar,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Mumbai,,India,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Tripoli,,Libya,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Monaco,,Monaco,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Barka,,Oman,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Sesimbra,,Portugal,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+europe-india-gateway-eig,Bude,,United Kingdom,True,Telegeography,2022-09-14
+eviny-digital,Bergen,,Norway,True,Telegeography,2022-09-14
+eviny-digital,Kårstø,,Norway,True,Telegeography,2022-09-14
+eviny-digital,Stavanger,,Norway,True,Telegeography,2022-09-14
+exa-express,Halifax, NS,Canada,True,Telegeography,2022-09-14
+exa-express,Cork,,Ireland,True,Telegeography,2022-09-14
+exa-express,Brean,,United Kingdom,True,Telegeography,2022-09-14
+exa-north-and-south,Halifax, NS,Canada,True,Telegeography,2022-09-14
+exa-north-and-south,Dublin,,Ireland,True,Telegeography,2022-09-14
+exa-north-and-south,Coleraine,,United Kingdom,True,Telegeography,2022-09-14
+exa-north-and-south,Southport,,United Kingdom,True,Telegeography,2022-09-14
+exa-north-and-south,Lynn, MA,United States,True,Telegeography,2022-09-14
+falcon,Manama,,Bahrain,True,Telegeography,2022-09-14
+falcon,Suez,,Egypt,True,Telegeography,2022-09-14
+falcon,Mumbai,,India,True,Telegeography,2022-09-14
+falcon,Trivendrum,,India,True,Telegeography,2022-09-14
+falcon,Bandar Abbas,,Iran,True,Telegeography,2022-09-14
+falcon,Chabahar,,Iran,True,Telegeography,2022-09-14
+falcon,Al Faw,,Iraq,True,Telegeography,2022-09-14
+falcon,Al Safat,,Kuwait,True,Telegeography,2022-09-14
+falcon,Male,,Maldives,True,Telegeography,2022-09-14
+falcon,Al Seeb,,Oman,True,Telegeography,2022-09-14
+falcon,Khasab,,Oman,True,Telegeography,2022-09-14
+falcon,Doha,,Qatar,True,Telegeography,2022-09-14
+falcon,Al Khobar,,Saudi Arabia,True,Telegeography,2022-09-14
+falcon,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+falcon,Colombo,,Sri Lanka,True,Telegeography,2022-09-14
+falcon,Port Sudan,,Sudan,True,Telegeography,2022-09-14
+falcon,Dubai,,United Arab Emirates,True,Telegeography,2022-09-14
+falcon,Al Ghaydah,,Yemen,True,Telegeography,2022-09-14
+falcon,Al Hudaydah,,Yemen,True,Telegeography,2022-09-14
+far-east-submarine-cable-system,Okha,,Russia,True,Telegeography,2022-09-14
+far-east-submarine-cable-system,Ola,,Russia,True,Telegeography,2022-09-14
+far-east-submarine-cable-system,Ust-Bolsheretsk,,Russia,True,Telegeography,2022-09-14
+farice-1,Funningsfjordur,,Faroe Islands,True,Telegeography,2022-09-14
+farice-1,Seydisfjordur,,Iceland,True,Telegeography,2022-09-14
+farice-1,Dunnet Bay,,United Kingdom,True,Telegeography,2022-09-14
+farland-north,Domburg,,Netherlands,True,Telegeography,2022-09-14
+farland-north,Aldeburgh,,United Kingdom,True,Telegeography,2022-09-14
+faster,Chikura,,Japan,True,Telegeography,2022-09-14
+faster,Shima,,Japan,True,Telegeography,2022-09-14
+faster,Tanshui,,Taiwan,True,Telegeography,2022-09-14
+faster,Bandon, OR,United States,True,Telegeography,2022-09-14
+fehmarn-blt,Rodbyhavn,,Denmark,True,Telegeography,2022-09-14
+fehmarn-blt,Puttgarden,,Germany,True,Telegeography,2022-09-14
+fiber-optic-gulf-fog,Manama,,Bahrain,True,Telegeography,2022-09-14
+fiber-optic-gulf-fog,Kuwait City,,Kuwait,True,Telegeography,2022-09-14
+fiber-optic-gulf-fog,Doha,,Qatar,True,Telegeography,2022-09-14
+fiber-optic-gulf-fog,Dubai,,United Arab Emirates,True,Telegeography,2022-09-14
+fibra-optica-al-pacfico,Ilo,,Peru,True,Telegeography,2022-09-14
+fibra-optica-al-pacfico,Lurin,,Peru,True,Telegeography,2022-09-14
+fibra-optica-austral,Puerto Montt,,Chile,True,Telegeography,2022-09-14
+fibra-optica-austral,Puerto Williams,,Chile,True,Telegeography,2022-09-14
+fibra-optica-austral,Punta Arenas,,Chile,True,Telegeography,2022-09-14
+fibra-optica-austral,Tortel,,Chile,True,Telegeography,2022-09-14
+fibralink,Puerto Plata,,Dominican Republic,True,Telegeography,2022-09-14
+fibralink,Kaliko,,Haiti,True,Telegeography,2022-09-14
+fibralink,Bull Bay,,Jamaica,True,Telegeography,2022-09-14
+fibralink,Montego Bay,,Jamaica,True,Telegeography,2022-09-14
+fibralink,Ocho Rios,,Jamaica,True,Telegeography,2022-09-14
+finland-estonia-2-eesf-2,Tallinn,,Estonia,True,Telegeography,2022-09-14
+finland-estonia-2-eesf-2,Helsinki,,Finland,True,Telegeography,2022-09-14
+finland-estonia-3-eesf-3,Meremöisa,,Estonia,True,Telegeography,2022-09-14
+finland-estonia-3-eesf-3,Helsinki,,Finland,True,Telegeography,2022-09-14
+finland-estonia-connection-fec,Tallinn,,Estonia,True,Telegeography,2022-09-14
+finland-estonia-connection-fec,Helsinki,,Finland,True,Telegeography,2022-09-14
+firmina,Las Toninas,,Argentina,True,Telegeography,2022-09-14
+firmina,Praia Grande,,Brazil,True,Telegeography,2022-09-14
+firmina,Myrtle Beach, SC,United States,True,Telegeography,2022-09-14
+firmina,Punta del Este,,Uruguay,True,Telegeography,2022-09-14
+flag-atlantic-1-fa-1,Plerin,,France,True,Telegeography,2022-09-14
+flag-atlantic-1-fa-1,Skewjack,,United Kingdom,True,Telegeography,2022-09-14
+flag-atlantic-1-fa-1,Island Park, NY,United States,True,Telegeography,2022-09-14
+flag-atlantic-1-fa-1,Northport, NY,United States,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Lantau Island,,China,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Nanhui,,China,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Alexandria,,Egypt,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Suez,,Egypt,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Mumbai,,India,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Palermo,,Italy,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Miura,,Japan,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Aqaba,,Jordan,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Penang,,Malaysia,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Geoje,,South Korea,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Estepona,,Spain,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Satun,,Thailand,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Songkhla,,Thailand,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+flag-europe-asia-fea,Porthcurno,,United Kingdom,True,Telegeography,2022-09-14
+flag-north-asia-loopreach-north-asia-loop,Tong Fuk,,China,True,Telegeography,2022-09-14
+flag-north-asia-loopreach-north-asia-loop,Wada,,Japan,True,Telegeography,2022-09-14
+flag-north-asia-loopreach-north-asia-loop,Busan,,South Korea,True,Telegeography,2022-09-14
+flag-north-asia-loopreach-north-asia-loop,Toucheng,,Taiwan,True,Telegeography,2022-09-14
+flores-corvo-cable-system,Corvo,,Portugal,True,Telegeography,2022-09-14
+flores-corvo-cable-system,Faial,,Portugal,True,Telegeography,2022-09-14
+flores-corvo-cable-system,Flores,,Portugal,True,Telegeography,2022-09-14
+flores-corvo-cable-system,Graciosa,,Portugal,True,Telegeography,2022-09-14
+fly-lion3,Moroni,,Comoros,True,Telegeography,2022-09-14
+fly-lion3,Kaweni,,Mayotte,True,Telegeography,2022-09-14
+fos-quellon-chacabuco,Puerto Chacabuco,,Chile,True,Telegeography,2022-09-14
+fos-quellon-chacabuco,Quellon,,Chile,True,Telegeography,2022-09-14
+galapagos-cable-system,Manta,,Ecuador,True,Telegeography,2022-09-14
+galapagos-cable-system,Puerto Ayora,,Ecuador,True,Telegeography,2022-09-14
+galapagos-cable-system,Puerto Baquerizo Moreno,,Ecuador,True,Telegeography,2022-09-14
+galapagos-cable-system,Puerto General Villamil,,Ecuador,True,Telegeography,2022-09-14
+gemini-bermuda,St. David’s,,Bermuda,True,Telegeography,2022-09-14
+gemini-bermuda,Manasquan, NJ,United States,True,Telegeography,2022-09-14
+geo-eirgrid,Lusk,,Ireland,True,Telegeography,2022-09-14
+geo-eirgrid,Deeside Clwyd,,United Kingdom,True,Telegeography,2022-09-14
+georgia-russia,Poti,,Georgia,True,Telegeography,2022-09-14
+georgia-russia,Novorossiysk,,Russia,True,Telegeography,2022-09-14
+georgia-russia,Sochi,,Russia,True,Telegeography,2022-09-14
+germany-denmark-3,Gedser,,Denmark,True,Telegeography,2022-09-14
+germany-denmark-3,Markgrafenheide,,Germany,True,Telegeography,2022-09-14
+gignet-1,Cancún,,Mexico,True,Telegeography,2022-09-14
+gignet-1,Boca Raton, FL,United States,True,Telegeography,2022-09-14
+glo-1,Accra,,Ghana,True,Telegeography,2022-09-14
+glo-1,Lagos,,Nigeria,True,Telegeography,2022-09-14
+glo-1,Bude,,United Kingdom,True,Telegeography,2022-09-14
+global-caribbean-network-gcn,Baillif,,Guadeloupe,True,Telegeography,2022-09-14
+global-caribbean-network-gcn,Jarry,,Guadeloupe,True,Telegeography,2022-09-14
+global-caribbean-network-gcn,Saint Barthelemy,,Saint Barthélemy,True,Telegeography,2022-09-14
+global-caribbean-network-gcn,Saint Martin,,Saint Martin,True,Telegeography,2022-09-14
+global-caribbean-network-gcn,San Juan, PR,United States,True,Telegeography,2022-09-14
+global-caribbean-network-gcn,St. Croix,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+globalconnect-2-gc2,Saeby,,Denmark,True,Telegeography,2022-09-14
+globalconnect-2-gc2,Kungsbacka,,Sweden,True,Telegeography,2022-09-14
+globalconnect-3-gc3,Korsor,,Denmark,True,Telegeography,2022-09-14
+globalconnect-3-gc3,Nybor,,Denmark,True,Telegeography,2022-09-14
+globalconnect-kpn,Gedser,,Denmark,True,Telegeography,2022-09-14
+globalconnect-kpn,Rostock,,Germany,True,Telegeography,2022-09-14
+globenet,St. David’s,,Bermuda,True,Telegeography,2022-09-14
+globenet,Fortaleza,,Brazil,True,Telegeography,2022-09-14
+globenet,Rio de Janeiro,,Brazil,True,Telegeography,2022-09-14
+globenet,Barranquilla,,Colombia,True,Telegeography,2022-09-14
+globenet,Boca Raton, FL,United States,True,Telegeography,2022-09-14
+globenet,Tuckerton, NJ,United States,True,Telegeography,2022-09-14
+globenet,Maiquetia,,Venezuela,True,Telegeography,2022-09-14
+go-1-mediterranean-cable-system,Mazara del Vallo,,Italy,True,Telegeography,2022-09-14
+go-1-mediterranean-cable-system,St. Paul''s Bay,,Malta,True,Telegeography,2022-09-14
+gondwana-1,Sydney, NSW,Australia,True,Telegeography,2022-09-14
+gondwana-1,Noumea,,New Caledonia,True,Telegeography,2022-09-14
+gondwana-2picot-2,Suva,,Fiji,True,Telegeography,2022-09-14
+gondwana-2picot-2,Mont-Dore,,New Caledonia,True,Telegeography,2022-09-14
+gondwana-2picot-2,Noumea,,New Caledonia,True,Telegeography,2022-09-14
+gondwana-2picot-2,Quanono,,New Caledonia,True,Telegeography,2022-09-14
+gondwana-2picot-2,Tadine,,New Caledonia,True,Telegeography,2022-09-14
+gondwana-2picot-2,Vao,,New Caledonia,True,Telegeography,2022-09-14
+gondwana-2picot-2,Yate,,New Caledonia,True,Telegeography,2022-09-14
+grace-hopper,Bilbao,,Spain,True,Telegeography,2022-09-14
+grace-hopper,Bude,,United Kingdom,True,Telegeography,2022-09-14
+grace-hopper,Bellport, NY,United States,True,Telegeography,2022-09-14
+greenland-connect-north,Aasiaat,,Greenland,True,Telegeography,2022-09-14
+greenland-connect-north,Maniitsoq,,Greenland,True,Telegeography,2022-09-14
+greenland-connect-north,Nuuk,,Greenland,True,Telegeography,2022-09-14
+greenland-connect-north,Sisimiut,,Greenland,True,Telegeography,2022-09-14
+greenland-connect,Milton, NL,Canada,True,Telegeography,2022-09-14
+greenland-connect,Nuuk,,Greenland,True,Telegeography,2022-09-14
+greenland-connect,Qaqortoq,,Greenland,True,Telegeography,2022-09-14
+greenland-connect,Landeyjar,,Iceland,True,Telegeography,2022-09-14
+groix-4,Petit Perello,,France,True,Telegeography,2022-09-14
+groix-4,Port Nâl,,France,True,Telegeography,2022-09-14
+gtmo-1,Guantanamo Bay,,Cuba,True,Telegeography,2022-09-14
+gtmo-1,Dania Beach, FL,United States,True,Telegeography,2022-09-14
+gtmo-pr,Guantanamo Bay,,Cuba,True,Telegeography,2022-09-14
+gtmo-pr,Punta Salina, PR,United States,True,Telegeography,2022-09-14
+guadeloupe-cable-des-iles-du-sud-gcis,Beausejour,,Guadeloupe,True,Telegeography,2022-09-14
+guadeloupe-cable-des-iles-du-sud-gcis,Capesterre-Belle-Eau,,Guadeloupe,True,Telegeography,2022-09-14
+guadeloupe-cable-des-iles-du-sud-gcis,Saint-François,,Guadeloupe,True,Telegeography,2022-09-14
+guadeloupe-cable-des-iles-du-sud-gcis,Saint-Louis,,Guadeloupe,True,Telegeography,2022-09-14
+guadeloupe-cable-des-iles-du-sud-gcis,Terre-de-Haut,,Guadeloupe,True,Telegeography,2022-09-14
+guam-okinawa-kyushu-incheon-goki,Tumon Bay,,Guam,True,Telegeography,2022-09-14
+guam-okinawa-kyushu-incheon-goki,Kita-kyushu,,Japan,True,Telegeography,2022-09-14
+guam-okinawa-kyushu-incheon-goki,Okinawa,,Japan,True,Telegeography,2022-09-14
+guernsey-jersey-4,Saints Bay,,Guernsey,True,Telegeography,2022-09-14
+guernsey-jersey-4,Greve de Lecq,,Jersey,True,Telegeography,2022-09-14
+gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,Al Hidd,,Bahrain,True,Telegeography,2022-09-14
+gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,Mumbai,,India,True,Telegeography,2022-09-14
+gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,Bushehr,,Iran,True,Telegeography,2022-09-14
+gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,Al Faw,,Iraq,True,Telegeography,2022-09-14
+gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,Kuwait City,,Kuwait,True,Telegeography,2022-09-14
+gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,Al Seeb,,Oman,True,Telegeography,2022-09-14
+gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,Al Daayen,,Qatar,True,Telegeography,2022-09-14
+gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,Al Khobar,,Saudi Arabia,True,Telegeography,2022-09-14
+gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+gulf-of-california-cable,La Paz,,Mexico,True,Telegeography,2022-09-14
+gulf-of-california-cable,Topolobampo,,Mexico,True,Telegeography,2022-09-14
+gulf-of-mexico-fiber-optic-network,Freeport, TX,United States,True,Telegeography,2022-09-14
+gulf-of-mexico-fiber-optic-network,Pascagoula, MS,United States,True,Telegeography,2022-09-14
+gulf2africa-g2a,Salalah,,Oman,True,Telegeography,2022-09-14
+gulf2africa-g2a,Berbera,,Somalia,True,Telegeography,2022-09-14
+gulf2africa-g2a,Bosaso,,Somalia,True,Telegeography,2022-09-14
+hainan-to-hong-kong-express-h2he,Chung Hom Kok,,China,True,Telegeography,2022-09-14
+hainan-to-hong-kong-express-h2he,Wenchang,,China,True,Telegeography,2022-09-14
+hainan-to-hong-kong-express-h2he,Zhuhai,,China,True,Telegeography,2022-09-14
+hannibal-system,Mazara del Vallo,,Italy,True,Telegeography,2022-09-14
+hannibal-system,Kelibia,,Tunisia,True,Telegeography,2022-09-14
+hantru1-cable-system,Piti,,Guam,True,Telegeography,2022-09-14
+hantru1-cable-system,Kwajalein,,Marshall Islands,True,Telegeography,2022-09-14
+hantru1-cable-system,Majuro,,Marshall Islands,True,Telegeography,2022-09-14
+hantru1-cable-system,Pohnpei,,Micronesia,True,Telegeography,2022-09-14
+havfrueaec-2,Blaabjerg,,Denmark,True,Telegeography,2022-09-14
+havfrueaec-2,Lecanvey,,Ireland,True,Telegeography,2022-09-14
+havfrueaec-2,Kristiansand,,Norway,True,Telegeography,2022-09-14
+havfrueaec-2,Wall Township, NJ,United States,True,Telegeography,2022-09-14
+havhingstenceltixconnect-2-cc-2,LoughShinny,,Ireland,True,Telegeography,2022-09-14
+havhingstenceltixconnect-2-cc-2,Port Erin,,Isle of Man,True,Telegeography,2022-09-14
+havhingstenceltixconnect-2-cc-2,Port Grenaugh,,Isle of Man,True,Telegeography,2022-09-14
+havhingstenceltixconnect-2-cc-2,Blackpool,,United Kingdom,True,Telegeography,2022-09-14
+havhingstennorth-sea-connect-nsc,Houstrup,,Denmark,True,Telegeography,2022-09-14
+havhingstennorth-sea-connect-nsc,Newcastle,,United Kingdom,True,Telegeography,2022-09-14
+havsil,Hanstholm,,Denmark,True,Telegeography,2022-09-14
+havsil,Kristiansand,,Norway,True,Telegeography,2022-09-14
+hawaiki-nui,Brisbane, QLD,Australia,True,Telegeography,2022-09-14
+hawaiki-nui,Darwin, NT,Australia,True,Telegeography,2022-09-14
+hawaiki-nui,Melbourne, VIC,Australia,True,Telegeography,2022-09-14
+hawaiki-nui,Sydney, NSW,Australia,True,Telegeography,2022-09-14
+hawaiki-nui,Batam,,Indonesia,True,Telegeography,2022-09-14
+hawaiki-nui,Jakarta,,Indonesia,True,Telegeography,2022-09-14
+hawaiki-nui,Christchurch,,New Zealand,True,Telegeography,2022-09-14
+hawaiki-nui,Dunedin,,New Zealand,True,Telegeography,2022-09-14
+hawaiki-nui,Invercargill,,New Zealand,True,Telegeography,2022-09-14
+hawaiki-nui,Singapore,,Singapore,True,Telegeography,2022-09-14
+hawaiki-nui,Kapolei, HI,United States,True,Telegeography,2022-09-14
+hawaiki-nui,Kawaihae, HI,United States,True,Telegeography,2022-09-14
+hawaiki-nui,Los Angeles, CA,United States,True,Telegeography,2022-09-14
+hawaiki,Pago Pago,,American Samoa,True,Telegeography,2022-09-14
+hawaiki,Sydney, NSW,Australia,True,Telegeography,2022-09-14
+hawaiki,Mangawhai,,New Zealand,True,Telegeography,2022-09-14
+hawaiki,Hillsboro, OR,United States,True,Telegeography,2022-09-14
+hawaiki,Kapolei, HI,United States,True,Telegeography,2022-09-14
+hawk,Yeroskipos,,Cyprus,True,Telegeography,2022-09-14
+hawk,Alexandria,,Egypt,True,Telegeography,2022-09-14
+hawk,Marseille,,France,True,Telegeography,2022-09-14
+hdr1,Cape Ray, NL,Canada,True,Telegeography,2022-09-14
+hdr1,Sydney Mines, NS,Canada,True,Telegeography,2022-09-14
+hdr2,Aylesford, NS,Canada,True,Telegeography,2022-09-14
+hdr2,Codroy, NL,Canada,True,Telegeography,2022-09-14
+hdr2,Dingwall, NS,Canada,True,Telegeography,2022-09-14
+hdr2,Saint John, NB,Canada,True,Telegeography,2022-09-14
+hics-hawaii-inter-island-cable-system,Kawaihae, HI,United States,True,Telegeography,2022-09-14
+hics-hawaii-inter-island-cable-system,Kihei, Maui,United States,True,Telegeography,2022-09-14
+hics-hawaii-inter-island-cable-system,Ko Olina, HI,United States,True,Telegeography,2022-09-14
+hics-hawaii-inter-island-cable-system,Koko Head, HI,United States,True,Telegeography,2022-09-14
+hics-hawaii-inter-island-cable-system,Lihue, HI,United States,True,Telegeography,2022-09-14
+hifn-hawaii-island-fibre-network,Kaunakakai, HI,United States,True,Telegeography,2022-09-14
+hifn-hawaii-island-fibre-network,Kawaihae, HI,United States,True,Telegeography,2022-09-14
+hifn-hawaii-island-fibre-network,Kihei, Maui,United States,True,Telegeography,2022-09-14
+hifn-hawaii-island-fibre-network,Koko Head, HI,United States,True,Telegeography,2022-09-14
+hifn-hawaii-island-fibre-network,Lihue, HI,United States,True,Telegeography,2022-09-14
+hifn-hawaii-island-fibre-network,Makaha, HI,United States,True,Telegeography,2022-09-14
+hifn-hawaii-island-fibre-network,Manele Bay, HI,United States,True,Telegeography,2022-09-14
+high-capacity-undersea-guernsey-optical-fibre-hugo,Lannion,,France,True,Telegeography,2022-09-14
+high-capacity-undersea-guernsey-optical-fibre-hugo,Pembroke,,Guernsey,True,Telegeography,2022-09-14
+high-capacity-undersea-guernsey-optical-fibre-hugo,Saints Bay,,Guernsey,True,Telegeography,2022-09-14
+high-capacity-undersea-guernsey-optical-fibre-hugo,Porthcurno,,United Kingdom,True,Telegeography,2022-09-14
+hokkaido-akita-cable,Akita,,Japan,False,Telegeography,2022-09-14
+hokkaido-akita-cable,Sapporo,,Japan,False,Telegeography,2022-09-14
+hokkaido-sakhalin-cable-system-hscs,Ishikari,,Japan,True,Telegeography,2022-09-14
+hokkaido-sakhalin-cable-system-hscs,Nevelsk,,Russia,True,Telegeography,2022-09-14
+honotua,Huahine,,French Polynesia,True,Telegeography,2022-09-14
+honotua,Moorea,,French Polynesia,True,Telegeography,2022-09-14
+honotua,Papenoo,,French Polynesia,True,Telegeography,2022-09-14
+honotua,Uturoa,,French Polynesia,True,Telegeography,2022-09-14
+honotua,Vaitape,,French Polynesia,True,Telegeography,2022-09-14
+honotua,Kawaihae, HI,United States,True,Telegeography,2022-09-14
+hronn,Fano,,Denmark,True,Telegeography,2022-09-14
+hronn,TotalEnergies Halfdan,,Denmark,True,Telegeography,2022-09-14
+hronn,TotalEnergies Tyra,,Denmark,True,Telegeography,2022-09-14
+i2i-cable-network-i2icn,Chennai,,India,True,Telegeography,2022-09-14
+i2i-cable-network-i2icn,Tuas,,Singapore,True,Telegeography,2022-09-14
+imewe,Alexandria,,Egypt,True,Telegeography,2022-09-14
+imewe,Suez,,Egypt,True,Telegeography,2022-09-14
+imewe,Marseille,,France,True,Telegeography,2022-09-14
+imewe,Mumbai,,India,True,Telegeography,2022-09-14
+imewe,Catania,,Italy,True,Telegeography,2022-09-14
+imewe,Tripoli,,Lebanon,True,Telegeography,2022-09-14
+imewe,Karachi,,Pakistan,True,Telegeography,2022-09-14
+imewe,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+imewe,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+india-asia-xpress-iax,Chennai,,India,True,Telegeography,2022-09-14
+india-asia-xpress-iax,Mumbai,,India,True,Telegeography,2022-09-14
+india-asia-xpress-iax,Morib,,Malaysia,True,Telegeography,2022-09-14
+india-asia-xpress-iax,Hulhumale,,Maldives,True,Telegeography,2022-09-14
+india-asia-xpress-iax,Tuas,,Singapore,True,Telegeography,2022-09-14
+india-asia-xpress-iax,Matara,,Sri Lanka,True,Telegeography,2022-09-14
+india-asia-xpress-iax,Satun,,Thailand,True,Telegeography,2022-09-14
+india-europe-xpress-iex,Djibouti City,,Djibouti,True,Telegeography,2022-09-14
+india-europe-xpress-iex,Sidi Kerir,,Egypt,True,Telegeography,2022-09-14
+india-europe-xpress-iex,Zafarana,,Egypt,True,Telegeography,2022-09-14
+india-europe-xpress-iex,Timpaki,,Greece,True,Telegeography,2022-09-14
+india-europe-xpress-iex,Mumbai,,India,True,Telegeography,2022-09-14
+india-europe-xpress-iex,Savona,,Italy,True,Telegeography,2022-09-14
+india-europe-xpress-iex,Salalah,,Oman,True,Telegeography,2022-09-14
+india-europe-xpress-iex,Duba,,Saudi Arabia,True,Telegeography,2022-09-14
+india-europe-xpress-iex,Yanbu,,Saudi Arabia,True,Telegeography,2022-09-14
+indigo-central,Alexandria, NSW,Australia,True,Telegeography,2022-09-14
+indigo-central,Perth, WA,Australia,True,Telegeography,2022-09-14
+indigo-west,Perth, WA,Australia,True,Telegeography,2022-09-14
+indigo-west,Jakarta,,Indonesia,True,Telegeography,2022-09-14
+indigo-west,Tuas,,Singapore,True,Telegeography,2022-09-14
+indonesia-global-gateway-igg-system,Bali,,Indonesia,True,Telegeography,2022-09-14
+indonesia-global-gateway-igg-system,Balikpapan,,Indonesia,True,Telegeography,2022-09-14
+indonesia-global-gateway-igg-system,Batam,,Indonesia,True,Telegeography,2022-09-14
+indonesia-global-gateway-igg-system,Dumai,,Indonesia,True,Telegeography,2022-09-14
+indonesia-global-gateway-igg-system,Jakarta,,Indonesia,True,Telegeography,2022-09-14
+indonesia-global-gateway-igg-system,Madura,,Indonesia,True,Telegeography,2022-09-14
+indonesia-global-gateway-igg-system,Makassar,,Indonesia,True,Telegeography,2022-09-14
+indonesia-global-gateway-igg-system,Manado,,Indonesia,True,Telegeography,2022-09-14
+indonesia-global-gateway-igg-system,Tarakan,,Indonesia,True,Telegeography,2022-09-14
+indonesia-global-gateway-igg-system,Tuas,,Singapore,True,Telegeography,2022-09-14
+ingrid,Surville,,France,True,Telegeography,2022-09-14
+ingrid,Havelet Bay,,Guernsey,True,Telegeography,2022-09-14
+ingrid,Archirondel,,Jersey,True,Telegeography,2022-09-14
+ingrid,Greve de Lecq,,Jersey,True,Telegeography,2022-09-14
+interchange-cable-network-1-icn1,Suva,,Fiji,True,Telegeography,2022-09-14
+interchange-cable-network-1-icn1,Port Vila,,Vanuatu,True,Telegeography,2022-09-14
+ionian,Preveza,,Greece,True,Telegeography,2022-09-14
+ionian,Crotone,,Italy,True,Telegeography,2022-09-14
+ip-only-denmark-sweden,Brondby,,Denmark,True,Telegeography,2022-09-14
+ip-only-denmark-sweden,Klagshamn,,Sweden,True,Telegeography,2022-09-14
+iris,Thorlakshofn,,Iceland,True,Telegeography,2022-09-14
+iris,Galway,,Ireland,True,Telegeography,2022-09-14
+isles-of-scilly-cable,Porthcressa Beach,,United Kingdom,True,Telegeography,2022-09-14
+isles-of-scilly-cable,Porthcurno,,United Kingdom,True,Telegeography,2022-09-14
+italy-albania,Durres,,Albania,True,Telegeography,2022-09-14
+italy-albania,Bari,,Italy,True,Telegeography,2022-09-14
+italy-croatia,Umag,,Croatia,True,Telegeography,2022-09-14
+italy-croatia,Mestre,,Italy,True,Telegeography,2022-09-14
+italy-greece-1,Aethos,,Greece,True,Telegeography,2022-09-14
+italy-greece-1,Otranto,,Italy,True,Telegeography,2022-09-14
+italy-libya,Mazara del Vallo,,Italy,True,Telegeography,2022-09-14
+italy-libya,Tripoli,,Libya,True,Telegeography,2022-09-14
+italy-malta,Catania,,Italy,True,Telegeography,2022-09-14
+italy-malta,Msida,,Malta,True,Telegeography,2022-09-14
+italy-monaco,Savona,,Italy,True,Telegeography,2022-09-14
+italy-monaco,Monte Carlo,,Monaco,True,Telegeography,2022-09-14
+ixchel,Isla de Cozumel,,Mexico,True,Telegeography,2022-09-14
+ixchel,Playa del Carmen,,Mexico,True,Telegeography,2022-09-14
+jaka2ladema,Banjarmasin,,Indonesia,True,Telegeography,2022-09-14
+jaka2ladema,Beculuk,,Indonesia,True,Telegeography,2022-09-14
+jaka2ladema,Denpasar,,Indonesia,True,Telegeography,2022-09-14
+jaka2ladema,Gianyar,,Indonesia,True,Telegeography,2022-09-14
+jaka2ladema,Ketapang,,Indonesia,True,Telegeography,2022-09-14
+jaka2ladema,Mataram,,Indonesia,True,Telegeography,2022-09-14
+jaka2ladema,Pankalan,,Indonesia,True,Telegeography,2022-09-14
+jaka2ladema,Pontianak,,Indonesia,True,Telegeography,2022-09-14
+jaka2ladema,Sangata,,Indonesia,True,Telegeography,2022-09-14
+jaka2ladema,Toweli,,Indonesia,True,Telegeography,2022-09-14
+jakabare,Sungai Kakap,,Indonesia,True,Telegeography,2022-09-14
+jakabare,Tanjung Bemban,,Indonesia,True,Telegeography,2022-09-14
+jakabare,Tanjung Pakis,,Indonesia,True,Telegeography,2022-09-14
+jakabare,Changi North,,Singapore,True,Telegeography,2022-09-14
+jakarta-bangka-bintan-batam-singapore-b3js,Batam,,Indonesia,True,Telegeography,2022-09-14
+jakarta-bangka-bintan-batam-singapore-b3js,Batu Prahu,,Indonesia,True,Telegeography,2022-09-14
+jakarta-bangka-bintan-batam-singapore-b3js,Bintan,,Indonesia,True,Telegeography,2022-09-14
+jakarta-bangka-bintan-batam-singapore-b3js,Jakarta,,Indonesia,True,Telegeography,2022-09-14
+jakarta-bangka-bintan-batam-singapore-b3js,Pesaren,,Indonesia,True,Telegeography,2022-09-14
+jakarta-bangka-bintan-batam-singapore-b3js,Tanah Merah,,Singapore,True,Telegeography,2022-09-14
+jakarta-surabaya-cable-system-jayabaya,Banyu Urip,,Indonesia,True,Telegeography,2022-09-14
+jakarta-surabaya-cable-system-jayabaya,Cirebon,,Indonesia,True,Telegeography,2022-09-14
+jakarta-surabaya-cable-system-jayabaya,Kendal,,Indonesia,True,Telegeography,2022-09-14
+jakarta-surabaya-cable-system-jayabaya,Tanjung Pakis,,Indonesia,True,Telegeography,2022-09-14
+jambi-batam-cable-system-jiba,Kuala Tungkal,,Indonesia,True,Telegeography,2022-09-14
+jambi-batam-cable-system-jiba,Tanjung Pinggir,,Indonesia,True,Telegeography,2022-09-14
+janna,Cagliari,,Italy,True,Telegeography,2022-09-14
+janna,Civitavecchia,,Italy,True,Telegeography,2022-09-14
+janna,Mazara del Vallo,,Italy,True,Telegeography,2022-09-14
+janna,Olbia,,Italy,True,Telegeography,2022-09-14
+japan-guam-australia-north-jga-n,Piti,,Guam,True,Telegeography,2022-09-14
+japan-guam-australia-north-jga-n,Minamiboso,,Japan,True,Telegeography,2022-09-14
+japan-guam-australia-south-jga-s,Brookvale, NSW,Australia,True,Telegeography,2022-09-14
+japan-guam-australia-south-jga-s,Maroochydore, QLD,Australia,True,Telegeography,2022-09-14
+japan-guam-australia-south-jga-s,Piti,,Guam,True,Telegeography,2022-09-14
+japan-information-highway-jih,Akita,,Japan,True,Telegeography,2022-09-14
+japan-information-highway-jih,Chikura,,Japan,True,Telegeography,2022-09-14
+japan-information-highway-jih,Ibaraki,,Japan,True,Telegeography,2022-09-14
+japan-information-highway-jih,Ishikari,,Japan,True,Telegeography,2022-09-14
+japan-information-highway-jih,Miyazaki,,Japan,True,Telegeography,2022-09-14
+japan-information-highway-jih,Okinawa,,Japan,True,Telegeography,2022-09-14
+japan-information-highway-jih,Sendai,,Japan,True,Telegeography,2022-09-14
+japan-information-highway-jih,Shima,,Japan,True,Telegeography,2022-09-14
+japan-u-s-cable-network-jus,Kitaibaraki,,Japan,True,Telegeography,2022-09-14
+japan-u-s-cable-network-jus,Maruyama,,Japan,True,Telegeography,2022-09-14
+japan-u-s-cable-network-jus,Shima,,Japan,True,Telegeography,2022-09-14
+japan-u-s-cable-network-jus,Makaha, HI,United States,True,Telegeography,2022-09-14
+japan-u-s-cable-network-jus,Manchester, CA,United States,True,Telegeography,2022-09-14
+japan-u-s-cable-network-jus,Morro Bay, CA,United States,True,Telegeography,2022-09-14
+jasuka,Bandar Lampung,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Batam,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Baturaja,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Dumai,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Jakarta,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Jambi,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Medan,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Padang,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Palembang,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Pekanbaru,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Pontianak,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Rantu Prapat,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Sibolga,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Tanjung Pakis,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Tanjung Pandan,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Teping Tinggi,,Indonesia,True,Telegeography,2022-09-14
+jasuka,Bandar Bukit Tinggi,,Malaysia,True,Telegeography,2022-09-14
+java-bali-cable-system-jbcs,Candi Kusuma,,Indonesia,True,Telegeography,2022-09-14
+java-bali-cable-system-jbcs,Muncar,,Indonesia,True,Telegeography,2022-09-14
+java-kalimantan-sulawesi-jakasusi,Aeng Batu Batu,,Indonesia,True,Telegeography,2022-09-14
+java-kalimantan-sulawesi-jakasusi,Banyu Urip,,Indonesia,True,Telegeography,2022-09-14
+java-kalimantan-sulawesi-jakasusi,Takesung,,Indonesia,True,Telegeography,2022-09-14
+jerry-newton,North Salina, Bonaire,Sint Eustatius and Saba,True,Telegeography,2022-09-14
+jerry-newton,Willemstad,,Curaçao,True,Telegeography,2022-09-14
+jonah,Tel Aviv,,Israel,True,Telegeography,2022-09-14
+jonah,Bari,,Italy,True,Telegeography,2022-09-14
+jscfs,Black River,,Jamaica,True,Telegeography,2022-09-14
+jscfs,Bull Bay,,Jamaica,True,Telegeography,2022-09-14
+jscfs,Montego Bay,,Jamaica,True,Telegeography,2022-09-14
+jscfs,Negril,,Jamaica,True,Telegeography,2022-09-14
+junior,Rio de Janeiro,,Brazil,True,Telegeography,2022-09-14
+junior,Santos,,Brazil,True,Telegeography,2022-09-14
+juno,Ajigaura,,Japan,False,Telegeography,2022-09-14
+juno,Shima,,Japan,False,Telegeography,2022-09-14
+juno,Los Angeles, CA,United States,False,Telegeography,2022-09-14
+jupiter,Maruyama,,Japan,True,Telegeography,2022-09-14
+jupiter,Shima,,Japan,True,Telegeography,2022-09-14
+jupiter,Daet,,Philippines,True,Telegeography,2022-09-14
+jupiter,Cloverdale, OR,United States,True,Telegeography,2022-09-14
+jupiter,Hermosa Beach, CA,United States,True,Telegeography,2022-09-14
+kafos,Varna,,Bulgaria,True,Telegeography,2022-09-14
+kafos,Mangalia,,Romania,True,Telegeography,2022-09-14
+kafos,Igneada,,Turkey,True,Telegeography,2022-09-14
+kafos,Istanbul,,Turkey,True,Telegeography,2022-09-14
+kaliningrad-cable,Kaliningrad,,Russia,True,Telegeography,2022-09-14
+kaliningrad-cable,Kingisepp,,Russia,True,Telegeography,2022-09-14
+kanawa,Kourou,,French Guiana,True,Telegeography,2022-09-14
+kanawa,Schoelcher,,Martinique,True,Telegeography,2022-09-14
+kattegat-2,Lyngsa,,Denmark,True,Telegeography,2022-09-14
+kattegat-2,Osterby,,Denmark,True,Telegeography,2022-09-14
+kattegat-2,Vestero,,Denmark,True,Telegeography,2022-09-14
+kattegat-2,Skalvik,,Sweden,True,Telegeography,2022-09-14
+kattittuq-nunavut-fibre-link,Iqaluit, NU,Canada,True,Telegeography,2022-09-14
+kattittuq-nunavut-fibre-link,Milton, NL,Canada,True,Telegeography,2022-09-14
+kerch-strait-cable,Ilyich,,Russia,True,Telegeography,2022-09-14
+kerch-strait-cable,Kerch,,Ukraine,True,Telegeography,2022-09-14
+ketchcan1-submarine-fiber-cable-system,Prince Rupert, BC,Canada,True,Telegeography,2022-09-14
+ketchcan1-submarine-fiber-cable-system,Ketchikan, AK,United States,True,Telegeography,2022-09-14
+kodiak-kenai-fiber-link-kkfl,Anchorage, AK,United States,True,Telegeography,2022-09-14
+kodiak-kenai-fiber-link-kkfl,Homer, AK,United States,True,Telegeography,2022-09-14
+kodiak-kenai-fiber-link-kkfl,Kenai, AK,United States,True,Telegeography,2022-09-14
+kodiak-kenai-fiber-link-kkfl,Kodiak, AK,United States,True,Telegeography,2022-09-14
+kodiak-kenai-fiber-link-kkfl,Narrow Cape, AK,United States,True,Telegeography,2022-09-14
+kodiak-kenai-fiber-link-kkfl,Seward, AK,United States,True,Telegeography,2022-09-14
+korea-japan-cable-network-kjcn,Fukuoka,,Japan,True,Telegeography,2022-09-14
+korea-japan-cable-network-kjcn,Kita-kyushu,,Japan,True,Telegeography,2022-09-14
+korea-japan-cable-network-kjcn,Busan,,South Korea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Jayapura,,Indonesia,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Alotau,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Arawa,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Daru,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Kavieng,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Kerema,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Kimbe,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Kokopo,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Lae,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Lorengau,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Madang,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Popondetta,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Port Moresby,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Vanimo,,Papua New Guinea,True,Telegeography,2022-09-14
+kumul-domestic-submarine-cable-system,Wewak,,Papua New Guinea,True,Telegeography,2022-09-14
+kupang-alor-cable-systems,Alor,,Indonesia,True,Telegeography,2022-09-14
+kupang-alor-cable-systems,Kupang,,Indonesia,True,Telegeography,2022-09-14
+kuwait-iran,Ganaveh,,Iran,True,Telegeography,2022-09-14
+kuwait-iran,Khark Island,,Iran,True,Telegeography,2022-09-14
+kuwait-iran,Soroosh Platform,,Iran,True,Telegeography,2022-09-14
+kuwait-iran,Kuwait City,,Kuwait,True,Telegeography,2022-09-14
+la-gomera-el-hierro,San Sebastian de la Gomera, Canary Islands,Spain,True,Telegeography,2022-09-14
+la-gomera-el-hierro,Valverde, Canary Islands,Spain,True,Telegeography,2022-09-14
+labuan-brunei-submarine-cable,Tungku,,Brunei,True,Telegeography,2022-09-14
+labuan-brunei-submarine-cable,Kiamsam,,Malaysia,True,Telegeography,2022-09-14
+lanis-1,Port Grenaugh,,Isle of Man,True,Telegeography,2022-09-14
+lanis-1,Blackpool,,United Kingdom,True,Telegeography,2022-09-14
+lanis-2,Peel,,Isle of Man,True,Telegeography,2022-09-14
+lanis-2,Ballywater,,United Kingdom,True,Telegeography,2022-09-14
+lanis-3,Troon,,United Kingdom,True,Telegeography,2022-09-14
+lanis-3,Whitehead,,United Kingdom,True,Telegeography,2022-09-14
+latvia-sweden-1-lv-se-1,Ventspils,,Latvia,True,Telegeography,2022-09-14
+latvia-sweden-1-lv-se-1,Nynashamn,,Sweden,True,Telegeography,2022-09-14
+lazaro-cardenas-manzanillo-santiago-submarine-cable-system-lcmsscs,Ciudad Lázaro Cárdenas,,Mexico,True,Telegeography,2022-09-14
+lazaro-cardenas-manzanillo-santiago-submarine-cable-system-lcmsscs,Ixtapa,,Mexico,True,Telegeography,2022-09-14
+lazaro-cardenas-manzanillo-santiago-submarine-cable-system-lcmsscs,Manzanillo,,Mexico,True,Telegeography,2022-09-14
+leif-erikson,Goose Bay, NL,Canada,True,Telegeography,2022-09-14
+leif-erikson,Stavanger,,Norway,True,Telegeography,2022-09-14
+lev-submarine-system,Yeroskipos,,Cyprus,True,Telegeography,2022-09-14
+lev-submarine-system,Tel Aviv,,Israel,True,Telegeography,2022-09-14
+lev-submarine-system,Mazara del Vallo,,Italy,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Al Bayda,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Al Khums,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Benghazi,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Brega,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Derna,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Misrata,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Ras Lanuf,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Sirte,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Tolmeta,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Tripoli,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Tubruq,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Zawia,,Libya,True,Telegeography,2022-09-14
+lfon-libyan-fiber-optic-network,Zuwara,,Libya,True,Telegeography,2022-09-14
+libreville-port-gentil-cable,Libreville,,Gabon,True,Telegeography,2022-09-14
+libreville-port-gentil-cable,Port Gentil,,Gabon,True,Telegeography,2022-09-14
+link-1-phase-1,Bulobulo,,Indonesia,True,Telegeography,2022-09-14
+link-1-phase-1,Kawinda Nae,,Indonesia,True,Telegeography,2022-09-14
+link-1-phase-2,Sanur,,Indonesia,True,Telegeography,2022-09-14
+link-1-phase-2,Senggigi,,Indonesia,True,Telegeography,2022-09-14
+link-2-phase-1,Sangatta,,Indonesia,True,Telegeography,2022-09-14
+link-2-phase-1,Towale,,Indonesia,True,Telegeography,2022-09-14
+link-2-phase-2,Jimbaran,,Indonesia,True,Telegeography,2022-09-14
+link-2-phase-2,Puger,,Indonesia,True,Telegeography,2022-09-14
+link-3-phase-1,Kawinda Nae,,Indonesia,True,Telegeography,2022-09-14
+link-3-phase-1,Senggigi,,Indonesia,True,Telegeography,2022-09-14
+link-3-phase-2,Ancol,,Indonesia,True,Telegeography,2022-09-14
+link-3-phase-2,Mentigi,,Indonesia,True,Telegeography,2022-09-14
+link-3-phase-2,Tanjung Pakis,,Indonesia,True,Telegeography,2022-09-14
+link-4-phase-2,Mentigi,,Indonesia,True,Telegeography,2022-09-14
+link-4-phase-2,Sungailiat,,Indonesia,True,Telegeography,2022-09-14
+link-5-phase-2,Kuala Tungkal,,Indonesia,True,Telegeography,2022-09-14
+link-5-phase-2,Sungailiat,,Indonesia,True,Telegeography,2022-09-14
+lower-indian-ocean-network-2-lion2,Nyali,,Kenya,True,Telegeography,2022-09-14
+lower-indian-ocean-network-2-lion2,Kaweni,,Mayotte,True,Telegeography,2022-09-14
+lower-indian-ocean-network-lion,Toamasina,,Madagascar,True,Telegeography,2022-09-14
+lower-indian-ocean-network-lion,Terre Rouge,,Mauritius,True,Telegeography,2022-09-14
+lower-indian-ocean-network-lion,Sainte Marie,,Réunion,True,Telegeography,2022-09-14
+luwuk-tutuyan-cable-system-ltcs,Luwuk,,Indonesia,True,Telegeography,2022-09-14
+luwuk-tutuyan-cable-system-ltcs,Tutuyan,,Indonesia,True,Telegeography,2022-09-14
+lynn-canal-fiber,Haines, AK,United States,True,Telegeography,2022-09-14
+lynn-canal-fiber,Lena Point, AK,United States,True,Telegeography,2022-09-14
+lynn-canal-fiber,Skagway, AK,United States,True,Telegeography,2022-09-14
+mainone,Abidjan,,Côte d''Ivoire,True,Telegeography,2022-09-14
+mainone,Accra,,Ghana,True,Telegeography,2022-09-14
+mainone,Lagos,,Nigeria,True,Telegeography,2022-09-14
+mainone,Seixal,,Portugal,True,Telegeography,2022-09-14
+mainone,Dakar,,Senegal,True,Telegeography,2022-09-14
+malaysia-cambodia-thailand-mct-cable,Sihanoukville,,Cambodia,True,Telegeography,2022-09-14
+malaysia-cambodia-thailand-mct-cable,Cherating,,Malaysia,True,Telegeography,2022-09-14
+malaysia-cambodia-thailand-mct-cable,Rayong,,Thailand,True,Telegeography,2022-09-14
+malbec,Las Toninas,,Argentina,True,Telegeography,2022-09-14
+malbec,Praia Grande,,Brazil,True,Telegeography,2022-09-14
+malbec,Rio de Janeiro,,Brazil,True,Telegeography,2022-09-14
+maldives-sri-lanka-cable-msc,Hulhumale,,Maldives,True,Telegeography,2022-09-14
+maldives-sri-lanka-cable-msc,Mt. Lavinia,,Sri Lanka,True,Telegeography,2022-09-14
+malta-gozo-cable,Golden Bay,,Malta,True,Telegeography,2022-09-14
+malta-gozo-cable,Mgarr ix-Xini,,Malta,True,Telegeography,2022-09-14
+malta-italy-interconnector,Marina di Ragusa,,Italy,True,Telegeography,2022-09-14
+malta-italy-interconnector,Bahar ic-Caghaq,,Malta,True,Telegeography,2022-09-14
+manatua,Aitutaki,,Cook Islands,True,Telegeography,2022-09-14
+manatua,Rarotonga,,Cook Islands,True,Telegeography,2022-09-14
+manatua,To''ahotu,,French Polynesia,True,Telegeography,2022-09-14
+manatua,Vaitape,,French Polynesia,True,Telegeography,2022-09-14
+manatua,Alofi,,Niue,True,Telegeography,2022-09-14
+manatua,Apia,,Samoa,True,Telegeography,2022-09-14
+mandji-fiber-optic-cable,Cabo San Juan,,Equatorial Guinea,True,Telegeography,2022-09-14
+mandji-fiber-optic-cable,Corisco,,Equatorial Guinea,True,Telegeography,2022-09-14
+marea,Bilbao,,Spain,True,Telegeography,2022-09-14
+marea,Virginia Beach, VA,United States,True,Telegeography,2022-09-14
+mariana-guam-cable,Tanguisson Point,,Guam,True,Telegeography,2022-09-14
+mariana-guam-cable,Rota,,Northern Mariana Islands,True,Telegeography,2022-09-14
+mariana-guam-cable,Saipan,,Northern Mariana Islands,True,Telegeography,2022-09-14
+mariana-guam-cable,Tinian,,Northern Mariana Islands,True,Telegeography,2022-09-14
+maroc-telecom-west-africa,Cotonou,,Benin,True,Telegeography,2022-09-14
+maroc-telecom-west-africa,Abidjan,,Côte d''Ivoire,True,Telegeography,2022-09-14
+maroc-telecom-west-africa,Libreville,,Gabon,True,Telegeography,2022-09-14
+maroc-telecom-west-africa,Casablanca,,Morocco,True,Telegeography,2022-09-14
+maroc-telecom-west-africa,Dakhla,,Morocco,True,Telegeography,2022-09-14
+maroc-telecom-west-africa,Lome,,Togo,True,Telegeography,2022-09-14
+mataram-kupang-cable-system-mkcs,Bima,,Indonesia,True,Telegeography,2022-09-14
+mataram-kupang-cable-system-mkcs,Ende,,Indonesia,True,Telegeography,2022-09-14
+mataram-kupang-cable-system-mkcs,Kupang,,Indonesia,True,Telegeography,2022-09-14
+mataram-kupang-cable-system-mkcs,Pringgabaya,,Indonesia,True,Telegeography,2022-09-14
+mataram-kupang-cable-system-mkcs,Saraemee,,Indonesia,True,Telegeography,2022-09-14
+mataram-kupang-cable-system-mkcs,Sumbawa Besar,,Indonesia,True,Telegeography,2022-09-14
+mataram-kupang-cable-system-mkcs,Waingapu,,Indonesia,True,Telegeography,2022-09-14
+matrix-cable-system,Batam,,Indonesia,True,Telegeography,2022-09-14
+matrix-cable-system,Jakarta,,Indonesia,True,Telegeography,2022-09-14
+matrix-cable-system,Changi South,,Singapore,True,Telegeography,2022-09-14
+mauritius-and-rodrigues-submarine-cable-system-mars,Baie Jacotet,,Mauritius,True,Telegeography,2022-09-14
+mauritius-and-rodrigues-submarine-cable-system-mars,Grand Baie (Rodrigues),,Mauritius,True,Telegeography,2022-09-14
+maya-1,Half Moon Bay,,Cayman Islands,True,Telegeography,2022-09-14
+maya-1,Tolu,,Colombia,True,Telegeography,2022-09-14
+maya-1,Puerto Limon,,Costa Rica,True,Telegeography,2022-09-14
+maya-1,Puerto Cortes,,Honduras,True,Telegeography,2022-09-14
+maya-1,Cancún,,Mexico,True,Telegeography,2022-09-14
+maya-1,Maria Chiquita,,Panama,True,Telegeography,2022-09-14
+maya-1,Hollywood, FL,United States,True,Telegeography,2022-09-14
+med-cable-network,Algiers,,Algeria,True,Telegeography,2022-09-14
+med-cable-network,Annaba,,Algeria,True,Telegeography,2022-09-14
+med-cable-network,Oran,,Algeria,True,Telegeography,2022-09-14
+med-cable-network,Marseille,,France,True,Telegeography,2022-09-14
+mednautilus-submarine-system,Pentaskhinos,,Cyprus,True,Telegeography,2022-09-14
+mednautilus-submarine-system,Athens,,Greece,True,Telegeography,2022-09-14
+mednautilus-submarine-system,Chania,,Greece,True,Telegeography,2022-09-14
+mednautilus-submarine-system,Haifa,,Israel,True,Telegeography,2022-09-14
+mednautilus-submarine-system,Tel Aviv,,Israel,True,Telegeography,2022-09-14
+mednautilus-submarine-system,Catania,,Italy,True,Telegeography,2022-09-14
+mednautilus-submarine-system,Istanbul,,Turkey,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Algiers,,Algeria,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Collo,,Algeria,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Port Said,,Egypt,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Marseille,,France,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Tympaki,,Greece,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Mazara del Vallo,,Italy,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Nador,,Morocco,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Tétouan,,Morocco,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Carcavelos,,Portugal,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Sines,,Portugal,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Barcelona,,Spain,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Torreguadiaro,,Spain,True,Telegeography,2022-09-14
+medusa-submarine-cable-system,Zahara de los Atunes,,Spain,True,Telegeography,2022-09-14
+melita-1,Pozzallo,,Italy,True,Telegeography,2022-09-14
+melita-1,Bahar ic-Caghaq,,Malta,True,Telegeography,2022-09-14
+meltingpot-indianoceanic-submarine-system-metiss,Fort Dauphin,,Madagascar,True,Telegeography,2022-09-14
+meltingpot-indianoceanic-submarine-system-metiss,Baie du Tombeau,,Mauritius,True,Telegeography,2022-09-14
+meltingpot-indianoceanic-submarine-system-metiss,Le Port,,Réunion,True,Telegeography,2022-09-14
+meltingpot-indianoceanic-submarine-system-metiss,Umbogintwini,,South Africa,True,Telegeography,2022-09-14
+mid-atlantic-crossing-mac,Brookhaven, NY,United States,True,Telegeography,2022-09-14
+mid-atlantic-crossing-mac,Hollywood, FL,United States,True,Telegeography,2022-09-14
+mid-atlantic-crossing-mac,St. Croix,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+middle-east-north-africa-mena-cable-systemgulf-bridge-international,Djibouti City,,Djibouti,True,Telegeography,2022-09-14
+middle-east-north-africa-mena-cable-systemgulf-bridge-international,Abu Talat,,Egypt,True,Telegeography,2022-09-14
+middle-east-north-africa-mena-cable-systemgulf-bridge-international,Zafarana,,Egypt,True,Telegeography,2022-09-14
+middle-east-north-africa-mena-cable-systemgulf-bridge-international,Mazara del Vallo,,Italy,True,Telegeography,2022-09-14
+middle-east-north-africa-mena-cable-systemgulf-bridge-international,Al Seeb,,Oman,True,Telegeography,2022-09-14
+middle-east-north-africa-mena-cable-systemgulf-bridge-international,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+minoas-east-and-west,Neapoli,,Greece,True,Telegeography,2022-09-14
+minoas-east-and-west,Nopigeia,,Greece,True,Telegeography,2022-09-14
+mist,Chennai,,India,True,Telegeography,2022-09-14
+mist,Mumbai,,India,True,Telegeography,2022-09-14
+mist,Morib,,Malaysia,True,Telegeography,2022-09-14
+mist,Letkokkon,,Myanmar,True,Telegeography,2022-09-14
+mist,Tuas,,Singapore,True,Telegeography,2022-09-14
+miyazaki-okinawa-cable-moc,Miyazaki,,Japan,True,Telegeography,2022-09-14
+miyazaki-okinawa-cable-moc,Okinawa,,Japan,True,Telegeography,2022-09-14
+monet,Fortaleza,,Brazil,True,Telegeography,2022-09-14
+monet,Santos,,Brazil,True,Telegeography,2022-09-14
+monet,Boca Raton, FL,United States,True,Telegeography,2022-09-14
+moratelindo-international-cable-system-1-mic-1,Batam,,Indonesia,True,Telegeography,2022-09-14
+moratelindo-international-cable-system-1-mic-1,Changi North,,Singapore,True,Telegeography,2022-09-14
+n0r5ke-viking,Andalsnes,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Bergen,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Brekstad,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Equinor Tjeldbergodden,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Florø,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Herlandsvika,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Hyllestad,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Kristiansund,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Lefdal,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Molde,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Sture,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Trondheim,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Åheim,,Norway,True,Telegeography,2022-09-14
+n0r5ke-viking,Ålesund,,Norway,True,Telegeography,2022-09-14
+national-digital-transmission-network-ndtn,Dumaguete,,Philippines,True,Telegeography,2022-09-14
+national-digital-transmission-network-ndtn,Iloilo City,,Philippines,True,Telegeography,2022-09-14
+national-digital-transmission-network-ndtn,Lucena,,Philippines,True,Telegeography,2022-09-14
+national-digital-transmission-network-ndtn,San Jose,,Philippines,True,Telegeography,2022-09-14
+nationwide-submarine-cable-ooredoo-maldives-nascom,Eydhafushi,,Maldives,True,Telegeography,2022-09-14
+nationwide-submarine-cable-ooredoo-maldives-nascom,Hithadhoo,,Maldives,True,Telegeography,2022-09-14
+nationwide-submarine-cable-ooredoo-maldives-nascom,Hulhumale,,Maldives,True,Telegeography,2022-09-14
+nationwide-submarine-cable-ooredoo-maldives-nascom,Kolhufushi,,Maldives,True,Telegeography,2022-09-14
+nationwide-submarine-cable-ooredoo-maldives-nascom,Kulhudhufushi,,Maldives,True,Telegeography,2022-09-14
+nationwide-submarine-cable-ooredoo-maldives-nascom,Thinadhoo,,Maldives,True,Telegeography,2022-09-14
+natitua-sud,Hitia''a,,French Polynesia,True,Telegeography,2022-09-14
+natitua-sud,Rurutu,,French Polynesia,True,Telegeography,2022-09-14
+natitua-sud,Tubuai,,French Polynesia,True,Telegeography,2022-09-14
+natitua,Arutua,,French Polynesia,True,Telegeography,2022-09-14
+natitua,Fakarava,,French Polynesia,True,Telegeography,2022-09-14
+natitua,Hao,,French Polynesia,True,Telegeography,2022-09-14
+natitua,Hitia''a,,French Polynesia,True,Telegeography,2022-09-14
+natitua,Hiva Oa,,French Polynesia,True,Telegeography,2022-09-14
+natitua,Kaukura,,French Polynesia,True,Telegeography,2022-09-14
+natitua,Makemo,,French Polynesia,True,Telegeography,2022-09-14
+natitua,Manihi,,French Polynesia,True,Telegeography,2022-09-14
+natitua,Nuku Hiva,,French Polynesia,True,Telegeography,2022-09-14
+natitua,Rangiroa,,French Polynesia,True,Telegeography,2022-09-14
+natitua,Takaroa,,French Polynesia,True,Telegeography,2022-09-14
+nelson-levin,Levin,,New Zealand,True,Telegeography,2022-09-14
+nelson-levin,Nelson,,New Zealand,True,Telegeography,2022-09-14
+new-cross-pacific-ncp-cable-system,Chongming,,China,True,Telegeography,2022-09-14
+new-cross-pacific-ncp-cable-system,Lingang,,China,True,Telegeography,2022-09-14
+new-cross-pacific-ncp-cable-system,Nanhui,,China,True,Telegeography,2022-09-14
+new-cross-pacific-ncp-cable-system,Maruyama,,Japan,True,Telegeography,2022-09-14
+new-cross-pacific-ncp-cable-system,Busan,,South Korea,True,Telegeography,2022-09-14
+new-cross-pacific-ncp-cable-system,Toucheng,,Taiwan,True,Telegeography,2022-09-14
+new-cross-pacific-ncp-cable-system,Pacific City, OR,United States,True,Telegeography,2022-09-14
+nigeria-cameroon-submarine-cable-system-ncscs,Kribi,,Cameroon,True,Telegeography,2022-09-14
+nigeria-cameroon-submarine-cable-system-ncscs,Lagos,,Nigeria,True,Telegeography,2022-09-14
+no-uk,Stavanger,,Norway,True,Telegeography,2022-09-14
+no-uk,Newcastle,,United Kingdom,True,Telegeography,2022-09-14
+nordbalt,Klaipeda,,Lithuania,True,Telegeography,2022-09-14
+nordbalt,Nybro,,Sweden,True,Telegeography,2022-09-14
+north-west-cable-system,Darwin, NT,Australia,True,Telegeography,2022-09-14
+north-west-cable-system,Port Hedland, WA,Australia,True,Telegeography,2022-09-14
+north-west-cable-system,Wurrumiyanga, NT,Australia,True,Telegeography,2022-09-14
+northern-lights,Dunnet Head,,United Kingdom,True,Telegeography,2022-09-14
+northern-lights,Skaill,,United Kingdom,True,Telegeography,2022-09-14
+northstar,Hillsboro, OR,United States,True,Telegeography,2022-09-14
+northstar,Lena Point, AK,United States,True,Telegeography,2022-09-14
+northstar,Valdez, AK,United States,True,Telegeography,2022-09-14
+northstar,Whittier, AK,United States,True,Telegeography,2022-09-14
+nzadi-cable-system,Cabinda,,Angola,True,Telegeography,2022-09-14
+nzadi-cable-system,Luanda,,Angola,True,Telegeography,2022-09-14
+nzadi-cable-system,Soyo,,Angola,True,Telegeography,2022-09-14
+okinawa-cellular-cable,Kagoshima,,Japan,True,Telegeography,2022-09-14
+okinawa-cellular-cable,Nago,,Japan,True,Telegeography,2022-09-14
+oman-australia-cable-oac,Perth, WA,Australia,True,Telegeography,2022-09-14
+oman-australia-cable-oac,West Island,,Cocos (Keeling) Islands,True,Telegeography,2022-09-14
+oman-australia-cable-oac,Muscat,,Oman,True,Telegeography,2022-09-14
+omranepeg-cable-system,Chabahar,,Iran,True,Telegeography,2022-09-14
+omranepeg-cable-system,Jask,,Iran,True,Telegeography,2022-09-14
+omranepeg-cable-system,Barka,,Oman,True,Telegeography,2022-09-14
+omranepeg-cable-system,Diba,,Oman,True,Telegeography,2022-09-14
+omranepeg-cable-system,Khasab,,Oman,True,Telegeography,2022-09-14
+oran-valencia-orval,Algiers,,Algeria,True,Telegeography,2022-09-14
+oran-valencia-orval,Oran,,Algeria,True,Telegeography,2022-09-14
+oran-valencia-orval,Valencia,,Spain,True,Telegeography,2022-09-14
+oteglobe-kokkini-bari,Kokkini,,Greece,True,Telegeography,2022-09-14
+oteglobe-kokkini-bari,Bari,,Italy,True,Telegeography,2022-09-14
+pacific-caribbean-cable-system-pccs,Hudishibana,,Aruba,True,Telegeography,2022-09-14
+pacific-caribbean-cable-system-pccs,Cartagena,,Colombia,True,Telegeography,2022-09-14
+pacific-caribbean-cable-system-pccs,Mahuma,,Curaçao,True,Telegeography,2022-09-14
+pacific-caribbean-cable-system-pccs,Manta,,Ecuador,True,Telegeography,2022-09-14
+pacific-caribbean-cable-system-pccs,Balboa,,Panama,True,Telegeography,2022-09-14
+pacific-caribbean-cable-system-pccs,Maria Chiquita,,Panama,True,Telegeography,2022-09-14
+pacific-caribbean-cable-system-pccs,Jacksonville, FL,United States,True,Telegeography,2022-09-14
+pacific-caribbean-cable-system-pccs,San Juan, PR,United States,True,Telegeography,2022-09-14
+pacific-caribbean-cable-system-pccs,Tortola,,Virgin Islands (U.K.),True,Telegeography,2022-09-14
+pacific-crossing-1-pc-1,Ajigaura,,Japan,True,Telegeography,2022-09-14
+pacific-crossing-1-pc-1,Shima,,Japan,True,Telegeography,2022-09-14
+pacific-crossing-1-pc-1,Grover Beach, CA,United States,True,Telegeography,2022-09-14
+pacific-crossing-1-pc-1,Harbour Pointe, WA,United States,True,Telegeography,2022-09-14
+pacific-light-cable-network-plcn,Baler,,Philippines,True,Telegeography,2022-09-14
+pacific-light-cable-network-plcn,Toucheng,,Taiwan,True,Telegeography,2022-09-14
+pacific-light-cable-network-plcn,El Segundo, CA,United States,True,Telegeography,2022-09-14
+palapa-ring-east,Agats,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Baa,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Kep. Aru,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Kokar,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Kota Mappi,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Kupang,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Manokwari,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Nabire,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Seba,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Serwaru,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Suemlaki,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Supiori,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Teluk,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Tiakur,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Timika,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Tual,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Waingapu,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-east,Yapen,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Bangga,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Baubau,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Buranga,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Kendari,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Lakudo,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Luwuk,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Manado,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Melonguane,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Morotai,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Ondong Siau,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Raha,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Salakan,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Sanana,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Sofifi,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Tahuna,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Taliabu,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Terante,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Tidore,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Tobelo,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-middle,Wawonii,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-west,Batam,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-west,Bengkalis,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-west,Dumai,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-west,Karimun,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-west,Kuala Tungkal,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-west,Lingga,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-west,Natuna,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-west,Ranai,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-west,Singkawang,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-west,Tebingtinggi Island,,Indonesia,True,Telegeography,2022-09-14
+palapa-ring-west,Terempa,,Indonesia,True,Telegeography,2022-09-14
+palawan-iloilo-cable-system,San Jose de Buenavista,,Philippines,True,Telegeography,2022-09-14
+palawan-iloilo-cable-system,Taytay,,Philippines,True,Telegeography,2022-09-14
+pan-american-crossing-pac,Unqui,,Costa Rica,True,Telegeography,2022-09-14
+pan-american-crossing-pac,Mazatlán,,Mexico,True,Telegeography,2022-09-14
+pan-american-crossing-pac,Tijuana,,Mexico,True,Telegeography,2022-09-14
+pan-american-crossing-pac,Fort Amador,,Panama,True,Telegeography,2022-09-14
+pan-american-crossing-pac,Grover Beach, CA,United States,True,Telegeography,2022-09-14
+pan-european-crossing-uk-belgium,Bredene,,Belgium,True,Telegeography,2022-09-14
+pan-european-crossing-uk-belgium,Dumpton Gap,,United Kingdom,True,Telegeography,2022-09-14
+pan-european-crossing-uk-ireland,Ballinesker,,Ireland,True,Telegeography,2022-09-14
+pan-european-crossing-uk-ireland,Ballygrangans,,Ireland,True,Telegeography,2022-09-14
+pan-european-crossing-uk-ireland,Bude,,United Kingdom,True,Telegeography,2022-09-14
+pan-european-crossing-uk-ireland,Whitesands Bay,,United Kingdom,True,Telegeography,2022-09-14
+paniolo-cable-network,Hawaii Kai, HI,United States,True,Telegeography,2022-09-14
+paniolo-cable-network,Kaunakakai, HI,United States,True,Telegeography,2022-09-14
+paniolo-cable-network,Kawaihae, HI,United States,True,Telegeography,2022-09-14
+paniolo-cable-network,Kekaha, HI,United States,True,Telegeography,2022-09-14
+paniolo-cable-network,Lahaina, HI,United States,True,Telegeography,2022-09-14
+paniolo-cable-network,Makaha, HI,United States,True,Telegeography,2022-09-14
+paniolo-cable-network,Makena, HI,United States,True,Telegeography,2022-09-14
+pasuli,Muntok,,Indonesia,True,Telegeography,2022-09-14
+pasuli,Sungsang,,Indonesia,True,Telegeography,2022-09-14
+peace-cable,Yeroskipos,,Cyprus,True,Telegeography,2022-09-14
+peace-cable,Djibouti City,,Djibouti,True,Telegeography,2022-09-14
+peace-cable,Abu Talat,,Egypt,True,Telegeography,2022-09-14
+peace-cable,Zafarana,,Egypt,True,Telegeography,2022-09-14
+peace-cable,Marseille,,France,True,Telegeography,2022-09-14
+peace-cable,Mombasa,,Kenya,True,Telegeography,2022-09-14
+peace-cable,Kulhudhufushi,,Maldives,True,Telegeography,2022-09-14
+peace-cable,Mellieha,,Malta,True,Telegeography,2022-09-14
+peace-cable,Gwadar,,Pakistan,True,Telegeography,2022-09-14
+peace-cable,Karachi,,Pakistan,True,Telegeography,2022-09-14
+peace-cable,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+peace-cable,Victoria,,Seychelles,True,Telegeography,2022-09-14
+peace-cable,Tuas,,Singapore,True,Telegeography,2022-09-14
+peace-cable,Bosaso,,Somalia,True,Telegeography,2022-09-14
+peace-cable,Hobyo,,Somalia,True,Telegeography,2022-09-14
+peace-cable,Kismayo,,Somalia,True,Telegeography,2022-09-14
+peace-cable,Mogadishu,,Somalia,True,Telegeography,2022-09-14
+penbal-4,Ibiza,,Spain,True,Telegeography,2022-09-14
+penbal-4,Mallorca,,Spain,True,Telegeography,2022-09-14
+penbal-4,Valencia,,Spain,True,Telegeography,2022-09-14
+penbal-5,Gavá,,Spain,True,Telegeography,2022-09-14
+penbal-5,Ses Covetes,,Spain,True,Telegeography,2022-09-14
+pencan-8,Candelaria, Canary Islands,Spain,True,Telegeography,2022-09-14
+pencan-8,Conil,,Spain,True,Telegeography,2022-09-14
+pencan-9,Chipiona,,Spain,True,Telegeography,2022-09-14
+pencan-9,Tarahales,,Spain,True,Telegeography,2022-09-14
+persona,New Victoria, NS,Canada,True,Telegeography,2022-09-14
+persona,Rose Blanche, NL,Canada,True,Telegeography,2022-09-14
+pgascom,Batam,,Indonesia,True,Telegeography,2022-09-14
+pgascom,Kuala Tungkal,,Indonesia,True,Telegeography,2022-09-14
+pgascom,Sakra Island,,Singapore,True,Telegeography,2022-09-14
+picot-1,Mouly,,New Caledonia,True,Telegeography,2022-09-14
+picot-1,Poindimie,,New Caledonia,True,Telegeography,2022-09-14
+picot-1,Xepenehe,,New Caledonia,True,Telegeography,2022-09-14
+pipe-pacific-cable-1-ppc-1,Sydney, NSW,Australia,True,Telegeography,2022-09-14
+pipe-pacific-cable-1-ppc-1,Piti,,Guam,True,Telegeography,2022-09-14
+pipe-pacific-cable-1-ppc-1,Madang,,Papua New Guinea,True,Telegeography,2022-09-14
+pishgaman-oman-iran-poi-network,Chabahar,,Iran,True,Telegeography,2022-09-14
+pishgaman-oman-iran-poi-network,Jask,,Iran,True,Telegeography,2022-09-14
+pishgaman-oman-iran-poi-network,Barka,,Oman,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Butuan City,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Cadiz City,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Cagayan de Oro,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Calbayog,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Cebu,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Dumaguete,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Legazpi City,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Masbate City,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Nasugbu,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Ormoc,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Ozamiz City,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Pinamalayan,,Philippines,True,Telegeography,2022-09-14
+pldt-domestic-fiber-optic-network-dfon,Roxas City,,Philippines,True,Telegeography,2022-09-14
+png-lng,Kikori,,Papua New Guinea,True,Telegeography,2022-09-14
+png-lng,Port Moresby,,Papua New Guinea,True,Telegeography,2022-09-14
+polar-circle-cable,Bodø,,Norway,True,Telegeography,2022-09-14
+polar-circle-cable,Brønnøysund,,Norway,True,Telegeography,2022-09-14
+polar-circle-cable,Narvik,,Norway,True,Telegeography,2022-09-14
+polar-circle-cable,Nesna,,Norway,True,Telegeography,2022-09-14
+polar-circle-cable,Rørvik,,Norway,True,Telegeography,2022-09-14
+polar-circle-cable,Sandnessjøen,,Norway,True,Telegeography,2022-09-14
+polar-circle-cable,Trondheim,,Norway,True,Telegeography,2022-09-14
+polar-express,Anadyr,,Russia,True,Telegeography,2022-09-14
+polar-express,Dikson,,Russia,True,Telegeography,2022-09-14
+polar-express,Murmansk,,Russia,True,Telegeography,2022-09-14
+polar-express,Nakhodka,,Russia,True,Telegeography,2022-09-14
+polar-express,Okrug,,Russia,True,Telegeography,2022-09-14
+polar-express,Petropavlovsk-Kamchatsky,,Russia,True,Telegeography,2022-09-14
+polar-express,Pevek,,Russia,True,Telegeography,2022-09-14
+polar-express,Sakha Republic,,Russia,True,Telegeography,2022-09-14
+polar-express,Vladivostok,,Russia,True,Telegeography,2022-09-14
+polar-express,Yuzhno-Sakhalinsk,,Russia,True,Telegeography,2022-09-14
+poseidon,Pentaskhinos,,Cyprus,True,Telegeography,2022-09-14
+poseidon,Yeroskipos,,Cyprus,True,Telegeography,2022-09-14
+prat,Antofagasta,,Chile,True,Telegeography,2022-09-14
+prat,Arica,,Chile,True,Telegeography,2022-09-14
+prat,Caldera,,Chile,True,Telegeography,2022-09-14
+prat,Constitución,,Chile,True,Telegeography,2022-09-14
+prat,Iquique,,Chile,True,Telegeography,2022-09-14
+prat,La Serena,,Chile,True,Telegeography,2022-09-14
+prat,Puerto Montt,,Chile,True,Telegeography,2022-09-14
+prat,Puerto Saavedra,,Chile,True,Telegeography,2022-09-14
+prat,San Antonio,,Chile,True,Telegeography,2022-09-14
+prat,Talcahuano,,Chile,True,Telegeography,2022-09-14
+prat,Tocopilla,,Chile,True,Telegeography,2022-09-14
+prat,Valparaíso,,Chile,True,Telegeography,2022-09-14
+qatar-u-a-e-submarine-cable-system,Doha,,Qatar,True,Telegeography,2022-09-14
+qatar-u-a-e-submarine-cable-system,Halul Island,,Qatar,True,Telegeography,2022-09-14
+qatar-u-a-e-submarine-cable-system,Abu Dhabi,,United Arab Emirates,True,Telegeography,2022-09-14
+qatar-u-a-e-submarine-cable-system,Das Island,,United Arab Emirates,True,Telegeography,2022-09-14
+quintillion-subsea-cable-network,Kotzebue, AK,United States,True,Telegeography,2022-09-14
+quintillion-subsea-cable-network,Nome, AK,United States,True,Telegeography,2022-09-14
+quintillion-subsea-cable-network,Point Hope, AK,United States,True,Telegeography,2022-09-14
+quintillion-subsea-cable-network,Prudhoe Bay, AK,United States,True,Telegeography,2022-09-14
+quintillion-subsea-cable-network,Utqiaġvik, AK,United States,True,Telegeography,2022-09-14
+quintillion-subsea-cable-network,Wainwright, AK,United States,True,Telegeography,2022-09-14
+raman,Haramous,,Djibouti,True,Telegeography,2022-09-14
+raman,Mumbai,,India,True,Telegeography,2022-09-14
+raman,Aqaba,,Jordan,True,Telegeography,2022-09-14
+raman,Barka,,Oman,True,Telegeography,2022-09-14
+raman,Salalah,,Oman,True,Telegeography,2022-09-14
+raman,Duba,,Saudi Arabia,True,Telegeography,2022-09-14
+rnne-rdvig,Rødvig,,Denmark,True,Telegeography,2022-09-14
+rnne-rdvig,Rønne,,Denmark,True,Telegeography,2022-09-14
+rockabill,Portrane,,Ireland,True,Telegeography,2022-09-14
+rockabill,Southport,,United Kingdom,True,Telegeography,2022-09-14
+romulo,Sagunto,,Spain,True,Telegeography,2022-09-14
+romulo,Santa Ponsa,,Spain,True,Telegeography,2022-09-14
+russia-japan-cable-network-rjcn,Naoetsu,,Japan,True,Telegeography,2022-09-14
+russia-japan-cable-network-rjcn,Nakhodka,,Russia,True,Telegeography,2022-09-14
+s-u-b-cable-system,Banjarmasin,,Indonesia,True,Telegeography,2022-09-14
+s-u-b-cable-system,Makassar,,Indonesia,True,Telegeography,2022-09-14
+s-u-b-cable-system,Surabaya,,Indonesia,True,Telegeography,2022-09-14
+saba-statia-cable-system-sscs,Gallows Bay, Bonaire,Sint Eustatius and Saba,True,Telegeography,2022-09-14
+saba-statia-cable-system-sscs,Great Level Bay, Bonaire,Sint Eustatius and Saba,True,Telegeography,2022-09-14
+saba-statia-cable-system-sscs,Gustavia,,Saint Barthélemy,True,Telegeography,2022-09-14
+saba-statia-cable-system-sscs,Basseterre,,Saint Kitts and Nevis,True,Telegeography,2022-09-14
+saba-statia-cable-system-sscs,Great Bay Beach,,Sint Maarten,True,Telegeography,2022-09-14
+safe,Cochin,,India,True,Telegeography,2022-09-14
+safe,Penang,,Malaysia,True,Telegeography,2022-09-14
+safe,Baie Jacotet,,Mauritius,True,Telegeography,2022-09-14
+safe,Saint Paul,,Réunion,True,Telegeography,2022-09-14
+safe,Melkbosstrand,,South Africa,True,Telegeography,2022-09-14
+safe,Mtunzini,,South Africa,True,Telegeography,2022-09-14
+sakhalin-kuril-islands-cable,Krabozavodskoye,,Russia,True,Telegeography,2022-09-14
+sakhalin-kuril-islands-cable,Kurilsk,,Russia,True,Telegeography,2022-09-14
+sakhalin-kuril-islands-cable,Yuzhno Kurilsk,,Russia,True,Telegeography,2022-09-14
+sakhalin-kuril-islands-cable,Yuzhno-Sakhalinsk,,Russia,True,Telegeography,2022-09-14
+samoa-american-samoa-sas,Pago Pago,,American Samoa,True,Telegeography,2022-09-14
+samoa-american-samoa-sas,Apia,,Samoa,True,Telegeography,2022-09-14
+san-andres-isla-tolu-submarine-cable-sait,San Andres,,Colombia,True,Telegeography,2022-09-14
+san-andres-isla-tolu-submarine-cable-sait,Tolu,,Colombia,True,Telegeography,2022-09-14
+sape-labuanbajo-ende-kupang-cable-systems,Ende,,Indonesia,True,Telegeography,2022-09-14
+sape-labuanbajo-ende-kupang-cable-systems,Kupang,,Indonesia,True,Telegeography,2022-09-14
+sape-labuanbajo-ende-kupang-cable-systems,Labuan Bajo,,Indonesia,True,Telegeography,2022-09-14
+sape-labuanbajo-ende-kupang-cable-systems,Sape,,Indonesia,True,Telegeography,2022-09-14
+sat-3wasc,Cacuaco,,Angola,True,Telegeography,2022-09-14
+sat-3wasc,Cotonou,,Benin,True,Telegeography,2022-09-14
+sat-3wasc,Douala,,Cameroon,True,Telegeography,2022-09-14
+sat-3wasc,Abidjan,,Côte d''Ivoire,True,Telegeography,2022-09-14
+sat-3wasc,Libreville,,Gabon,True,Telegeography,2022-09-14
+sat-3wasc,Accra,,Ghana,True,Telegeography,2022-09-14
+sat-3wasc,Lagos,,Nigeria,True,Telegeography,2022-09-14
+sat-3wasc,Sesimbra,,Portugal,True,Telegeography,2022-09-14
+sat-3wasc,Dakar,,Senegal,True,Telegeography,2022-09-14
+sat-3wasc,Melkbosstrand,,South Africa,True,Telegeography,2022-09-14
+sat-3wasc,Alta Vista, Canary Islands,Spain,True,Telegeography,2022-09-14
+sat-3wasc,Chipiona,,Spain,True,Telegeography,2022-09-14
+saudi-arabia-sudan-1-sas-1,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+saudi-arabia-sudan-1-sas-1,Port Sudan,,Sudan,True,Telegeography,2022-09-14
+saudi-arabia-sudan-2-sas-2,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+saudi-arabia-sudan-2-sas-2,Port Sudan,,Sudan,True,Telegeography,2022-09-14
+saudi-vision,Duba,,Saudi Arabia,True,Telegeography,2022-09-14
+saudi-vision,Haql,,Saudi Arabia,True,Telegeography,2022-09-14
+saudi-vision,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+saudi-vision,Yanbu,,Saudi Arabia,True,Telegeography,2022-09-14
+scandinavian-ring-north,Helsingør,,Denmark,True,Telegeography,2022-09-14
+scandinavian-ring-north,Helsingborg,,Sweden,True,Telegeography,2022-09-14
+scandinavian-ring-south,Dragor,,Denmark,True,Telegeography,2022-09-14
+scandinavian-ring-south,Bunkeflostand,,Sweden,True,Telegeography,2022-09-14
+scotland-northern-ireland-1,Donaghadee,,United Kingdom,True,Telegeography,2022-09-14
+scotland-northern-ireland-1,Portpatrick,,United Kingdom,True,Telegeography,2022-09-14
+scotland-northern-ireland-2,Girvan,,United Kingdom,True,Telegeography,2022-09-14
+scotland-northern-ireland-2,Larne,,United Kingdom,True,Telegeography,2022-09-14
+scotland-northern-ireland-3,Donaghadee,,United Kingdom,True,Telegeography,2022-09-14
+scotland-northern-ireland-3,Portpatrick,,United Kingdom,True,Telegeography,2022-09-14
+scotland-northern-ireland-4,Girvan,,United Kingdom,True,Telegeography,2022-09-14
+scotland-northern-ireland-4,Larne,,United Kingdom,True,Telegeography,2022-09-14
+scylla,Ijmuiden,,Netherlands,True,Telegeography,2022-09-14
+scylla,Lowestoft,,United Kingdom,True,Telegeography,2022-09-14
+sea-h2x,Chung Hom Kok,,China,True,Telegeography,2022-09-14
+sea-h2x,Lingshui,,China,True,Telegeography,2022-09-14
+sea-h2x,Kuching,,Malaysia,True,Telegeography,2022-09-14
+sea-h2x,La Union,,Philippines,True,Telegeography,2022-09-14
+sea-h2x,Tuas,,Singapore,True,Telegeography,2022-09-14
+sea-h2x,Songkhla,,Thailand,True,Telegeography,2022-09-14
+sea-us,Piti,,Guam,True,Telegeography,2022-09-14
+sea-us,Kauditan,,Indonesia,True,Telegeography,2022-09-14
+sea-us,Magachgil, Yap,Micronesia,True,Telegeography,2022-09-14
+sea-us,Ngeremlengui,,Palau,True,Telegeography,2022-09-14
+sea-us,Davao,,Philippines,True,Telegeography,2022-09-14
+sea-us,Hermosa Beach, CA,United States,True,Telegeography,2022-09-14
+sea-us,Makaha, HI,United States,True,Telegeography,2022-09-14
+sea2shore,Crescent Beach, RI,United States,True,Telegeography,2022-09-14
+sea2shore,Narragansett, RI,United States,True,Telegeography,2022-09-14
+seabras-1,Praia Grande,,Brazil,True,Telegeography,2022-09-14
+seabras-1,Wall Township, NJ,United States,True,Telegeography,2022-09-14
+seacomtata-tgn-eurasia,Djibouti City,,Djibouti,True,Telegeography,2022-09-14
+seacomtata-tgn-eurasia,Zafarana,,Egypt,True,Telegeography,2022-09-14
+seacomtata-tgn-eurasia,Mumbai,,India,True,Telegeography,2022-09-14
+seacomtata-tgn-eurasia,Mombasa,,Kenya,True,Telegeography,2022-09-14
+seacomtata-tgn-eurasia,Maputo,,Mozambique,True,Telegeography,2022-09-14
+seacomtata-tgn-eurasia,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+seacomtata-tgn-eurasia,Mtunzini,,South Africa,True,Telegeography,2022-09-14
+seacomtata-tgn-eurasia,Dar Es Salaam,,Tanzania,True,Telegeography,2022-09-14
+sealink,Coffman Cove, AK,United States,True,Telegeography,2022-09-14
+sealink,Lena Point, AK,United States,True,Telegeography,2022-09-14
+sealink,Petersburg, AK,United States,True,Telegeography,2022-09-14
+seamewe-3,Perth, WA,Australia,True,Telegeography,2022-09-14
+seamewe-3,Ostend,,Belgium,True,Telegeography,2022-09-14
+seamewe-3,Tungku,,Brunei,True,Telegeography,2022-09-14
+seamewe-3,Deep Water Bay,,China,True,Telegeography,2022-09-14
+seamewe-3,Shanghai,,China,True,Telegeography,2022-09-14
+seamewe-3,Shantou,,China,True,Telegeography,2022-09-14
+seamewe-3,Taipa,,China,True,Telegeography,2022-09-14
+seamewe-3,Yeroskipos,,Cyprus,True,Telegeography,2022-09-14
+seamewe-3,Djibouti City,,Djibouti,True,Telegeography,2022-09-14
+seamewe-3,Alexandria,,Egypt,True,Telegeography,2022-09-14
+seamewe-3,Suez,,Egypt,True,Telegeography,2022-09-14
+seamewe-3,Penmarch,,France,True,Telegeography,2022-09-14
+seamewe-3,Chania,,Greece,True,Telegeography,2022-09-14
+seamewe-3,Cochin,,India,True,Telegeography,2022-09-14
+seamewe-3,Mumbai,,India,True,Telegeography,2022-09-14
+seamewe-3,Ancol,,Indonesia,True,Telegeography,2022-09-14
+seamewe-3,Medan,,Indonesia,True,Telegeography,2022-09-14
+seamewe-3,Mazara del Vallo,,Italy,True,Telegeography,2022-09-14
+seamewe-3,Okinawa,,Japan,True,Telegeography,2022-09-14
+seamewe-3,Mersing,,Malaysia,True,Telegeography,2022-09-14
+seamewe-3,Penang,,Malaysia,True,Telegeography,2022-09-14
+seamewe-3,Tétouan,,Morocco,True,Telegeography,2022-09-14
+seamewe-3,Pyapon,,Myanmar,True,Telegeography,2022-09-14
+seamewe-3,Muscat,,Oman,True,Telegeography,2022-09-14
+seamewe-3,Karachi,,Pakistan,True,Telegeography,2022-09-14
+seamewe-3,Batangas,,Philippines,True,Telegeography,2022-09-14
+seamewe-3,Sesimbra,,Portugal,True,Telegeography,2022-09-14
+seamewe-3,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+seamewe-3,Tuas,,Singapore,True,Telegeography,2022-09-14
+seamewe-3,Geoje,,South Korea,True,Telegeography,2022-09-14
+seamewe-3,Mt. Lavinia,,Sri Lanka,True,Telegeography,2022-09-14
+seamewe-3,Fangshan,,Taiwan,True,Telegeography,2022-09-14
+seamewe-3,Toucheng,,Taiwan,True,Telegeography,2022-09-14
+seamewe-3,Satun,,Thailand,True,Telegeography,2022-09-14
+seamewe-3,Marmaris,,Turkey,True,Telegeography,2022-09-14
+seamewe-3,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+seamewe-3,Goonhilly Downs,,United Kingdom,True,Telegeography,2022-09-14
+seamewe-3,Danang,,Vietnam,True,Telegeography,2022-09-14
+seamewe-4,Annaba,,Algeria,True,Telegeography,2022-09-14
+seamewe-4,Cox’s Bazar,,Bangladesh,True,Telegeography,2022-09-14
+seamewe-4,Alexandria,,Egypt,True,Telegeography,2022-09-14
+seamewe-4,Suez,,Egypt,True,Telegeography,2022-09-14
+seamewe-4,Marseille,,France,True,Telegeography,2022-09-14
+seamewe-4,Chennai,,India,True,Telegeography,2022-09-14
+seamewe-4,Mumbai,,India,True,Telegeography,2022-09-14
+seamewe-4,Palermo,,Italy,True,Telegeography,2022-09-14
+seamewe-4,Melaka,,Malaysia,True,Telegeography,2022-09-14
+seamewe-4,Karachi,,Pakistan,True,Telegeography,2022-09-14
+seamewe-4,Jeddah,,Saudi Arabia,True,Telegeography,2022-09-14
+seamewe-4,Tuas,,Singapore,True,Telegeography,2022-09-14
+seamewe-4,Colombo,,Sri Lanka,True,Telegeography,2022-09-14
+seamewe-4,Satun,,Thailand,True,Telegeography,2022-09-14
+seamewe-4,Bizerte,,Tunisia,True,Telegeography,2022-09-14
+seamewe-4,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+seamewe-5,Kuakata,,Bangladesh,True,Telegeography,2022-09-14
+seamewe-5,Haramous,,Djibouti,True,Telegeography,2022-09-14
+seamewe-5,Abu Talat,,Egypt,True,Telegeography,2022-09-14
+seamewe-5,Zafarana,,Egypt,True,Telegeography,2022-09-14
+seamewe-5,Toulon,,France,True,Telegeography,2022-09-14
+seamewe-5,Dumai,,Indonesia,True,Telegeography,2022-09-14
+seamewe-5,Medan,,Indonesia,True,Telegeography,2022-09-14
+seamewe-5,Catania,,Italy,True,Telegeography,2022-09-14
+seamewe-5,Melaka,,Malaysia,True,Telegeography,2022-09-14
+seamewe-5,Ngwe Saung,,Myanmar,True,Telegeography,2022-09-14
+seamewe-5,Qalhat,,Oman,True,Telegeography,2022-09-14
+seamewe-5,Karachi,,Pakistan,True,Telegeography,2022-09-14
+seamewe-5,Yanbu,,Saudi Arabia,True,Telegeography,2022-09-14
+seamewe-5,Tuas,,Singapore,True,Telegeography,2022-09-14
+seamewe-5,Matara,,Sri Lanka,True,Telegeography,2022-09-14
+seamewe-5,Marmaris,,Turkey,True,Telegeography,2022-09-14
+seamewe-5,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+seamewe-5,Al Hudaydah,,Yemen,True,Telegeography,2022-09-14
+seamewe-6,Cox’s Bazar,,Bangladesh,True,Telegeography,2022-09-14
+seamewe-6,Djibouti City,,Djibouti,True,Telegeography,2022-09-14
+seamewe-6,Port Said,,Egypt,True,Telegeography,2022-09-14
+seamewe-6,Ras Ghareb,,Egypt,True,Telegeography,2022-09-14
+seamewe-6,Marseille,,France,True,Telegeography,2022-09-14
+seamewe-6,Mumbai,,India,True,Telegeography,2022-09-14
+seamewe-6,Morib,,Malaysia,True,Telegeography,2022-09-14
+seamewe-6,Hulhumale,,Maldives,True,Telegeography,2022-09-14
+seamewe-6,Karachi,,Pakistan,True,Telegeography,2022-09-14
+seamewe-6,Yanbu,,Saudi Arabia,True,Telegeography,2022-09-14
+seamewe-6,Tuas,,Singapore,True,Telegeography,2022-09-14
+seamewe-6,Matara,,Sri Lanka,True,Telegeography,2022-09-14
+seax-1,Batam,,Indonesia,True,Telegeography,2022-09-14
+seax-1,Mersing,,Malaysia,True,Telegeography,2022-09-14
+seax-1,Tanah Merah,,Singapore,True,Telegeography,2022-09-14
+sednalink-fibre,Iqaluit, NU,Canada,True,Telegeography,2022-09-14
+segunda-fos-canal-de-chacao,Linao,,Chile,True,Telegeography,2022-09-14
+segunda-fos-canal-de-chacao,Meimen,,Chile,True,Telegeography,2022-09-14
+senegal-horn-of-africa-regional-express-share-cable,Praia,,Cape Verde,True,Telegeography,2022-09-14
+senegal-horn-of-africa-regional-express-share-cable,Dakar,,Senegal,True,Telegeography,2022-09-14
+seychelles-to-east-africa-system-seas,Victoria,,Seychelles,True,Telegeography,2022-09-14
+seychelles-to-east-africa-system-seas,Dar Es Salaam,,Tanzania,True,Telegeography,2022-09-14
+shefa-2,Torshavn,,Faroe Islands,True,Telegeography,2022-09-14
+shefa-2,Ayre of Cara,,United Kingdom,True,Telegeography,2022-09-14
+shefa-2,Banff,,United Kingdom,True,Telegeography,2022-09-14
+shefa-2,BP Clair Ridge,,United Kingdom,True,Telegeography,2022-09-14
+shefa-2,Glen Lyon,,United Kingdom,True,Telegeography,2022-09-14
+shefa-2,Maywick,,United Kingdom,True,Telegeography,2022-09-14
+shefa-2,Sandwick,,United Kingdom,True,Telegeography,2022-09-14
+silphium,Chania,,Greece,True,Telegeography,2022-09-14
+silphium,Derna,,Libya,True,Telegeography,2022-09-14
+sines-to-lisbon,Carcavelos,,Portugal,True,Telegeography,2022-09-14
+sines-to-lisbon,Sines,,Portugal,True,Telegeography,2022-09-14
+singapore-myanmar-sigmar,Thanlyin,,Myanmar,True,Telegeography,2022-09-14
+singapore-myanmar-sigmar,Tuas,,Singapore,True,Telegeography,2022-09-14
+sint-maarten-puerto-rico-network-one-smpr-1,Baie Longue,,Saint Martin,True,Telegeography,2022-09-14
+sint-maarten-puerto-rico-network-one-smpr-1,Philipsburg,,Sint Maarten,True,Telegeography,2022-09-14
+sint-maarten-puerto-rico-network-one-smpr-1,Isla Verde, PR,United States,True,Telegeography,2022-09-14
+sir-abu-nuayr-cable,Sharjah,,United Arab Emirates,True,Telegeography,2022-09-14
+sir-abu-nuayr-cable,Sir Abu Nu''Ayr Island,,United Arab Emirates,True,Telegeography,2022-09-14
+sirius-north,Carrickfergus,,United Kingdom,True,Telegeography,2022-09-14
+sirius-north,Saltcoats,,United Kingdom,True,Telegeography,2022-09-14
+sirius-south,Dublin,,Ireland,True,Telegeography,2022-09-14
+sirius-south,Blackpool,,United Kingdom,True,Telegeography,2022-09-14
+sistem-kabel-rakyat-1malaysia-skr1m,Bintulu,,Malaysia,True,Telegeography,2022-09-14
+sistem-kabel-rakyat-1malaysia-skr1m,Cherating,,Malaysia,True,Telegeography,2022-09-14
+sistem-kabel-rakyat-1malaysia-skr1m,Kota Kinabalu,,Malaysia,True,Telegeography,2022-09-14
+sistem-kabel-rakyat-1malaysia-skr1m,Kuching,,Malaysia,True,Telegeography,2022-09-14
+sistem-kabel-rakyat-1malaysia-skr1m,Mersing,,Malaysia,True,Telegeography,2022-09-14
+sistem-kabel-rakyat-1malaysia-skr1m,Miri,,Malaysia,True,Telegeography,2022-09-14
+sjjk,Anyer,,Indonesia,True,Telegeography,2022-09-14
+sjjk,Bawean,,Indonesia,True,Telegeography,2022-09-14
+sjjk,Kalianda,,Indonesia,True,Telegeography,2022-09-14
+sjjk,Takesung,,Indonesia,True,Telegeography,2022-09-14
+sjjk,Ujung Pankah,,Indonesia,True,Telegeography,2022-09-14
+skagenfiber-west,Hirtshals,,Denmark,True,Telegeography,2022-09-14
+skagenfiber-west,Larvik,,Norway,True,Telegeography,2022-09-14
+skagerrak-4,Tjele,,Denmark,True,Telegeography,2022-09-14
+skagerrak-4,Kristiansand,,Norway,True,Telegeography,2022-09-14
+smpcs-packet-1,Ambon,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-1,Bandaneria,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-1,Fakfak,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-1,Kendari,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-1,Labuha,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-1,Manado,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-1,Masohi,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-1,Namlea,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-1,Sanana,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-1,Sofifi,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-1,Sorong,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-1,Ternate,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-2,Biak,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-2,Fakfak,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-2,Jayapura,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-2,Kaimana,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-2,Manokwari,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-2,Merauke,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-2,Sarmi,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-2,Sorong,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-2,Timika,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-2,Tual,,Indonesia,True,Telegeography,2022-09-14
+smpcs-packet-2,Waisai,,Indonesia,True,Telegeography,2022-09-14
+solas,Kilmore Quay,,Ireland,True,Telegeography,2022-09-14
+solas,Oxwich Bay,,United Kingdom,True,Telegeography,2022-09-14
+sorsogon-samar-submarine-fiber-optical-interconnection-project-sssfoip,Allen,,Philippines,True,Telegeography,2022-09-14
+sorsogon-samar-submarine-fiber-optical-interconnection-project-sssfoip,Santa Magdalena,,Philippines,True,Telegeography,2022-09-14
+south-america-1-sam-1,Las Toninas,,Argentina,True,Telegeography,2022-09-14
+south-america-1-sam-1,Fortaleza,,Brazil,True,Telegeography,2022-09-14
+south-america-1-sam-1,Rio de Janeiro,,Brazil,True,Telegeography,2022-09-14
+south-america-1-sam-1,Salvador,,Brazil,True,Telegeography,2022-09-14
+south-america-1-sam-1,Santos,,Brazil,True,Telegeography,2022-09-14
+south-america-1-sam-1,Arica,,Chile,True,Telegeography,2022-09-14
+south-america-1-sam-1,Valparaíso,,Chile,True,Telegeography,2022-09-14
+south-america-1-sam-1,Barranquilla,,Colombia,True,Telegeography,2022-09-14
+south-america-1-sam-1,Punta Cana,,Dominican Republic,True,Telegeography,2022-09-14
+south-america-1-sam-1,Punta Carnero,,Ecuador,True,Telegeography,2022-09-14
+south-america-1-sam-1,Puerto Barrios,,Guatemala,True,Telegeography,2022-09-14
+south-america-1-sam-1,Puerto San Jose,,Guatemala,True,Telegeography,2022-09-14
+south-america-1-sam-1,Lurin,,Peru,True,Telegeography,2022-09-14
+south-america-1-sam-1,Mancora,,Peru,True,Telegeography,2022-09-14
+south-america-1-sam-1,Boca Raton, FL,United States,True,Telegeography,2022-09-14
+south-america-1-sam-1,San Juan, PR,United States,True,Telegeography,2022-09-14
+south-american-crossing-sac,Las Toninas,,Argentina,True,Telegeography,2022-09-14
+south-american-crossing-sac,Fortaleza,,Brazil,True,Telegeography,2022-09-14
+south-american-crossing-sac,Rio de Janeiro,,Brazil,True,Telegeography,2022-09-14
+south-american-crossing-sac,Santos,,Brazil,True,Telegeography,2022-09-14
+south-american-crossing-sac,Valparaíso,,Chile,True,Telegeography,2022-09-14
+south-american-crossing-sac,Buenaventura,,Colombia,True,Telegeography,2022-09-14
+south-american-crossing-sac,Colon,,Panama,True,Telegeography,2022-09-14
+south-american-crossing-sac,Fort Amador,,Panama,True,Telegeography,2022-09-14
+south-american-crossing-sac,Lurin,,Peru,True,Telegeography,2022-09-14
+south-american-crossing-sac,Puerto Viejo,,Venezuela,True,Telegeography,2022-09-14
+south-american-crossing-sac,St. Croix,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+south-atlantic-cable-system-sacs,Sangano,,Angola,True,Telegeography,2022-09-14
+south-atlantic-cable-system-sacs,Fortaleza,,Brazil,True,Telegeography,2022-09-14
+south-atlantic-inter-link-sail,Fortaleza,,Brazil,True,Telegeography,2022-09-14
+south-atlantic-inter-link-sail,Kribi,,Cameroon,True,Telegeography,2022-09-14
+south-pacific-cable-system-spscmistral,Arica,,Chile,True,Telegeography,2022-09-14
+south-pacific-cable-system-spscmistral,Valparaíso,,Chile,True,Telegeography,2022-09-14
+south-pacific-cable-system-spscmistral,Salinas,,Ecuador,True,Telegeography,2022-09-14
+south-pacific-cable-system-spscmistral,Puerto San Jose,,Guatemala,True,Telegeography,2022-09-14
+south-pacific-cable-system-spscmistral,Lurin,,Peru,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-2-sjc2,Chung Hom Kok,,China,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-2-sjc2,Lingang,,China,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-2-sjc2,Chikura,,Japan,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-2-sjc2,Shima,,Japan,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-2-sjc2,Changi South,,Singapore,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-2-sjc2,Busan,,South Korea,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-2-sjc2,Fangshan,,Taiwan,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-2-sjc2,Tanshui,,Taiwan,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-2-sjc2,Songkhla,,Thailand,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-2-sjc2,Quy Nhon,,Vietnam,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-sjc,Telisai,,Brunei,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-sjc,Chung Hom Kok,,China,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-sjc,Shantou,,China,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-sjc,Chikura,,Japan,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-sjc,Nasugbu,,Philippines,True,Telegeography,2022-09-14
+southeast-asia-japan-cable-sjc,Tuas,,Singapore,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Dickenson Bay,,Antigua and Barbuda,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Needham’s Point,,Barbados,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Canefield,,Dominica,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Point Salines,,Grenada,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Baie-Mahault,,Guadeloupe,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Baillif,,Guadeloupe,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Le Lamentin,,Martinique,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Bunkum Bay,,Montserrat,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Gustavia,,Saint Barthélemy,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Basseterre,,Saint Kitts and Nevis,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Rodney Bay,,Saint Lucia,True,Telegeography,2022-09-14
+southern-caribbean-fiber,St. Louis,,Saint Martin,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Kingstown,,Saint Vincent and the Grenadines,True,Telegeography,2022-09-14
+southern-caribbean-fiber,Chaguaramas,,Trinidad and Tobago,True,Telegeography,2022-09-14
+southern-caribbean-fiber,San Juan, PR,United States,True,Telegeography,2022-09-14
+southern-caribbean-fiber,St. Croix,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+southern-cross-cable-network-sccn,Alexandria, NSW,Australia,True,Telegeography,2022-09-14
+southern-cross-cable-network-sccn,Brookvale, NSW,Australia,True,Telegeography,2022-09-14
+southern-cross-cable-network-sccn,Suva,,Fiji,True,Telegeography,2022-09-14
+southern-cross-cable-network-sccn,Takapuna,,New Zealand,True,Telegeography,2022-09-14
+southern-cross-cable-network-sccn,Whenuapai,,New Zealand,True,Telegeography,2022-09-14
+southern-cross-cable-network-sccn,Hillsboro, OR,United States,True,Telegeography,2022-09-14
+southern-cross-cable-network-sccn,Kahe Point, HI,United States,True,Telegeography,2022-09-14
+southern-cross-cable-network-sccn,Morro Bay, CA,United States,True,Telegeography,2022-09-14
+southern-cross-cable-network-sccn,Spencer Beach, HI,United States,True,Telegeography,2022-09-14
+southern-cross-next,Alexandria, NSW,Australia,True,Telegeography,2022-09-14
+southern-cross-next,Savusavu,,Fiji,True,Telegeography,2022-09-14
+southern-cross-next,Suva,,Fiji,True,Telegeography,2022-09-14
+southern-cross-next,Kiritimati,,Kiribati,True,Telegeography,2022-09-14
+southern-cross-next,Takapuna,,New Zealand,True,Telegeography,2022-09-14
+southern-cross-next,Nukunonu,,Tokelau,True,Telegeography,2022-09-14
+southern-cross-next,Los Angeles, CA,United States,True,Telegeography,2022-09-14
+st-pierre-and-miquelon-cable,Fortune, NL,Canada,True,Telegeography,2022-09-14
+st-pierre-and-miquelon-cable,Lamaline, NL,Canada,True,Telegeography,2022-09-14
+st-pierre-and-miquelon-cable,Miquelon-Langlade,,Saint Pierre and Miquelon,True,Telegeography,2022-09-14
+st-pierre-and-miquelon-cable,Saint-Pierre,,Saint Pierre and Miquelon,True,Telegeography,2022-09-14
+st-thomas-st-croix-system,Christiansted, VI,United States,True,Telegeography,2022-09-14
+st-thomas-st-croix-system,Banana Bay,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+st-thomas-st-croix-system,Brewer''s Bay,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+st-thomas-st-croix-system,Flamingo Bay,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+st-thomas-st-croix-system,Frederiksted,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+st-thomas-st-croix-system,Great Bay,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+st-thomas-st-croix-system,Vila Olga,,Virgin Islands (U.S.),True,Telegeography,2022-09-14
+strategic-evolution-underwater-link-seul,Bomba,,Belize,True,Telegeography,2022-09-14
+strategic-evolution-underwater-link-seul,San Pedro,,Belize,True,Telegeography,2022-09-14
+subcan-link-1,Las Caletillas,,Spain,True,Telegeography,2022-09-14
+subcan-link-1,Piedra Santa,,Spain,True,Telegeography,2022-09-14
+subcan-link-2,Las Caletillas,,Spain,True,Telegeography,2022-09-14
+subcan-link-2,Piedra Santa,,Spain,True,Telegeography,2022-09-14
+sumatera-bangka-cable-system-sbcs,Muntok,,Indonesia,True,Telegeography,2022-09-14
+sumatera-bangka-cable-system-sbcs,Palembang,,Indonesia,True,Telegeography,2022-09-14
+suriname-guyana-submarine-cable-system-sg-scs,Georgetown,,Guyana,True,Telegeography,2022-09-14
+suriname-guyana-submarine-cable-system-sg-scs,Totness,,Suriname,True,Telegeography,2022-09-14
+suriname-guyana-submarine-cable-system-sg-scs,Chaguaramas,,Trinidad and Tobago,True,Telegeography,2022-09-14
+svalbard-undersea-cable-system,Breivika,,Norway,True,Telegeography,2022-09-14
+svalbard-undersea-cable-system,Longyearbyen, Svalbard,Norway,True,Telegeography,2022-09-14
+sweden-estonia-ee-s-1,Kärdla,,Estonia,True,Telegeography,2022-09-14
+sweden-estonia-ee-s-1,Tallinn,,Estonia,True,Telegeography,2022-09-14
+sweden-estonia-ee-s-1,Stavsnas,,Sweden,True,Telegeography,2022-09-14
+sweden-finland-4-sfs-4,Turku,,Finland,True,Telegeography,2022-09-14
+sweden-finland-4-sfs-4,Norrtalge,,Sweden,True,Telegeography,2022-09-14
+sweden-finland-link-sfl,Mariehamn,,Finland,True,Telegeography,2022-09-14
+sweden-finland-link-sfl,Väddö,,Sweden,True,Telegeography,2022-09-14
+sweden-latvia,Ventspils,,Latvia,True,Telegeography,2022-09-14
+sweden-latvia,Farosund,,Sweden,True,Telegeography,2022-09-14
+sweden-latvia,Stockholm,,Sweden,True,Telegeography,2022-09-14
+taba-aqaba,Taba,,Egypt,True,Telegeography,2022-09-14
+taba-aqaba,Aqaba,,Jordan,True,Telegeography,2022-09-14
+taino-carib,Condado Beach, PR,United States,True,Telegeography,2022-09-14
+taino-carib,Isla Verde, PR,United States,True,Telegeography,2022-09-14
+taino-carib,Magen’s Bay, VI,United States,True,Telegeography,2022-09-14
+taiwan-strait-express-1-tse-1,Fuzhou,,China,True,Telegeography,2022-09-14
+taiwan-strait-express-1-tse-1,Tanshui,,Taiwan,True,Telegeography,2022-09-14
+tamares-north,Yeroskipos,,Cyprus,True,Telegeography,2022-09-14
+tamares-north,Haifa,,Israel,True,Telegeography,2022-09-14
+tampnet-offshore-foc-network,Farsund,,Norway,True,Telegeography,2022-09-14
+tampnet-offshore-foc-network,Kårstø,,Norway,True,Telegeography,2022-09-14
+tampnet-offshore-foc-network,Øygarden,,Norway,True,Telegeography,2022-09-14
+tampnet-offshore-foc-network,Aberdeen,,United Kingdom,True,Telegeography,2022-09-14
+tampnet-offshore-foc-network,Lowestoft,,United Kingdom,True,Telegeography,2022-09-14
+tangerine,Ostend,,Belgium,True,Telegeography,2022-09-14
+tangerine,Broadstairs,,United Kingdom,True,Telegeography,2022-09-14
+tanjun-pandan-sungai-kakap-cable-system,Sungai Kakap,,Indonesia,True,Telegeography,2022-09-14
+tanjun-pandan-sungai-kakap-cable-system,Tanjung Pandan,,Indonesia,True,Telegeography,2022-09-14
+tannat,Las Toninas,,Argentina,True,Telegeography,2022-09-14
+tannat,Santos,,Brazil,True,Telegeography,2022-09-14
+tannat,Maldonado,,Uruguay,True,Telegeography,2022-09-14
+tarakan-selor-cable-system-tscs,Tanjung Selor,,Indonesia,True,Telegeography,2022-09-14
+tarakan-selor-cable-system-tscs,Tarakan,,Indonesia,True,Telegeography,2022-09-14
+tasman-global-access-tga-cable,Oxford Falls, NSW,Australia,True,Telegeography,2022-09-14
+tasman-global-access-tga-cable,Raglan,,New Zealand,True,Telegeography,2022-09-14
+tata-tgn-atlantic,Highbridge,,United Kingdom,True,Telegeography,2022-09-14
+tata-tgn-atlantic,Wall Township, NJ,United States,True,Telegeography,2022-09-14
+tata-tgn-gulf,Amwaj Island,,Bahrain,True,Telegeography,2022-09-14
+tata-tgn-gulf,Qalhat,,Oman,True,Telegeography,2022-09-14
+tata-tgn-gulf,Al-Kheesa,,Qatar,True,Telegeography,2022-09-14
+tata-tgn-gulf,Al Khobar,,Saudi Arabia,True,Telegeography,2022-09-14
+tata-tgn-gulf,Dubai,,United Arab Emirates,True,Telegeography,2022-09-14
+tata-tgn-gulf,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+tata-tgn-intra-asia-tgn-ia,Deep Water Bay,,China,True,Telegeography,2022-09-14
+tata-tgn-intra-asia-tgn-ia,Ballesteros,,Philippines,True,Telegeography,2022-09-14
+tata-tgn-intra-asia-tgn-ia,Changi North,,Singapore,True,Telegeography,2022-09-14
+tata-tgn-intra-asia-tgn-ia,Vung Tau,,Vietnam,True,Telegeography,2022-09-14
+tata-tgn-pacific,Piti,,Guam,True,Telegeography,2022-09-14
+tata-tgn-pacific,Emi,,Japan,True,Telegeography,2022-09-14
+tata-tgn-pacific,Toyohashi,,Japan,True,Telegeography,2022-09-14
+tata-tgn-pacific,Hillsboro, OR,United States,True,Telegeography,2022-09-14
+tata-tgn-pacific,Los Angeles, CA,United States,True,Telegeography,2022-09-14
+tata-tgn-tata-indicom,Chennai,,India,True,Telegeography,2022-09-14
+tata-tgn-tata-indicom,Changi North,,Singapore,True,Telegeography,2022-09-14
+tata-tgn-western-europe,Seixal,,Portugal,True,Telegeography,2022-09-14
+tata-tgn-western-europe,Bilbao,,Spain,True,Telegeography,2022-09-14
+tata-tgn-western-europe,Highbridge,,United Kingdom,True,Telegeography,2022-09-14
+te-northtgn-eurasiaseacomalexandrosmedex,Annaba,,Algeria,True,Telegeography,2022-09-14
+te-northtgn-eurasiaseacomalexandrosmedex,Pentaskhinos,,Cyprus,True,Telegeography,2022-09-14
+te-northtgn-eurasiaseacomalexandrosmedex,Abu Talat,,Egypt,True,Telegeography,2022-09-14
+te-northtgn-eurasiaseacomalexandrosmedex,Marseille,,France,True,Telegeography,2022-09-14
+telstra-endeavour,Paddington, NSW,Australia,True,Telegeography,2022-09-14
+telstra-endeavour,Keawaula, HI,United States,True,Telegeography,2022-09-14
+tenerife-gran-canaria,El Médano, Canary Islands,Spain,True,Telegeography,2022-09-14
+tenerife-gran-canaria,Sardina, Canary Islands,Spain,True,Telegeography,2022-09-14
+tenerife-la-gomera-la-palma,Granadilla, Canary Islands,Spain,True,Telegeography,2022-09-14
+tenerife-la-gomera-la-palma,San Sebastian de la Gomera, Canary Islands,Spain,True,Telegeography,2022-09-14
+tenerife-la-gomera-la-palma,Santa Cruz de La Palma, Canary Islands,Spain,True,Telegeography,2022-09-14
+tenerife-la-palma,Los Realejos, Canary Islands,Spain,True,Telegeography,2022-09-14
+tenerife-la-palma,Santa Cruz de La Palma, Canary Islands,Spain,True,Telegeography,2022-09-14
+terra-sw,Fish Camp, AK,United States,True,Telegeography,2022-09-14
+terra-sw,Homer, AK,United States,True,Telegeography,2022-09-14
+terra-sw,Igiugig, AK,United States,True,Telegeography,2022-09-14
+terra-sw,Illiamna, AK,United States,True,Telegeography,2022-09-14
+terra-sw,Kokhanok, AK,United States,True,Telegeography,2022-09-14
+terra-sw,Newhalen, AK,United States,True,Telegeography,2022-09-14
+terra-sw,Nondalton, AK,United States,True,Telegeography,2022-09-14
+terra-sw,Pedro Bay, AK,United States,True,Telegeography,2022-09-14
+terra-sw,Pile Bay, AK,United States,True,Telegeography,2022-09-14
+terra-sw,Port Alsworth, AK,United States,True,Telegeography,2022-09-14
+terra-sw,Williamsport, AK,United States,True,Telegeography,2022-09-14
+thailand-indonesia-singapore-tis,Batam,,Indonesia,True,Telegeography,2022-09-14
+thailand-indonesia-singapore-tis,Changi North,,Singapore,True,Telegeography,2022-09-14
+thailand-indonesia-singapore-tis,Songkhla,,Thailand,True,Telegeography,2022-09-14
+the-east-african-marine-system-teams,Mombasa,,Kenya,True,Telegeography,2022-09-14
+the-east-african-marine-system-teams,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+thetis,Aetos,,Greece,True,Telegeography,2022-09-14
+thetis,Agios Sostis,,Greece,True,Telegeography,2022-09-14
+thetis,Baxedes,,Greece,True,Telegeography,2022-09-14
+thetis,Ermoupoli,,Greece,True,Telegeography,2022-09-14
+thetis,Filizi,,Greece,True,Telegeography,2022-09-14
+thetis,Kalafati,,Greece,True,Telegeography,2022-09-14
+thetis,Kardamena,,Greece,True,Telegeography,2022-09-14
+thetis,Kavos,,Greece,True,Telegeography,2022-09-14
+thetis,Kochilari,,Greece,True,Telegeography,2022-09-14
+thetis,Kontokali,,Greece,True,Telegeography,2022-09-14
+thetis,Kremasti,,Greece,True,Telegeography,2022-09-14
+thetis,Mykonos,,Greece,True,Telegeography,2022-09-14
+thetis,Naousa,,Greece,True,Telegeography,2022-09-14
+thetis,Naxos,,Greece,True,Telegeography,2022-09-14
+thetis,Perivolos,,Greece,True,Telegeography,2022-09-14
+thetis,Pirgaki,,Greece,True,Telegeography,2022-09-14
+thetis,Plataria,,Greece,True,Telegeography,2022-09-14
+thetis,Plimmiri,,Greece,True,Telegeography,2022-09-14
+thetis,Sitia,,Greece,True,Telegeography,2022-09-14
+thetis,Tinos,,Greece,True,Telegeography,2022-09-14
+tobrok-emasaed-cable-system,El-Quawef,,Libya,True,Telegeography,2022-09-14
+tobrok-emasaed-cable-system,Tubruq,,Libya,True,Telegeography,2022-09-14
+tokelau-submarine-cable,Atafu,,Tokelau,True,Telegeography,2022-09-14
+tokelau-submarine-cable,Fakaofa,,Tokelau,True,Telegeography,2022-09-14
+tokelau-submarine-cable,Nukunonu,,Tokelau,True,Telegeography,2022-09-14
+tonga-cable,Suva,,Fiji,True,Telegeography,2022-09-14
+tonga-cable,Nuku''alofa,,Tonga,True,Telegeography,2022-09-14
+tonga-domestic-cable-extension-tdce,Neiafu,,Tonga,True,Telegeography,2022-09-14
+tonga-domestic-cable-extension-tdce,Nuku''alofa,,Tonga,True,Telegeography,2022-09-14
+tonga-domestic-cable-extension-tdce,Pangai,,Tonga,True,Telegeography,2022-09-14
+topaz,Port Alberni, BC,Canada,True,Telegeography,2022-09-14
+topaz,Vancouver, BC,Canada,True,Telegeography,2022-09-14
+topaz,Shima,,Japan,True,Telegeography,2022-09-14
+topaz,Takahagi,,Japan,True,Telegeography,2022-09-14
+trans-adriatic-express,Seman,,Albania,True,Telegeography,2022-09-14
+trans-adriatic-express,San Foca,,Italy,True,Telegeography,2022-09-14
+trans-pacific-express-tpe-cable-system,Chongming,,China,True,Telegeography,2022-09-14
+trans-pacific-express-tpe-cable-system,Qingdao,,China,True,Telegeography,2022-09-14
+trans-pacific-express-tpe-cable-system,Maruyama,,Japan,True,Telegeography,2022-09-14
+trans-pacific-express-tpe-cable-system,Geoje,,South Korea,True,Telegeography,2022-09-14
+trans-pacific-express-tpe-cable-system,Tanshui,,Taiwan,True,Telegeography,2022-09-14
+trans-pacific-express-tpe-cable-system,Nedonna Beach, OR,United States,True,Telegeography,2022-09-14
+transcan-2,Aguimes, Canary Islands,Spain,True,Telegeography,2022-09-14
+transcan-2,Arrecife, Canary Islands,Spain,True,Telegeography,2022-09-14
+transcan-2,Morrojable, Canary Islands,Spain,True,Telegeography,2022-09-14
+transcan-2,Puerto del Rosario, Canary Islands,Spain,True,Telegeography,2022-09-14
+transcan-3,Alta Vista, Canary Islands,Spain,True,Telegeography,2022-09-14
+transcan-3,Playa Blanca, Canary Islands,Spain,True,Telegeography,2022-09-14
+transworld-tw1,Al Seeb,,Oman,True,Telegeography,2022-09-14
+transworld-tw1,Karachi,,Pakistan,True,Telegeography,2022-09-14
+transworld-tw1,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+trapani-kelibia,Trapani,,Italy,True,Telegeography,2022-09-14
+trapani-kelibia,Kelibia,,Tunisia,True,Telegeography,2022-09-14
+tt-1,Pigeon Point,,Trinidad and Tobago,True,Telegeography,2022-09-14
+tt-1,Toco,,Trinidad and Tobago,True,Telegeography,2022-09-14
+tui-samoa,Savusavu,,Fiji,True,Telegeography,2022-09-14
+tui-samoa,Suva,,Fiji,True,Telegeography,2022-09-14
+tui-samoa,Apia,,Samoa,True,Telegeography,2022-09-14
+tui-samoa,Tuasivi,,Samoa,True,Telegeography,2022-09-14
+tui-samoa,Leava,,Wallis and Futuna,True,Telegeography,2022-09-14
+tui-samoa,Mata-Utu,,Wallis and Futuna,True,Telegeography,2022-09-14
+turcyos-1,Girne,,Cyprus,True,Telegeography,2022-09-14
+turcyos-1,Bozyazi,,Turkey,True,Telegeography,2022-09-14
+turcyos-2,Iskele,,Cyprus,True,Telegeography,2022-09-14
+turcyos-2,Samandag,,Turkey,True,Telegeography,2022-09-14
+tverrlinken,Hemnesberget,,Norway,True,Telegeography,2022-09-14
+tverrlinken,Mo I Rana,,Norway,True,Telegeography,2022-09-14
+tverrlinken,Nesna,,Norway,True,Telegeography,2022-09-14
+tverrlinken,Utskarpen,,Norway,True,Telegeography,2022-09-14
+uae-iran,Jask,,Iran,True,Telegeography,2022-09-14
+uae-iran,Fujairah,,United Arab Emirates,True,Telegeography,2022-09-14
+ugarit,Pentaskhinos,,Cyprus,True,Telegeography,2022-09-14
+ugarit,Tartous,,Syria,True,Telegeography,2022-09-14
+uk-channel-islands-7,L''Ancresse Bay,,Guernsey,True,Telegeography,2022-09-14
+uk-channel-islands-7,Dartmouth,,United Kingdom,True,Telegeography,2022-09-14
+uk-channel-islands-8,St. Ouens Bay,,Jersey,True,Telegeography,2022-09-14
+uk-channel-islands-8,Goonhilly Downs,,United Kingdom,True,Telegeography,2022-09-14
+ultramar-ge,Annobon,,Equatorial Guinea,True,Telegeography,2022-09-14
+ultramar-ge,Sao Tome,,Sao Tome and Principe,True,Telegeography,2022-09-14
+ulysses-2,Ijmuiden,,Netherlands,True,Telegeography,2022-09-14
+ulysses-2,Lowestoft,,United Kingdom,True,Telegeography,2022-09-14
+unisur,Las Toninas,,Argentina,True,Telegeography,2022-09-14
+unisur,Maldonado,,Uruguay,True,Telegeography,2022-09-14
+unitel-north-submarine-cable-unsc,Cabinda,,Angola,True,Telegeography,2022-09-14
+unitel-north-submarine-cable-unsc,Cacongo,,Angola,True,Telegeography,2022-09-14
+unitel-north-submarine-cable-unsc,N''zeto,,Angola,True,Telegeography,2022-09-14
+unitel-north-submarine-cable-unsc,Soyo,,Angola,True,Telegeography,2022-09-14
+unityeac-pacific,Chikura,,Japan,True,Telegeography,2022-09-14
+unityeac-pacific,Redondo Beach, CA,United States,True,Telegeography,2022-09-14
+venezuelan-festoon,Cabimas,,Venezuela,True,Telegeography,2022-09-14
+venezuelan-festoon,Camuri,,Venezuela,True,Telegeography,2022-09-14
+venezuelan-festoon,Carúpano,,Venezuela,True,Telegeography,2022-09-14
+venezuelan-festoon,Chichiriviche,,Venezuela,True,Telegeography,2022-09-14
+venezuelan-festoon,Coro,,Venezuela,True,Telegeography,2022-09-14
+venezuelan-festoon,Cumaná,,Venezuela,True,Telegeography,2022-09-14
+venezuelan-festoon,Higuerote,,Venezuela,True,Telegeography,2022-09-14
+venezuelan-festoon,Maracaibo,,Venezuela,True,Telegeography,2022-09-14
+venezuelan-festoon,Porlamar,,Venezuela,True,Telegeography,2022-09-14
+venezuelan-festoon,Puerto Cabello,,Venezuela,True,Telegeography,2022-09-14
+venezuelan-festoon,Puerto La Cruz,,Venezuela,True,Telegeography,2022-09-14
+venezuelan-festoon,Punto Fijo,,Venezuela,True,Telegeography,2022-09-14
+vodafone-greece-domestic,Porto Rafti,,Greece,True,Telegeography,2022-09-14
+vodafone-greece-domestic,Syros,,Greece,True,Telegeography,2022-09-14
+wall-li,Wall Township, NJ,United States,True,Telegeography,2022-09-14
+wall-li,Westbury, NY,United States,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Sangano,,Angola,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Limbe,,Cameroon,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Praia,,Cape Verde,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Muanda, Congo,Dem. Rep.,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Pointe-Noire, Congo,Rep.,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Abidjan,,Côte d''Ivoire,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Accra,,Ghana,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Swakopmund,,Namibia,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Lagos,,Nigeria,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Seixal,,Portugal,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Yzerfontein,,South Africa,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,El Goro, Canary Islands,Spain,True,Telegeography,2022-09-14
+west-africa-cable-system-wacs,Lome,,Togo,True,Telegeography,2022-09-14
+x-link-submarine-cable,Pegwell,,Barbados,True,Telegeography,2022-09-14
+x-link-submarine-cable,Georgetown,,Guyana,True,Telegeography,2022-09-14
+yellow,Bude,,United Kingdom,True,Telegeography,2022-09-14
+yellow,Bellport, NY,United States,True,Telegeography,2022-09-14
+zeus,Zandvoort,,Netherlands,True,Telegeography,2022-09-14
+zeus,Lowestoft,,United Kingdom,True,Telegeography,2022-09-14

@@ -1,3 +1,8 @@
+# iGDB-specific
+database/
+unprocessed/
+plots/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <fileIdentifier gco:nilReason="missing"/>
+    <language>
+        <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+    </language>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <contact>
+        <CI_ResponsibleParty>
+            <individualName>
+                <gco:CharacterString>ArcGIS Content Team</gco:CharacterString>
+            </individualName>
+            <organisationName>
+                <gco:CharacterString>Esri</gco:CharacterString>
+            </organisationName>
+            <contactInfo>
+                <CI_Contact>
+                    <phone>
+                        <CI_Telephone>
+                            <voice>
+                                <gco:CharacterString>909-793-2853</gco:CharacterString>
+                            </voice>
+                            <facsimile>
+                                <gco:CharacterString>909-793-5953</gco:CharacterString>
+                            </facsimile>
+                        </CI_Telephone>
+                    </phone>
+                    <address>
+                        <CI_Address>
+                            <deliveryPoint>
+                                <gco:CharacterString>380 New York Street</gco:CharacterString>
+                            </deliveryPoint>
+                            <city>
+                                <gco:CharacterString>Redlands</gco:CharacterString>
+                            </city>
+                            <administrativeArea>
+                                <gco:CharacterString>California</gco:CharacterString>
+                            </administrativeArea>
+                            <postalCode>
+                                <gco:CharacterString>92373-8100</gco:CharacterString>
+                            </postalCode>
+                            <country>
+                                <Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+                            </country>
+                            <electronicMailAddress>
+                                <gco:CharacterString>info@esri.com</gco:CharacterString>
+                            </electronicMailAddress>
+                        </CI_Address>
+                    </address>
+                    <hoursOfService>
+                        <gco:CharacterString>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</gco:CharacterString>
+                    </hoursOfService>
+                </CI_Contact>
+            </contactInfo>
+            <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+            </role>
+        </CI_ResponsibleParty>
+    </contact>
+    <dateStamp>
+        <gco:Date>2019-11-25</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>NAP - Metadata</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>1.2</gco:CharacterString>
+    </metadataStandardVersion>
+    <spatialRepresentationInfo>
+        <MD_VectorSpatialRepresentation>
+            <topologyLevel>
+                <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+            </topologyLevel>
+            <geometricObjects>
+                <MD_GeometricObjects>
+                    <geometricObjectType>
+                        <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+                    </geometricObjectType>
+                    <geometricObjectCount>
+                        <gco:Integer>256</gco:Integer>
+                    </geometricObjectCount>
+                </MD_GeometricObjects>
+            </geometricObjects>
+        </MD_VectorSpatialRepresentation>
+    </spatialRepresentationInfo>
+    <referenceSystemInfo>
+        <MD_ReferenceSystem>
+            <referenceSystemIdentifier>
+                <RS_Identifier>
+                    <code>
+                        <gco:CharacterString>4326</gco:CharacterString>
+                    </code>
+                    <codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                    </codeSpace>
+                    <version>
+                        <gco:CharacterString>6.14(3.0.1)</gco:CharacterString>
+                    </version>
+                </RS_Identifier>
+            </referenceSystemIdentifier>
+        </MD_ReferenceSystem>
+    </referenceSystemInfo>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>World Countries (Generalized)</gco:CharacterString>
+                    </title>
+                    <date>
+                        <CI_Date>
+                            <date>
+                                <gco:Date>2019-12-21</gco:Date>
+                            </date>
+                            <dateType>
+                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                            </dateType>
+                        </CI_Date>
+                    </date>
+                    <edition>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </edition>
+                    <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                            <organisationName>
+                                <gco:CharacterString>Esri</gco:CharacterString>
+                            </organisationName>
+                            <contactInfo gco:nilReason="missing"/>
+                            <role>
+                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                            </role>
+                        </CI_ResponsibleParty>
+                    </citedResponsibleParty>
+                    <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                            <organisationName>
+                                <gco:CharacterString>Esri</gco:CharacterString>
+                            </organisationName>
+                            <contactInfo>
+                                <CI_Contact>
+                                    <address>
+                                        <CI_Address>
+                                            <deliveryPoint>
+                                                <gco:CharacterString>Redlands, California, USA</gco:CharacterString>
+                                            </deliveryPoint>
+                                        </CI_Address>
+                                    </address>
+                                </CI_Contact>
+                            </contactInfo>
+                            <role>
+                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                            </role>
+                        </CI_ResponsibleParty>
+                    </citedResponsibleParty>
+                    <presentationForm>
+                        <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+                    </presentationForm>
+                    <series>
+                        <CI_Series>
+                            <name>
+                                <gco:CharacterString>Data and Maps for ArcGIS®</gco:CharacterString>
+                            </name>
+                            <issueIdentification>
+                                <gco:CharacterString>2019 - World, Europe, and United States</gco:CharacterString>
+                            </issueIdentification>
+                        </CI_Series>
+                    </series>
+                    <otherCitationDetails>
+                        <gco:CharacterString>Location: \world\data</gco:CharacterString>
+                    </otherCitationDetails>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>World Countries (Generalized) provides optimized country boundaries with useful name and country code attributes.  Current to January 2020.</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>World Countries (Generalized) provides optimized country boundaries with useful name and country code attributes.  Current to January 2020.</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>National Geographic Society</gco:CharacterString>
+            </credit>
+            <status>
+                <MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+            </status>
+            <pointOfContact>
+                <CI_ResponsibleParty>
+                    <individualName>
+                        <gco:CharacterString>ArcGIS Content Team</gco:CharacterString>
+                    </individualName>
+                    <organisationName>
+                        <gco:CharacterString>Esri</gco:CharacterString>
+                    </organisationName>
+                    <contactInfo>
+                        <CI_Contact>
+                            <phone>
+                                <CI_Telephone>
+                                    <voice>
+                                        <gco:CharacterString>909-793-2853</gco:CharacterString>
+                                    </voice>
+                                    <facsimile>
+                                        <gco:CharacterString>909-793-5953</gco:CharacterString>
+                                    </facsimile>
+                                </CI_Telephone>
+                            </phone>
+                            <address>
+                                <CI_Address>
+                                    <deliveryPoint>
+                                        <gco:CharacterString>380 New York Street</gco:CharacterString>
+                                    </deliveryPoint>
+                                    <city>
+                                        <gco:CharacterString>Redlands</gco:CharacterString>
+                                    </city>
+                                    <administrativeArea>
+                                        <gco:CharacterString>California</gco:CharacterString>
+                                    </administrativeArea>
+                                    <postalCode>
+                                        <gco:CharacterString>92373-8100</gco:CharacterString>
+                                    </postalCode>
+                                    <country>
+                                        <Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+                                    </country>
+                                    <electronicMailAddress>
+                                        <gco:CharacterString>info@esri.com</gco:CharacterString>
+                                    </electronicMailAddress>
+                                </CI_Address>
+                            </address>
+                            <hoursOfService>
+                                <gco:CharacterString>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</gco:CharacterString>
+                            </hoursOfService>
+                            <contactInstructions>
+                                <gco:CharacterString>In the United States– Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; or visit http://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
+
+Outside the United States– Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at http://www.esri.com/about-esri/offices. For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</gco:CharacterString>
+                            </contactInstructions>
+                        </CI_Contact>
+                    </contactInfo>
+                    <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+                    </role>
+                </CI_ResponsibleParty>
+            </pointOfContact>
+            <resourceMaintenance>
+                <MD_MaintenanceInformation>
+                    <maintenanceAndUpdateFrequency>
+                        <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="annually" codeSpace="ISOTC211/19115">annually</MD_MaintenanceFrequencyCode>
+                    </maintenanceAndUpdateFrequency>
+                </MD_MaintenanceInformation>
+            </resourceMaintenance>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>World</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>1993-2008</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>1994</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2007-2013</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2013-2014</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>1993-2008</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>1994</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2007-2013</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2013-2014</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>1993-2008</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>1994</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2007-2013</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2013-2014</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>1993-2008</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>1994</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2007-2013</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2013-2014</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>1993-2008</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>1994</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2007-2013</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2013-2014</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>countries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>ISO codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FIPS codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>capitals</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>international boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>coastlines</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>society</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>countries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>ISO codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FIPS codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>capitals</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>international boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>coastlines</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>society</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>countries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>ISO codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FIPS codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>capitals</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>international boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>coastlines</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>society</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>countries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>ISO codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FIPS codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>capitals</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>international boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>coastlines</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>society</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>countries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>ISO codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FIPS codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>capitals</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>international boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>coastlines</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>society</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>countries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>ISO codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FIPS codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>capitals</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>international boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>coastlines</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>society</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>countries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>ISO codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FIPS codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>capitals</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>international boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>coastlines</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>society</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>countries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>ISO codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FIPS codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>capitals</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>international boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>coastlines</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>society</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>countries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>ISO codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FIPS codes</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>capitals</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>international boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>coastlines</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>society</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Downloadable Data</gco:CharacterString>
+                    </keyword>
+                    <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString> This work is licensed under the Esri Master License Agreement.View Summary | View Terms of Use</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <accessConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license" codeSpace="ISOTC211/19115">license</MD_RestrictionCode>
+                    </accessConstraints>
+                    <useConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </useConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>The data are provided by multiple, third party data vendors under license to Esri for inclusion on Data and Maps for ArcGIS® for use with Esri® software. Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on Data and Maps. As used herein, “Geodata” shall mean any digital data set consisting of geographic data coordinates and associated attributes. 
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s). 
+
+The terms and conditions below apply to all the data sets provided on Data and Maps. 
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of Esri and its licensor(s). The Data and Related Materials are owned by Esri and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions. 
+
+Limited Warranty and Disclaimer: Esri warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt. 
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA. 
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES. 
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE. 
+
+Exclusive Remedy and Limitation of Liability: The entire liability of Esri or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to Esri with a copy of Licensee's invoice/receipt and Esri returning the license fees paid to Licensee. 
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY. 
+
+Third Party Beneficiary: Esri's licensor(s) has (have) authorized Esri to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the Esri licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to Esri. 
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, Esri has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.
+</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <spatialRepresentationType>
+                <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+            </spatialRepresentationType>
+            <language>
+                <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+            </language>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <topicCategory>
+                <MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+            </topicCategory>
+            <topicCategory>
+                <MD_TopicCategoryCode>society</MD_TopicCategoryCode>
+            </topicCategory>
+            <environmentDescription>
+                <gco:CharacterString>Esri ArcGIS 10.7.1.11595</gco:CharacterString>
+            </environmentDescription>
+            <extent>
+                <EX_Extent>
+                    <description>
+                        <gco:CharacterString>publication date: all dates but; ground condition: 1994</gco:CharacterString>
+                    </description>
+                    <temporalElement>
+                        <EX_TemporalExtent>
+                            <extent>
+                                <gml:TimeInstant gml:id="N66834">
+                                    <gml:timePosition>1994-01-01T00:00:00</gml:timePosition>
+                                </gml:TimeInstant>
+                            </extent>
+                        </EX_TemporalExtent>
+                    </temporalElement>
+                    <temporalElement>
+                        <EX_TemporalExtent>
+                            <extent>
+                                <gml:TimeInstant gml:id="N66885">
+                                    <gml:timePosition>2019-11-01T00:00:00</gml:timePosition>
+                                </gml:TimeInstant>
+                            </extent>
+                        </EX_TemporalExtent>
+                    </temporalElement>
+                    <temporalElement>
+                        <EX_TemporalExtent>
+                            <extent>
+                                <gml:TimePeriod gml:id="N66816">
+                                    <gml:beginPosition>1993-12-01T00:00:00</gml:beginPosition>
+                                    <gml:endPosition>2008-03-01T00:00:00</gml:endPosition>
+                                </gml:TimePeriod>
+                            </extent>
+                        </EX_TemporalExtent>
+                    </temporalElement>
+                    <temporalElement>
+                        <EX_TemporalExtent>
+                            <extent>
+                                <gml:TimePeriod gml:id="N66849">
+                                    <gml:beginPosition>2007-12-15T00:00:00</gml:beginPosition>
+                                    <gml:endPosition>2013-04-01T00:00:00</gml:endPosition>
+                                </gml:TimePeriod>
+                            </extent>
+                        </EX_TemporalExtent>
+                    </temporalElement>
+                    <temporalElement>
+                        <EX_TemporalExtent>
+                            <extent>
+                                <gml:TimePeriod gml:id="N66867">
+                                    <gml:beginPosition>2013-06-01T00:00:00</gml:beginPosition>
+                                    <gml:endPosition>2014-07-01T00:00:00</gml:endPosition>
+                                </gml:TimePeriod>
+                            </extent>
+                        </EX_TemporalExtent>
+                    </temporalElement>
+                </EX_Extent>
+            </extent>
+            <extent>
+                <EX_Extent>
+                    <geographicElement>
+                        <EX_GeographicBoundingBox>
+                            <extentTypeCode>
+                                <gco:Boolean>true</gco:Boolean>
+                            </extentTypeCode>
+                            <westBoundLongitude>
+                                <gco:Decimal>-180</gco:Decimal>
+                            </westBoundLongitude>
+                            <eastBoundLongitude>
+                                <gco:Decimal>180</gco:Decimal>
+                            </eastBoundLongitude>
+                            <southBoundLatitude>
+                                <gco:Decimal>-90</gco:Decimal>
+                            </southBoundLatitude>
+                            <northBoundLatitude>
+                                <gco:Decimal>83.6236</gco:Decimal>
+                            </northBoundLatitude>
+                        </EX_GeographicBoundingBox>
+                    </geographicElement>
+                </EX_Extent>
+            </extent>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <distributionFormat>
+                <MD_Format>
+                    <name>
+                        <gco:CharacterString>File Geodatabase Feature Class</gco:CharacterString>
+                    </name>
+                    <version gco:nilReason="missing"/>
+                </MD_Format>
+            </distributionFormat>
+            <distributionFormat>
+                <MD_Format>
+                    <name>
+                        <gco:CharacterString>File Geodatabase Feature Class</gco:CharacterString>
+                    </name>
+                    <version gco:nilReason="missing"/>
+                    <fileDecompressionTechnique>
+                        <gco:CharacterString>ArcGIS® software</gco:CharacterString>
+                    </fileDecompressionTechnique>
+                </MD_Format>
+            </distributionFormat>
+            <distributor>
+                <MD_Distributor>
+                    <distributorContact>
+                        <CI_ResponsibleParty>
+                            <organisationName>
+                                <gco:CharacterString>Esri; Esri Offices</gco:CharacterString>
+                            </organisationName>
+                            <contactInfo>
+                                <CI_Contact>
+                                    <phone>
+                                        <CI_Telephone>
+                                            <voice>
+                                                <gco:CharacterString>800-447-9778</gco:CharacterString>
+                                            </voice>
+                                        </CI_Telephone>
+                                    </phone>
+                                    <address>
+                                        <CI_Address>
+                                            <deliveryPoint>
+                                                <gco:CharacterString>380 New York Street</gco:CharacterString>
+                                            </deliveryPoint>
+                                            <city>
+                                                <gco:CharacterString>Redlands</gco:CharacterString>
+                                            </city>
+                                            <administrativeArea>
+                                                <gco:CharacterString>California</gco:CharacterString>
+                                            </administrativeArea>
+                                            <postalCode>
+                                                <gco:CharacterString>92373-8100</gco:CharacterString>
+                                            </postalCode>
+                                            <country>
+                                                <Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+                                            </country>
+                                        </CI_Address>
+                                    </address>
+                                    <contactInstructions>
+                                        <gco:CharacterString>In the United States, contact the Esri Sales staff at 800-447-9778 or visit https://www.esri.com/en-us/contact#c=us&amp;t=1 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local Esri Office. This information can be found at http://www.esri.com/about-esri/offices.</gco:CharacterString>
+                                    </contactInstructions>
+                                </CI_Contact>
+                            </contactInfo>
+                            <role>
+                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+                            </role>
+                        </CI_ResponsibleParty>
+                    </distributorContact>
+                    <distributionOrderProcess>
+                        <MD_StandardOrderProcess>
+                            <fees>
+                                <gco:CharacterString>Software purchase price</gco:CharacterString>
+                            </fees>
+                            <orderingInstructions>
+                                <gco:CharacterString>Data and Maps is available only as part of Esri® software.</gco:CharacterString>
+                            </orderingInstructions>
+                        </MD_StandardOrderProcess>
+                    </distributionOrderProcess>
+                </MD_Distributor>
+            </distributor>
+            <transferOptions>
+                <MD_DigitalTransferOptions>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>http://www.arcgis.com/home/group.html?id=24838c2d95e14dd18c25e9bad55a7f82#overview</URL>
+                            </linkage>
+                            <protocol gco:nilReason="missing"/>
+                            <name>
+                                <gco:CharacterString>Esri Data &amp; Maps group</gco:CharacterString>
+                            </name>
+                            <description>
+                                <gco:CharacterString>Downloadable Data</gco:CharacterString>
+                            </description>
+                        </CI_OnlineResource>
+                    </onLine>
+                </MD_DigitalTransferOptions>
+            </transferOptions>
+            <transferOptions>
+                <MD_DigitalTransferOptions>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>https://my.esri.com</URL>
+                            </linkage>
+                            <protocol gco:nilReason="missing"/>
+                            <name>
+                                <gco:CharacterString>My Esri</gco:CharacterString>
+                            </name>
+                            <description>
+                                <gco:CharacterString>Downloadable Data</gco:CharacterString>
+                            </description>
+                        </CI_OnlineResource>
+                    </onLine>
+                    <offLine>
+                        <MD_Medium>
+                            <name>
+                                <MD_MediumNameCode codeList="http://www.fgdc.gov/nap/metadata/register/codelists.html#napMD_MediumNameCode" codeListValue="USBFlashDrive" codeSpace="ISOTC211/19139/NAP">USBFlashDrive</MD_MediumNameCode>
+                            </name>
+                            <densityUnits>
+                                <gco:CharacterString>GB (gigabytes)</gco:CharacterString>
+                            </densityUnits>
+                            <mediumFormat>
+                                <MD_MediumFormatCode codeList="http://www.fgdc.gov/nap/metadata/register/codelists.html#napMD_MediumFormatCode" codeListValue="UDF" codeSpace="ISOTC211/19139/NAP">UDF</MD_MediumFormatCode>
+                            </mediumFormat>
+                            <mediumNote>
+                                <gco:CharacterString>Offline Data</gco:CharacterString>
+                            </mediumNote>
+                        </MD_Medium>
+                    </offLine>
+                </MD_DigitalTransferOptions>
+            </transferOptions>
+        </MD_Distribution>
+    </distributionInfo>
+    <dataQualityInfo>
+        <DQ_DataQuality>
+            <scope>
+                <DQ_Scope>
+                    <level>
+                        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+                    </level>
+                </DQ_Scope>
+            </scope>
+            <report>
+                <DQ_TopologicalConsistency>
+                    <evaluationMethodDescription>
+                        <gco:CharacterString>The dataset is converted to file geodatabase (FGDB) format using tools in ArcGIS. The geometry is checked, and if needed repaired. The dataset was created directly from a topologically correct ArcInfo® coverage.</gco:CharacterString>
+                    </evaluationMethodDescription>
+                    <result gco:nilReason="missing"/>
+                </DQ_TopologicalConsistency>
+            </report>
+            <report>
+                <DQ_ConceptualConsistency>
+                    <measureDescription>
+                        <gco:CharacterString>The dataset is converted to file geodatabase (FGDB) format using tools in ArcGIS. The geometry is checked, and if needed repaired. The dataset was created directly from a topologically correct ArcInfo® coverage.</gco:CharacterString>
+                    </measureDescription>
+                    <result gco:nilReason="missing"/>
+                </DQ_ConceptualConsistency>
+            </report>
+            <report>
+                <DQ_CompletenessOmission>
+                    <measureDescription>
+                        <gco:CharacterString>After processing, the dataset is checked for drawing display and number of records and file sizes compared with source materials.</gco:CharacterString>
+                    </measureDescription>
+                    <result gco:nilReason="missing"/>
+                </DQ_CompletenessOmission>
+            </report>
+            <report>
+                <DQ_AbsoluteExternalPositionalAccuracy>
+                    <measureDescription>
+                        <gco:CharacterString>The geospatial part of this dataset was originally extracted from the ArcWorld Supplement database and then generalized (tolerance unknown). The positional accuracy is unknown.</gco:CharacterString>
+                    </measureDescription>
+                    <result gco:nilReason="missing"/>
+                </DQ_AbsoluteExternalPositionalAccuracy>
+            </report>
+            <lineage>
+                <LI_Lineage>
+                    <processStep>
+                        <LI_ProcessStep>
+                            <description>
+                                <gco:CharacterString>The following steps were performed by Esri: Started with the Data &amp; Maps 10 World Countries dataset keeping only the CNTRY_NAME field as Country. Referenced the Data &amp; Maps for ArcGIS 2013 World Countries dataset to make the country names match the 2013 data, to manually add the Sudan / South Sudan boundary, and to add polygons for Saint Eustatius, Saba, Saint Barthelemy, Sint Maarten, and Saint Martin. Added the fields ISO, COUNTRYAFF, and AFF_ISO from the 2013 World Countries data. Converted the dataset into a file geodatabase.</gco:CharacterString>
+                            </description>
+                            <dateTime>
+                                <gco:DateTime>2013-10-02T00:00:00</gco:DateTime>
+                            </dateTime>
+                        </LI_ProcessStep>
+                    </processStep>
+                    <processStep>
+                        <LI_ProcessStep>
+                            <description>
+                                <gco:CharacterString>The following steps were performed by Esri: Copied the dataset from Data and Maps 2014 World Countries (Generalized). Added all Data and Maps 2014 Update World Countries fields except LAND_TYPE and LAND_RANK. Deleted fields as needed.</gco:CharacterString>
+                            </description>
+                            <dateTime>
+                                <gco:DateTime>2015-02-26T00:00:00</gco:DateTime>
+                            </dateTime>
+                        </LI_ProcessStep>
+                    </processStep>
+                    <processStep>
+                        <LI_ProcessStep>
+                            <description>
+                                <gco:CharacterString>The following steps were performed by Esri: Renamed the countries, including all their associated name fields, from “The Former Yugoslav Republic of Macedonia” to “North Macedonia” and “Swaziland” to “Eswatini”.</gco:CharacterString>
+                            </description>
+                            <dateTime>
+                                <gco:DateTime>2019-11-25T00:00:00</gco:DateTime>
+                            </dateTime>
+                        </LI_ProcessStep>
+                    </processStep>
+                    <source>
+                        <LI_Source>
+                            <description>
+                                <gco:CharacterString>Attribute and geospatial data</gco:CharacterString>
+                            </description>
+                            <scaleDenominator>
+                                <MD_RepresentativeFraction>
+                                    <denominator>
+                                        <gco:Integer>15000000</gco:Integer>
+                                    </denominator>
+                                </MD_RepresentativeFraction>
+                            </scaleDenominator>
+                            <sourceCitation>
+                                <CI_Citation>
+                                    <title>
+                                        <gco:CharacterString>World Countries</gco:CharacterString>
+                                    </title>
+                                    <date>
+                                        <CI_Date>
+                                            <date>
+                                                <gco:Date>2010-06-30</gco:Date>
+                                            </date>
+                                            <dateType>
+                                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                                            </dateType>
+                                        </CI_Date>
+                                    </date>
+                                    <edition>
+                                        <gco:CharacterString>10</gco:CharacterString>
+                                    </edition>
+                                    <citedResponsibleParty>
+                                        <CI_ResponsibleParty>
+                                            <organisationName>
+                                                <gco:CharacterString>Esri</gco:CharacterString>
+                                            </organisationName>
+                                            <contactInfo gco:nilReason="missing"/>
+                                            <role>
+                                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                                            </role>
+                                        </CI_ResponsibleParty>
+                                    </citedResponsibleParty>
+                                    <citedResponsibleParty>
+                                        <CI_ResponsibleParty>
+                                            <organisationName>
+                                                <gco:CharacterString>Esri</gco:CharacterString>
+                                            </organisationName>
+                                            <contactInfo>
+                                                <CI_Contact>
+                                                    <address>
+                                                        <CI_Address>
+                                                            <city>
+                                                                <gco:CharacterString>Redlands</gco:CharacterString>
+                                                            </city>
+                                                            <administrativeArea>
+                                                                <gco:CharacterString>California</gco:CharacterString>
+                                                            </administrativeArea>
+                                                            <country>
+                                                                <Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+                                                            </country>
+                                                        </CI_Address>
+                                                    </address>
+                                                    <onlineResource>
+                                                        <CI_OnlineResource>
+                                                            <linkage>
+                                                                <URL>https://www.esri.com/</URL>
+                                                            </linkage>
+                                                            <protocol gco:nilReason="missing"/>
+                                                        </CI_OnlineResource>
+                                                    </onlineResource>
+                                                </CI_Contact>
+                                            </contactInfo>
+                                            <role>
+                                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                                            </role>
+                                        </CI_ResponsibleParty>
+                                    </citedResponsibleParty>
+                                    <presentationForm>
+                                        <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+                                    </presentationForm>
+                                    <series>
+                                        <CI_Series>
+                                            <name>
+                                                <gco:CharacterString>Esri® Data &amp; Maps</gco:CharacterString>
+                                            </name>
+                                            <issueIdentification>
+                                                <gco:CharacterString>10 - World, Europe, and United States</gco:CharacterString>
+                                            </issueIdentification>
+                                        </CI_Series>
+                                    </series>
+                                </CI_Citation>
+                            </sourceCitation>
+                            <sourceExtent>
+                                <EX_Extent>
+                                    <description>
+                                        <gco:CharacterString>publication date: all dates but; ground condition: 1994</gco:CharacterString>
+                                    </description>
+                                    <temporalElement>
+                                        <EX_TemporalExtent>
+                                            <extent>
+                                                <gml:TimeInstant gml:id="N67135">
+                                                    <gml:timePosition>1994-01-01T00:00:00</gml:timePosition>
+                                                </gml:TimeInstant>
+                                            </extent>
+                                        </EX_TemporalExtent>
+                                    </temporalElement>
+                                    <temporalElement>
+                                        <EX_TemporalExtent>
+                                            <extent>
+                                                <gml:TimePeriod gml:id="N67117">
+                                                    <gml:beginPosition>1993-12-01T00:00:00</gml:beginPosition>
+                                                    <gml:endPosition>2008-03-01T00:00:00</gml:endPosition>
+                                                </gml:TimePeriod>
+                                            </extent>
+                                        </EX_TemporalExtent>
+                                    </temporalElement>
+                                </EX_Extent>
+                            </sourceExtent>
+                        </LI_Source>
+                    </source>
+                    <source>
+                        <LI_Source>
+                            <description>
+                                <gco:CharacterString>Attribute and geospatial data</gco:CharacterString>
+                            </description>
+                            <scaleDenominator>
+                                <MD_RepresentativeFraction>
+                                    <denominator>
+                                        <gco:Integer>1000000</gco:Integer>
+                                    </denominator>
+                                </MD_RepresentativeFraction>
+                            </scaleDenominator>
+                            <sourceCitation>
+                                <CI_Citation>
+                                    <title>
+                                        <gco:CharacterString>World Countries</gco:CharacterString>
+                                    </title>
+                                    <date>
+                                        <CI_Date>
+                                            <date>
+                                                <gco:Date>2015-03-15</gco:Date>
+                                            </date>
+                                            <dateType>
+                                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                                            </dateType>
+                                        </CI_Date>
+                                    </date>
+                                    <edition>
+                                        <gco:CharacterString>2013; 2014 Update</gco:CharacterString>
+                                    </edition>
+                                    <citedResponsibleParty>
+                                        <CI_ResponsibleParty>
+                                            <organisationName>
+                                                <gco:CharacterString>Garmin International, Inc.</gco:CharacterString>
+                                            </organisationName>
+                                            <contactInfo gco:nilReason="missing"/>
+                                            <role>
+                                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                                            </role>
+                                        </CI_ResponsibleParty>
+                                    </citedResponsibleParty>
+                                    <citedResponsibleParty>
+                                        <CI_ResponsibleParty>
+                                            <organisationName>
+                                                <gco:CharacterString>Esri</gco:CharacterString>
+                                            </organisationName>
+                                            <contactInfo gco:nilReason="missing"/>
+                                            <role>
+                                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                                            </role>
+                                        </CI_ResponsibleParty>
+                                    </citedResponsibleParty>
+                                    <citedResponsibleParty>
+                                        <CI_ResponsibleParty>
+                                            <organisationName>
+                                                <gco:CharacterString>Esri</gco:CharacterString>
+                                            </organisationName>
+                                            <contactInfo>
+                                                <CI_Contact>
+                                                    <address>
+                                                        <CI_Address>
+                                                            <city>
+                                                                <gco:CharacterString>Redlands</gco:CharacterString>
+                                                            </city>
+                                                            <administrativeArea>
+                                                                <gco:CharacterString>California</gco:CharacterString>
+                                                            </administrativeArea>
+                                                            <country>
+                                                                <Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+                                                            </country>
+                                                        </CI_Address>
+                                                    </address>
+                                                    <onlineResource>
+                                                        <CI_OnlineResource>
+                                                            <linkage>
+                                                                <URL>https://www.esri.com/</URL>
+                                                            </linkage>
+                                                            <protocol gco:nilReason="missing"/>
+                                                        </CI_OnlineResource>
+                                                    </onlineResource>
+                                                </CI_Contact>
+                                            </contactInfo>
+                                            <role>
+                                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                                            </role>
+                                        </CI_ResponsibleParty>
+                                    </citedResponsibleParty>
+                                    <presentationForm>
+                                        <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+                                    </presentationForm>
+                                    <series>
+                                        <CI_Series>
+                                            <name>
+                                                <gco:CharacterString>Data &amp; Maps for ArcGIS®</gco:CharacterString>
+                                            </name>
+                                            <issueIdentification>
+                                                <gco:CharacterString>2013 - World, Europe, and United States; 2014 Update - World, Europe, and United States</gco:CharacterString>
+                                            </issueIdentification>
+                                        </CI_Series>
+                                    </series>
+                                </CI_Citation>
+                            </sourceCitation>
+                            <sourceExtent>
+                                <EX_Extent>
+                                    <description>
+                                        <gco:CharacterString>publication date</gco:CharacterString>
+                                    </description>
+                                    <temporalElement>
+                                        <EX_TemporalExtent>
+                                            <extent>
+                                                <gml:TimePeriod gml:id="N67266">
+                                                    <gml:beginPosition>2007-12-15T00:00:00</gml:beginPosition>
+                                                    <gml:endPosition>2013-04-01T00:00:00</gml:endPosition>
+                                                </gml:TimePeriod>
+                                            </extent>
+                                        </EX_TemporalExtent>
+                                    </temporalElement>
+                                    <temporalElement>
+                                        <EX_TemporalExtent>
+                                            <extent>
+                                                <gml:TimePeriod gml:id="N67284">
+                                                    <gml:beginPosition>2013-06-01T00:00:00</gml:beginPosition>
+                                                    <gml:endPosition>2014-07-01T00:00:00</gml:endPosition>
+                                                </gml:TimePeriod>
+                                            </extent>
+                                        </EX_TemporalExtent>
+                                    </temporalElement>
+                                </EX_Extent>
+                            </sourceExtent>
+                        </LI_Source>
+                    </source>
+                    <source>
+                        <LI_Source>
+                            <description>
+                                <gco:CharacterString>Attribute and geospatial data</gco:CharacterString>
+                            </description>
+                            <sourceCitation>
+                                <CI_Citation>
+                                    <title>
+                                        <gco:CharacterString>The World Factbook (online)</gco:CharacterString>
+                                    </title>
+                                    <alternateTitle>
+                                        <gco:CharacterString>The World Factbook</gco:CharacterString>
+                                    </alternateTitle>
+                                    <date>
+                                        <CI_Date>
+                                            <date>
+                                                <gco:Date>2019-11-01</gco:Date>
+                                            </date>
+                                            <dateType>
+                                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                                            </dateType>
+                                        </CI_Date>
+                                    </date>
+                                    <citedResponsibleParty>
+                                        <CI_ResponsibleParty>
+                                            <organisationName>
+                                                <gco:CharacterString>U.S. Central Intelligence Agency</gco:CharacterString>
+                                            </organisationName>
+                                            <contactInfo>
+                                                <CI_Contact>
+                                                    <address>
+                                                        <CI_Address>
+                                                            <deliveryPoint>
+                                                                <gco:CharacterString>Washington, DC, USA</gco:CharacterString>
+                                                            </deliveryPoint>
+                                                        </CI_Address>
+                                                    </address>
+                                                </CI_Contact>
+                                            </contactInfo>
+                                            <role>
+                                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                                            </role>
+                                        </CI_ResponsibleParty>
+                                    </citedResponsibleParty>
+                                    <citedResponsibleParty>
+                                        <CI_ResponsibleParty>
+                                            <organisationName>
+                                                <gco:CharacterString>U.S. Central Intelligence Agency</gco:CharacterString>
+                                            </organisationName>
+                                            <contactInfo gco:nilReason="missing"/>
+                                            <role>
+                                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                                            </role>
+                                        </CI_ResponsibleParty>
+                                    </citedResponsibleParty>
+                                    <presentationForm>
+                                        <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="documentDigital" codeSpace="ISOTC211/19115">documentDigital</CI_PresentationFormCode>
+                                    </presentationForm>
+                                    <otherCitationDetails>
+                                        <gco:CharacterString>The online Factbook is updated weekly.</gco:CharacterString>
+                                    </otherCitationDetails>
+                                </CI_Citation>
+                            </sourceCitation>
+                            <sourceExtent>
+                                <EX_Extent>
+                                    <description>
+                                        <gco:CharacterString>publication date</gco:CharacterString>
+                                    </description>
+                                    <temporalElement>
+                                        <EX_TemporalExtent>
+                                            <extent>
+                                                <gml:TimeInstant gml:id="N67388">
+                                                    <gml:timePosition>2019-11-01T00:00:00</gml:timePosition>
+                                                </gml:TimeInstant>
+                                            </extent>
+                                        </EX_TemporalExtent>
+                                    </temporalElement>
+                                </EX_Extent>
+                            </sourceExtent>
+                        </LI_Source>
+                    </source>
+                </LI_Lineage>
+            </lineage>
+        </DQ_DataQuality>
+    </dataQualityInfo>
+</MD_Metadata>
