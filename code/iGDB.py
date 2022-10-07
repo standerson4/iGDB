@@ -19,6 +19,7 @@ import Processing_RIPETraceroutes
 import Processing_Submarine
 import Processing_Voronoi
 import Creating_Database
+import Creating_OrgKML
 import Querying_Database
 import Plotting_ASNLocs
 import Plotting_ShortestPath
@@ -38,6 +39,8 @@ class iGDB:
         self.hull_choice = False
         self.buffer_choice = False
         self.graph_shortest_path = False
+        self.create_kml = False
+        self.organization = ""
         self.start_loc = ""
         self.end_loc = ""
         self.valid_remote_locations = ["asrank", "euroix", "pch", "pdb", "he",
@@ -47,39 +50,30 @@ class iGDB:
         self.database_path = Path("../database")
         self.plot_path = Path("../plots")
         self.helper_path = Path("../helper_data")
-        # we use the PDB fac ID for PDB nodes, but start here for Atlas and Topology Zoo
-        # this is just a big number larger than the number of nodes in PDB
-        #self.next_node_id = 100000
-        #self.next_edge_id = 1
-        # we use the PDB org ID for those orgs, but start here for Atlas and Topology Zoo
-        # this is just a big number larger than the number of org IDs in PDB
-        #self.next_org_id = 100000 
-        #self.next_asn_link_id = 1
-        #self.next_location_id = 1
-        #self.next_caida_ixp_map_id = 1
-        #self.next_city_asn_id = 1
         for a in cli_args:
-            if "-h" in a or "--help" in a:
+            if a == "-h" or "--help" in a:
                 self.print_help = True
                 break
-            if "-c" in a or "--create" in a:
+            if a == "-c" or "--create_db" in a:
                 self.create_db = True
-            elif "-p" in a or "--process" in a:
+            elif a == "-p" or "--process" in a:
                 self.process_data = True
-            elif "-u" in a or "--update" in a:
+            elif a == "-u" or "--update" in a:
                 self.update_db = True
-            elif "-q" in a or "--query" in a:
+            elif a == "-q" or "--query" in a:
                 self.query_db = True
             elif a == "-ga" or a == "--graph-asn":
                 self.graph_asn = True
-            elif "-gab" in a or "--graph-asn-buffer" in a:
+            elif a == "-gab" or "--graph-asn-buffer" in a:
                 self.graph_asn = True
                 self.buffer_choice = True
-            elif "-gac" in a or "--graph-asn-convex-hull" in a:
+            elif a == "-gac" or "--graph-asn-convex-hull" in a:
                 self.graph_asn = True
                 self.hull_choice = True
-            elif "-gs" in a or "--graph-shortest-path" in a:
+            elif a == "-gs" or "--graph-shortest-path" in a:
                 self.graph_shortest_path = True
+            elif a == "-k" or "--create_kml" in a:
+                self.create_kml = True
             elif self.update_db and self.update_location == "":
                 if a.lower() in self.valid_remote_locations:
                     self.update_location = a.lower()
@@ -99,6 +93,8 @@ class iGDB:
                 self.start_loc = a
             elif self.graph_shortest_path and self.end_loc == "":
                 self.end_loc = a
+            elif self.create_kml and self.organization == "":
+                self.organization = a
 
         if self.update_db and self.update_location == "":
             self.update_db = False
@@ -117,6 +113,10 @@ class iGDB:
             self.graph_shortest_path = False
             print(f"Please specify starting and ending locations to graph.")
 
+        if self.create_kml and self.organization == "":
+            self.create_kml = False
+            print(f"Please specify an organization.")
+
     def run_steps(self):
         if self.print_help:
             self.print_help_func()
@@ -133,6 +133,8 @@ class iGDB:
             self.plot_asn_locations()
         elif self.graph_shortest_path:
             self.plot_shortest_physical_path()
+        elif self.create_kml:
+            self.create_org_kml()
         else:
             self.print_help_func()
 
@@ -152,7 +154,7 @@ class iGDB:
         print("\nOPTIONS")
         print("\t-h or --help")
         print("\t\tprints this help menu")
-        print("\t-c or --create <name> ")
+        print("\t-c or --create_db <name> ")
         print("\t\tcreates a new database from local files.")
         print("\t\t<name> is the filename, created in the default location.")
         print("\t\tNOTE: Unformatted data must be processed with '-p' before this can be run.")
@@ -165,9 +167,14 @@ class iGDB:
         print('\t-gs or --graph-shortest-path "<START_CITY,START_STATE,START_COUNTRY>" ',end='')
         print('"<END_CITY,END_STATE,END_COUNTRY>"')
         print("\t\tplot the shortest inferred physical fiber between the specified cities on a map.")
+        print("\t-k or --create_kml <ORGANIZATION>")
+        print("\t\tcreate a KML file with the <ORGANIZATION> nodes and edges.")
         print("\t-p or --process")
         print("\t\tconverts unformatted local data files ", end='')
         print("into a format that can be added to the database")
+        print("\t-q or --query <sql>")
+        print("\t\texecutes a query of the iGIS database.")
+        print("\t\t<sql> should be a valid SQL query")
         print("\t-u or --update <location>")
         print("\t\tqueries remote <location> ", end='')
         print("for updates to the local unprocessed information.")
@@ -176,9 +183,6 @@ class iGDB:
             loc_string += f"'{loc}', "
         loc_string = loc_string[:-2]
         print(f"\t\t<location> must be one of: {loc_string}")
-        print("\t-q or --query <sql>")
-        print("\t\texecutes a query of the iGIS database.")
-        print("\t\t<sql> should be a valid SQL query")
         print("\nREQUIREMENTS")
         print("\tThe utility is written for python 3.8 and requires these packages ", end='')
         print("(listed in requirements.txt):")
@@ -314,6 +318,14 @@ class iGDB:
 
         my_plotter = Plotting_ShortestPath.PlottingShortestPath(db_file, self.start_loc, self.end_loc, self.plot_path)
         my_plotter.plot()
+
+    def create_org_kml(self):
+        db_file = None
+        for f in os.listdir(self.database_path):
+            db_file = self.database_path / f
+
+        my_creator = Creating_OrgKML.CreatingOrgKML(db_file, self.organization, self.plot_path)
+        my_creator.create_kml()
 
 if __name__ == "__main__":
     my_igdb = iGDB(sys.argv)

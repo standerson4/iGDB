@@ -100,6 +100,13 @@ sql_create_nodes_table = """ CREATE TABLE IF NOT EXISTS phys_nodes(
                                         asof_date date
                                     ); """
 
+sql_create_nodes_conn_table = """ CREATE TABLE IF NOT EXISTS phys_nodes_conn(
+                                        from_node text,
+                                        to_node text,
+                                        source text,
+                                        asof_date date
+                                    ); """
+
 sql_create_standard_paths_table = """ CREATE TABLE IF NOT EXISTS standard_paths(
                                         from_city text,
                                         from_state text,
@@ -156,6 +163,7 @@ tables = {
         'asn_org':sql_create_asn_org_table,
         'asn_conn':sql_create_asn_conn_table,
         'phys_nodes':sql_create_nodes_table,
+        'phys_nodes_conn':sql_create_nodes_conn_table,
         'standard_paths':sql_create_standard_paths_table,
         'submarine_cables':sql_create_submarine_cables_table,
         'landing_points':sql_create_landing_points_table,
