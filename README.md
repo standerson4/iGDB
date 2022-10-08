@@ -13,22 +13,24 @@ Please cite the manuscript when using iGDB to enable future research. Please ref
 * Collect (update) raw Internet topology data
 * Process raw Internet topology data into csv files that can be loaded into a database
 * Create a database of physical and logical Internet topology information
-* Query the database (example query listed below)
+* Query the database (example queries listed below)
+* Enable analysis of physical and logical Internet topology information
 
 ## Quickstart
 * iGDB is written in Python3 (version 3.8 or higher).
+* iGDB dependencies are listed in *code/requirements.txt*.
 * The entry point for all tasks is code/iGDB.py
 * Run all code from the *code* directory.
 * From the *code* directory, run *python3 iGDB.py* to display a complete help menu.
 * Existing processed data is included in the repo.
 	- You may create a new version of the DB from the existing processed data, by running *python3 iGDB.py -c database_name.db*
-	- You may query the DB after creating it from the processed data, by running *python3 iGDB.py -q "<SQL QUERY>"*
+	- You may query the DB after creating it from the processed data, by running *python3 iGDB.py -q "SQL QUERY"*
 * All of the unprocessed data is included in the .gitignore file and therefore NOT in the repo.
 	- Therefore, you may run the script in this order to locally collect the raw data:
-	- iGDB.py -u <LOCATION>
-	- iGDB.py -p
-	- iGDB.py -c database_name.db
-	- iGDB.py -q "SELECT * FROM asn_loc LIMIT 10;"
+	- python3 iGDB.py -u LOCATION
+	- python3 iGDB.py -p
+	- python3 iGDB.py -c database_name.db
+	- python3 iGDB.py -q "SELECT * FROM asn_loc LIMIT 10;"
 * The SQLite database is created in the *database* folder and may be viewed using your database viewer of choice.
 * The SQLite database may be dumped and loaded into a PostgreSQL spatial database for use with a Geographic Information System (GIS), such as ArcGIS.
   - All visualizations in the manuscript were created using ArcGIS.
@@ -37,5 +39,5 @@ Please cite the manuscript when using iGDB to enable future research. Please ref
 ## Example SQL queries
 * To determine the number of ASNs in Atlanta, GA:
   - python3 iGDB.py -q 'SELECT COUNT(\*) FROM asn_loc al WHERE al.standard_city == "Atlanta" AND al.standard_state == "Georgia" AND al.source == "PeeringDB";'
-* To determine the location, ASN, and RDNS of an IP address:
+* To determine the RDNS, ASN, and location of an IP address:
   - python3 iGDB.py -q 'SELECT iad.ip_addr, iad.rdns, iad.asn, c.city_name, c.state_province, c.country_code, c.city_latitude, c.city_longitude FROM ip_asn_dns iad, city_points c WHERE iad.ip_addr == "37.49.232.7" AND c.city_name == iad.standard_city AND c.state_province == iad.standard_state AND c.country_code == iad.standard_country;'
