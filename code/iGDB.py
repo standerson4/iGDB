@@ -297,7 +297,7 @@ class iGDB:
         my_querier = Querying_Database.queryDatabase(self.database_path / f_name)
         my_results = my_querier.execute_query(self.query_string)
         # uncomment to print the results of the query
-        #print(f"{my_results}")
+        print(f"{my_results}")
         return my_results
 
     def plot_asn_locations(self):
