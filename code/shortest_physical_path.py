@@ -28,6 +28,9 @@ def find_shortest_path(db_file, start_city, start_state, start_country, end_city
 
     # Add edges (connections) to the graph
     for connection in connections:
+        if connection[0] not in G.nodes or connection[1] not in G.nodes:
+            # print('Bad connection: ', connection, file=sys.stderr)
+            continue
         G.add_edge(connection[0], connection[1])
         # assume symmetric connections
         G.add_edge(connection[1], connection[0])
