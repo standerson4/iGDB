@@ -44,13 +44,13 @@ def is_city_valid(city):
         query = f"SELECT * FROM city_points WHERE city_name='{parts[0].strip()}' AND country_code='{parts[1].strip()}';"
     else:
         print("Please specify a city/country or city/state/country", file=sys.stderr)
-        return False, ""
+        return False
 
     # Verify the city is in the DB
     results = global_querier.execute_query(query)
     if len(results) == 0:
         print(f"{city} not found in the database.", file=sys.stderr)
-        return False, ""
+        return False
     if len(results) > 1:
         print("Encountered multiple entries for the city in the database.",
               file=sys.stderr)
@@ -58,7 +58,7 @@ def is_city_valid(city):
         print("Matching cities:", file=sys.stderr)
         for r in results:
             print(f"\t{r[0]}, {r[1]}, {r[2]}", file=sys.stderr)
-        return False, ""
+        return False
     if len(results) == 1:
         # Construct the full city representation from results if not specified by user
         city = f"{results[0][0]},{results[0][1]},{results[0][2]}"
@@ -71,10 +71,7 @@ def are_cities_valid(src, dst):
         return False
 
     # Validate the source city
-    if (is_city_valid(src) and is_city_valid(dst)):
-        return True
-
-    return False
+    return (is_city_valid(src) and is_city_valid(dst))
 
 
 def query_db_for_nodes():
